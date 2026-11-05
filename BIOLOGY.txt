@@ -1,0 +1,1751 @@
+File name: BIOLOGY.txt
+Language: 
+Held on: 04-Feb-2026 | Shift: 3
+
+Q.41 In humans, regulation of body temperature is mainly controlled by the _______ located in the _______.
+ A. Hypothalamus, forebrain
+ B. Cerebellum, hindbrain
+ C. Medulla, midbrain
+ D. Pons, hindbrain
+ (Topic: Human Nervous System)
+
+Held on: 05-Feb-2026 | Shift: 1
+
+Q.50 Specialized roots that grow upwards from the soil to help plants breathe in marshy areas are called
+ A. Prop roots
+ B. Stilt roots
+ C. Pneumatophores
+ D. Haustoria
+ (Topic: Root Modifications)
+
+Q.51 Which of the following organisms exhibits a saprotrophic mode of nutrition?
+
+I. Mushroom
+ II. Bread mould
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Modes of Nutrition)
+
+Held on: 05-Feb-2026 | Shift: 2
+
+Q.62 What is the minimum pressure in the arteries during the relaxation of the heart muscle (ventricular diastole) called?
+ A. Systolic pressure
+ B. Diastolic pressure
+ C. Pulse pressure
+ D. Mean arterial pressure
+ (Topic: Human Circulatory System)
+
+Held on: 05-Feb-2026 | Shift: 3
+
+Q.56 _____ is responsible for the increase in the girth of the stem and root in plants.
+ A. Apical meristem
+ B. Intercalary meristem
+ C. Xylem tissue
+ D. Lateral meristem
+ (Topic: Plant Tissues)
+
+Q.57 In humans, Alveoli are present in the
+ A. heart
+ B. liver
+ C. kidneys
+ D. lungs
+ (Topic: Human Respiratory System)
+
+Q.63 Which of the following is NOT a primary macronutrient for plants?
+ A. Nitrogen
+ B. Phosphorus
+ C. Potassium
+ D. Zinc
+ (Topic: Plant Nutrition)
+
+Q.64 In which part of the plant is the Sclerenchyma tissue typically located?
+ A. Coconut husk
+ B. Petals of a flower
+ C. Tips of the roots
+ D. Inner soft pulp of fruit
+ (Topic: Plant Tissues)
+
+Held on: 06-Feb-2026 | Shift: 1
+
+Q.47 Which component of human blood is primarily responsible for carrying oxygen to the tissues?
+ A. White blood cells
+ B. Blood platelets
+ C. Plasma
+ D. Red blood cells
+ (Topic: Human Blood)
+
+Q.57 Deoxygenated blood from the body first enters which chamber of the human heart?
+ A. Left atrium
+ B. Left ventricle
+ C. Right atrium
+ D. Right ventricle
+ (Topic: Human Heart)
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Q.47 Which of the following organ can be transplanted in humans?
+
+I. Bone marrow
+ II. Cornea
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Human Health & Organ Transplantation)
+
+Q.53 In early Hindu philosophy, which concept governed the cycle of life from birth to death to rebirth?
+ A. Karma
+ B. Yajna
+ C. Artha
+ D. Dharma
+ (Topic: Human Beliefs & Philosophy)
+
+Held on: 12-Feb-2026 | Shift: 3
+
+Q.54 Which of the following condition might require someone to reduce their sugar intake and take insulin injections?
+ A. Goitre
+ B. Dwarfism
+ C. Diabetes
+ D. Scurvy
+ (Topic: Human Diseases)
+
+Held on: 12-Feb-2026 | Shift: 2
+
+Q.86 What are the filtration units in kidneys which filters the waste in the human body?
+ A. Neuron
+ B. Alveoli
+ C. Nephrons
+ D. Islets of Langerhans
+ (Topic: Human Excretory System)
+
+Held on: 12-Feb-2026 | Shift: 1
+
+Q.74 Which is the main coordinating centre of the human body?
+ A. Spleen
+ B. Brain
+ C. Liver
+ D. Lung
+ (Topic: Human Nervous System)
+
+Held on: 11-Feb-2026 | Shift: 3
+
+Q.69 Why should we wear cotton clothes in summer?
+ A. Cotton clothes prevent any evaporation of sweat.
+ B. Cotton clothes increase the body temperature by trapping heat.
+ C. Cotton clothes absorb sweat and help in its evaporation, which cools the body.
+ D. Cotton clothes are less absorbent and keep sweat on the skin.
+ (Topic: Human Body & Heat Regulation)
+
+Q.84 Lymph carries digested and absorbed fat from _____ and drains excess fluid from extracellular space back into the blood.
+ A. liver
+ B. intestine
+ C. kidneys
+ D. pancreas
+ (Topic: Human Circulatory System)
+
+                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 30-Sep-2024 | Shift: 2
+
+Q.5 In animal cells, the breakdown of very long chain fatty acids through β-oxidation is conducted by which of the following organelles?
+ A. Peroxisome
+ B. Golgi apparatus
+ C. Mitochondria
+ D. Ribosome
+ (Topic: Cell Biology)
+
+Q.20 Which organelle contains ribosomal RNA and is involved in the production of ribosomes?
+ A. Endoplasmic reticulum
+ B. Nucleus
+ C. Nucleolus
+ D. Golgi apparatus
+ (Topic: Cell Biology)
+
+Held on: 30-Sep-2024 | Shift: 3
+
+Q.1 On boiling an egg, why does the outer part become opaque and white?
+ A. The heat causes a change in the crystal structure of egg yolk.
+ B. The heat causes a change in the structure of egg protein.
+ C. The heat causes denaturation, hardening the albumin and colouring it opaque white.
+ D. The heat causes a reaction of the egg with water and makes it opaque.
+ (Topic: Human Nutrition / Proteins)
+
+Q.5 Calculate the Body Mass Index (BMI) of a person whose weight is 50 kg and height is 1.5 m.
+ A. 22.2 kg/m²
+ B. 25.0 kg/m²
+ C. 18.0 kg/m²
+ D. 16.6 kg/m²
+ (Topic: Human Health)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.6 A coastal area was flooded with sea water and resulted in heavy salt deposits in the nearby area. After a few days, it was observed that many plants died. Based on these statements, which of the following is the most probable cause of the plant deaths?
+
+A. Plants died due to infection from sea water borne germs.
+ B. Plants died due to absence of sunlight.
+ C. Plants died due to plasmolysis in the plant cells.
+ D. Plants died because they were eaten by sea organisms.
+ (Topic: Plant Physiology)
+
+Q.17 Which of the following can be a basis of difference between a salamander and a house-wall lizard apart from their habitat?
+ A. Scales on the skin
+ B. Three-chambered heart
+ C. Cold-blood
+ D. Egg-laying feature
+ (Topic: Animal Classification)
+
+Held on: 01-Oct-2024 | Shift: 2
+
+Q.12 Which of the following options correctly matches Column-A and Column-B?
+
+Column-A (Food Component) | Column-B (Enzyme)
+ i. Protein | c. Trypsin
+ ii. Carbohydrates | a. Amylase
+ iii. Fats | b. Lipase
+
+A. i-a, ii-b, iii-c
+ B. i-a, ii-c, iii-b
+ C. i-b, ii-a, iii-c
+ D. i-c, ii-a, iii-b
+ (Topic: Digestion and Nutrition)
+
+Held on: 07-Oct-2024 | Shift: 1
+
+Q.9 The digestive enzymes inside lysosomes are made by:
+ A. mitochondria
+ B. plastids themselves
+ C. Golgi apparatus
+ D. rough endoplasmic reticulum
+ (Topic: Cell Biology)
+
+Held on: 07-Oct-2024 | Shift: 3
+
+Q.1 A person having stunted growth and discoloured hair is most probably suffering from _______________.
+ A. Glucose Deficiency
+ B. Lipid Deficiency
+ C. Vitamin A Deficiency
+ D. Protein Deficiency
+ (Topic: Deficiency Diseases)
+
+Q.4 In the case of reptiles, their heart is not properly divided into four chambers i.e., it consists of two auricles and an incompletely divided ventricle. Which of the following is an example of a reptile having a four-chambered heart?
+ A. Turtles
+ B. Snake
+ C. Crocodile
+ D. Lizard
+ (Topic: Animal Physiology)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.1 The liquid water present in oceans, lakes and rivers gets converted to the gaseous form in the presence of sunlight in the water cycle. This step is called:
+ A. Precipitation
+ B. Evaporation
+ C. Condensation
+ D. Melting
+ (Topic: Water Cycle)
+
+Q.2 Which of the following statements about nutrients are correct?
+
+Statement A: C, H, O, N, P and K are macro nutrients.
+ Statement B: Fe, Mn, Ni, Co and Mo are micronutrients.
+ Statement C: Micronutrients are not essential for our body.
+
+A. Only statements B and C
+ B. Only statements A and C
+ C. All statements A, B and C
+ D. Only statements A and B
+ (Topic: Plant Nutrition)
+
+Q.17 Which of the following cell organelles possesses their own DNA and can synthesise protein for their functions?
+ A. Golgi complex
+ B. Endoplasmic reticulum
+ C. Centrosome
+ D. Chloroplast
+ (Topic: Cell Biology)
+
+SCIENCE - BIOLOGY (3)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.1 The liquid water present in oceans, lakes and rivers gets converted to the gaseous form in the presence of sunlight in the water cycle. This step is called:
+ A. Precipitation
+ B. Evaporation
+ C. Condensation
+ D. Melting
+ (Topic: Water Cycle)
+
+Q.2 Which of the following statements about nutrients are correct?
+
+Statement A: C, H, O, N, P and K are macro nutrients.
+ Statement B: Fe, Mn, Ni, Co and Mo are micronutrients.
+ Statement C: Micronutrients are not essential for our body.
+
+A. Only statements B and C
+ B. Only statements A and C
+ C. All statements A, B and C
+ D. Only statements A and B
+ (Topic: Plant Nutrition)
+
+Q.17 Which of the following cell organelles possesses their own DNA and can synthesise protein for their functions?
+ A. Golgi complex
+ B. Endoplasmic reticulum
+ C. Centrosome
+ D. Chloroplast
+ (Topic: Cell Biology)
+
+Held on: 08-Oct-2024 | Shift: 2
+
+Q.25 Which of the given options is rod-shaped, carries genetic information, is visible only at cell division and is present in the nucleus?
+ A. Cytoplasm
+ B. Lysosomes
+ C. Chromosomes
+ D. Ribosomes
+ (Topic: Cell Biology)
+
+Held on: 08-Oct-2024 | Shift: 3
+
+Q.3 Which of the following statements is NOT true about Plastids?
+ A. They have their own DNA.
+ B. Stroma is found in chloroplast.
+ C. They have their own ribosomes.
+ D. Starch, oils and protein granules are stored in chromoplasts.
+ (Topic: Cell Biology)
+
+Q.10 In the animal kingdom, which of the following phyla includes animals with a segmented body?
+ A. Chordata
+ B. Arthropoda
+ C. Mollusca
+ D. Annelida
+ (Topic: Animal Kingdom
+
+Held on: 09-Oct-2024 | Shift: 1
+
+Q.15 To get relief from constipation, which of the following is prescribed to be eaten in large amount?
+ A. Meat
+ B. Protein
+ C. Fish
+ D. Fibre
+ (Topic: Human Nutrition)
+
+Q.20 Anorexia nervosa is an eating disorder in teenagers. Here body weight:
+ A. does not change
+ B. increases drastically
+ C. loses drastically
+ D. increases slightly
+ (Topic: Human Health & Diseases)
+
+Held on: 09-Oct-2024 | Shift: 2
+
+Q.5 Pellagra is a deficiency disease that usually occurs due to lack of which of the following nutrients?
+ A. Vitamin E
+ B. Niacin
+ C. Iodine
+ D. Riboflavin
+ (Topic: Deficiency Diseases)
+
+Q.21 Find the odd one out.
+ Vacuoles, Nucleus, Ribosomes, Lysosomes
+ A. Lysosomes
+ B. Ribosomes
+ C. Vacuoles
+ D. Nucleus
+ (Topic: Cell Biology)
+
+Held on: 09-Oct-2024 | Shift: 3
+
+Q.2 Select the INCORRECT statement.
+ A. The chromatin material gets organised into rod-shaped chromosomes only when the cell is about to divide.
+ B. Chromosomes are composed of DNA and carbohydrates.
+ C. DNA molecules contain the information necessary for constructing and organising cells.
+ D. Functional segments of DNA are called genes.
+ (Topic: Cell Biology / Genetics)
+
+Q.25 The microscopic channels, which traverse the cell walls of plant cells and some algal cells, enabling transport and communication between them is called:
+ A. desmosomes
+ B. lysosomes
+ C. plasmodesmata
+ D. ribosomes
+ (Topic: Plant Cell Biology)
+
+Q.15 Select the odd one from the following saltwater lakes on the basis of their formation?
+ A. Chilika lake
+ B. Kolleru lake
+ C. Sambhar lake
+ D. Pulicat lake
+ (Topic: Ecology & Wetlands)
+
+Held on: 14-Oct-2024 | Shift: 1
+
+Q.4 Which of the following phyla contains Leech?
+ A. Coelenterata
+ B. Platyhelminthes
+ C. Nematoda
+ D. Annelida
+ (Topic: Animal Classification)
+
+Q.24 A group of natural substances with variable phenolic structures, which are found in fruits, vegetables, and grains is called:
+ A. Flavonoids
+ B. Pectins
+ C. Hopanoids
+ D. Resins
+ (Topic: Biomolecules)
+
+Held on: 14-Oct-2024 | Shift: 2
+
+Q.12 The number of organisms in the population divided by a regular unit of area or volume is called _______.
+ A. population density
+ B. birth rate
+ C. death rate
+ D. population size
+ (Topic: Population Ecology)
+
+Held on: 14-Oct-2024 | Shift: 3
+
+Q.11 Which of the following options is an example of a decomposer in an ecosystem?
+ A. Herbivore
+ B. Carnivore
+ C. Fungus
+ D. Producer
+ (Topic: Ecosystem)
+
+Q.19 Which of the following white papers, released by NITI Aayog, is related to Public Health Surveillance in India?
+ A. Vision 2035
+ B. Arogya Mission
+ C. Mission Karmayogi
+ D. Dhruv Mission
+ (Topic: Public Health)
+
+
+Held on: 15-Oct-2024 | Shift: 1
+
+Q.2 A disease like COVID-19 is a kind of:
+ A. Zoonotic disease
+ B. Protein Deficiency disease
+ C. Waterborne disease
+ D. Foodborne disease
+ (Topic: Human Diseases)
+
+Q.17 The amount of dissolved oxygen in water becomes lowest at what time of the day?
+ A. In the evening
+ B. In the afternoon
+ C. At night time
+ D. In the dawn
+ (Topic: Ecology)
+
+Q.24 What does Age Structure represent?
+ A. The number of females per 100 males in a given area at a specified time period
+ B. The proportion of persons in different age groups relative to the total populationHeld on: 15-Oct-2024 | Shift: 3
+
+Q.2 The cytoplasmic zone surrounding the Golgi complex possesses no cell organelles. This zone of clear cytoplasm is called:
+ A. zone of exclusion
+ B. cytosol
+ C. cytosine
+ D. cytochrome
+ (Topic: Cell Biology)
+
+Q.15 National Prophylaxis Program, which was launched in 1970 as an immediate remedial measure to address which of the following medical conditions/diseases caused by nutritional deficiencies?
+ A. Hypercalcemia
+ B. Blindness
+ C. Beriberi
+ D. Goitre
+ (Topic: Human Health & Nutrition)
+ C. The number of females per 1000 males in a given area at a specified time period
+ D. A measure comparing the portion of a population composed of dependents with the portion that is in the working age group
+ (Topic: Population Biology / Demography)
+
+Q.25 The percentage of sunlight energy absorbed by the green plants in a terrestrial ecosystem is about ________.
+ A. 0.5%
+ B. 1%
+ C. 1.5%
+ D. 2%
+ (Topic: Ecosystem)
+
+Held on: 15-Oct-2024 | Shift: 2
+
+Q.17 Which of the following communicable diseases is caused by bacteria?
+ A. Cholera
+ B. Influenza
+ C. Dengue
+ D. Malaria
+ (Topic: Human Diseases)
+
+Held on: 16-Oct-2024 | Shift: 1
+
+Q.2 Which of the following statements are correct about Ribosomes?
+
+Statement A: Ribosomes have no membrane.
+ Statement B: Digestive hydrolytic enzymes are present in Ribosomes.
+ Statement C: These are called suicidal bags.
+ Statement D: Ribosomes play an important role in protein synthesis.
+
+A. Only statements A and C
+ B. Only statements A and D
+ C. Only statements A and B
+ D. Only statements A, B and C
+ (Topic: Cell Biology)
+
+Q.21 What cellular structure is responsible for breaking down and recycling cellular components and molecules?
+ A. Mitochondrion
+ B. Ribosome
+ C. Nucleus
+ D. Lysosome
+ (Topic: Cell Biology)
+
+Held on: 16-Oct-2024 | Shift: 2
+
+Q.6 Which food is a good source of complete protein?
+ A. Lentils
+ B. Rice
+ C. Spinach
+ D. Eggs
+ (Topic: Human Nutrition)
+
+Q.19 Match List-I of cell organelles with their functions in List-II.
+
+List-I: (a) Endoplasmic reticulum (b) Vacuoles (c) Golgi apparatus (d) Mitochondria
+
+List-II: (i) Packaging and dispatching materials (ii) Generates ATP (iii) Storage sacs (iv) Channels for transport of proteins
+
+A. (a)-(iv), (b)-(i), (c)-(iii), (d)-(ii)
+ B. (a)-(i), (b)-(iv), (c)-(iii), (d)-(ii)
+ C. (a)-(iv), (b)-(iii), (c)-(i), (d)-(ii)
+ D. (a)-(iv), (b)-(i), (c)-(ii), (d)-(iii)
+ (Topic: Cell Biology)
+
+Held on: 16-Oct-2024 | Shift: 3
+
+Q.10 Which of the following is considered unicellular green algae?
+ A. Cladophora
+ B. Oedogonium
+ C. Chlorophyta
+ D. Chlamydomonas
+ (Topic: Plant Biology)
+
+Q.15 Muscle cells and muscle fibres are developed from embryonic precursor cells known as:
+ A. myonuclei
+ B. myocyte
+ C. myoblasts
+ D. myofibril
+ (Topic: Human Biology)
+
+Held on: 17-Oct-2024 | Shift: 1
+
+Q.3 Who first postulated that cells are generated from pre-existing cells?
+ A. Rudolf Virchow
+ B. Jennifer Doudna
+ C. Carl Linnaeus
+ D. William Harvey
+ (Topic: Cell Theory)
+
+Q.11 Analgesic medicines are used for __________________.
+ A. correcting deficiencies due to vitamins and nutrients
+ B. supporting physiological functions
+ C. killing or weakening microbes and infections
+ D. reducing pain and in fever
+ (Topic: Human Health)
+
+Q.22 All living organisms on the Earth are made up of carbon compounds. Many years ago, dead and buried plants started slowly modifying into coal under high temperature and high pressure. This process is called:
+ A. black gold formation
+ B. peat formation
+ C. carbonization
+ D. composting
+ (Topic: Carbon Compounds)
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Q.13 The transportation mechanism in cells by which food or other useful molecules from the outside are carried inside the cell is known as __________.
+ A. Endocytosis
+ B. Osmosis
+ C. Exocytosis
+ D. Fusion
+ (Topic: Cell Biology)
+
+Q.22 'Unbreakable' is an autobiography of __________ published in 2013.
+ A. Abhinav Bindra
+ B. MC Mary Kom
+ C. Milkha Singh
+ D. Geeta Phogat
+ (Topic: Sports Biography)
+
+Held on: 17-Oct-2024 | Shift: 3
+
+Q.11 To which of the following groups do whales belong?
+ A. Amphibia
+ B. Arthropoda
+ C. Mammalia
+ D. Pisces
+ (Topic: Animal Classification)
+
+Q.16 Anorexia Nervosa is an eating disorder characterised by ________.
+ a) an abnormally heavy body weight
+ b) an intense fear of losing weight
+ c) a distorted perception of weight
+ d) trying to lose weight by exercising excessively
+
+A. a and b
+ B. c and d
+ C. a and c
+ D. b and c
+ (Topic: Human Health & Diseases)
+
+Held on: 18-Oct-2024 | Shift: 1
+
+Q.14 What is the primary function of the excretory system in animals?
+ A. Removal of waste products
+ B. Digestion
+ C. Reproduction
+ D. Respiration
+ (Topic: Excretory System)
+
+Q.22 According to sympatric speciation, the rising of a new species occurs when:
+ A. organisms from the same species start to show different behavioural characteristics
+ B. one species is separated into different groups due to geologic events like mountain formation
+ C. the two groups of organisms from the same species would phenotypically look different
+ D. two groups of the same species cannot interbreed among themselves despite living in the same geographic location
+ (Topic: Evolution & Speciation)
+
+Held on: 18-Oct-2024 | Shift: 2
+
+Q.24 Foods containing fats and carbohydrates are also called __________.
+ A. fermented foods
+ B. body building foods
+ C. roughage
+ D. energy giving foods
+ (Topic: Nutrition)
+
+Held on: 18-Oct-2024 | Shift: 3
+
+Q.18 Which of the following statements about pteridophytes are correct?
+
+A. They include horsetails and ferns.
+ B. Pteridophytes are used for medicinal purposes and as soil-binders.
+ C. They are very advanced type of plants on earth, which evolved very recently.
+ D. Evolutionarily, they are the first terrestrial plants to possess vascular tissues – xylem and phloem.
+
+A. Only A, B and D
+ B. Only A, B and C
+ C. Only C and D
+ D. Only A and C
+ (Topic: Plant Kingdom)
+
+Held on: 21-Oct-2024 | Shift: 1
+
+Q.10 What is the primary role of autotrophic organisms in an ecosystem?
+ A. Producing organic matter from inorganic substances
+ B. Converting organic matter into energy
+ C. Preying on other organisms for food
+ D. Breaking down dead organisms
+ (Topic: Ecology)
+
+Q.24 Excessive bleeding from wounds may happen due to lack of ______.
+ A. Vitamin B12
+ B. Vitamin A
+ C. Vitamin E
+ D. Vitamin K
+ (Topic: Vitamins & Deficiency Diseases)
+
+Held on: 21-Oct-2024 | Shift: 2
+
+Q.5 A tunnel that runs through the cell wall between two plant cells is known as:
+ A. plasmodesmata
+ B. protoplasm
+ C. peroxisome
+ D. ribosome
+ (Topic: Cell Biology)
+
+Q.15 What solution should be used to test for the presence of starch in food?
+ A. Magnesium solution
+ B. Talc solution
+ C. Iodine solution
+ D. Ethylene glycol–water solution
+ (Topic: Nutrition Tests)
+
+Held on: 21-Oct-2024 | Shift: 3
+
+Q.17 Which of the following raw materials is NOT used to prepare the baking soda?
+ A. Na₂CO₃
+ B. NaCl
+ C. NH₃
+ D. H₂O
+ (Topic: Everyday Science)
+
+Held on: 22-Oct-2024 | Shift: 1
+
+Q.22 Which of the following organisms is used in bread and alcohol industries?
+ A. Penicillium
+ B. Nitrobacter
+ C. Clostridium
+ D. Yeast
+ (Topic: Microorganisms)
+
+Held on: 22-Oct-2024 | Shift: 2
+
+Q.2 A particular cell present in the excretory system of flatworms, which helps them removing waste materials is the:
+ A. Cnidoblast cell
+ B. Passage cell
+ C. Lacis cell
+ D. Flame cell
+ (Topic: Excretory System in Animals)
+
+Held on: 22-Oct-2024 | Shift: 3
+
+Q.13 Which of the following diseases is detected by the Widal test?
+ A. Pneumonia
+ B. Diphtheria
+ C. Typhoid
+ D. Influenza
+ (Topic: Human Diseases)
+
+Q.19 Constipation could be a sign that the person is suffering from a lack of __________.
+ A. Calcium
+ B. Vitamin
+ C. Dietary Fibre
+ D. Protein
+ (Topic: Nutrition and Health)
+
+Held on: 23-Oct-2024 | Shift: 1
+
+Q.12 Which specific chemical can be applied to achieve staining of chromosomes?
+ A. Ethanol
+ B. Methanol
+ C. Hydrochloric acid
+ D. Acetocarmine
+ (Topic: Cell Biology)
+
+Q.24 If after being bitten by a mosquito, the person is detected as being malaria positive, which of the following will hold true?
+ A. The person did not have a balanced diet.
+ B. The mosquito was carrying plasmodium.
+ C. The mosquito was suffering from malaria.
+ D. The person was not vaccinated as a child.
+ (Topic: Human Diseases)
+
+Held on: 23-Oct-2024 | Shift: 2
+
+Q.1 If the Glycemic Index (GI) of a specific food is from 70 to 100, then the type of that food is:
+ A. High-GI food
+ B. Medium-GI food
+ C. Low-GI food
+ D. Extremely low-GI food
+ (Topic: Nutrition & Glycemic Index)
+
+Q.10 Which of the following characteristics was used by Aristotle to classify animals?
+ A. Habitat
+ B. Photosynthesis
+ C. Specialised organs
+ D. Types of body cells
+ (Topic: Animal Classification)
+
+Held on: 23-Oct-2024 | Shift: 3
+
+Q.5 Match the columns.
+
+Column A (Plant Group) | Column B (Example)
+
+i. Bryophyta - c. Mosses
+ ii. Pteridophyta - d. Selaginella
+ iii. Gymnosperms - b. Pine
+ iv. Angiosperms - a. Rose
+
+A. i-c, ii-d, iii-b, iv-a
+ B. i-c, ii-d, iii-a, iv-b
+ C. i-d, ii-c, iii-b, iv-a
+ D. i-c, ii-a, iii-b, iv-d
+ (Topic: Plant Kingdom)
+
+Q.11 What is the specific field of study focused on examining extinct animals?
+ A. Glaciology
+ B. Palaeontology
+ C. Gemology
+ D. Economic geology
+ (Topic: Biology & Evolution)
+
+Held on: 28-Oct-2024 | Shift: 1
+
+Q.1 Which part of a flower develops into a seed?
+ A. Pistil
+ B. Stamen
+ C. Ovule
+ D. Petal
+ (Topic: Plant Reproduction)
+
+Q.17 Which of the following is NOT a function of mesosomes?
+ A. DNA replication and distribution to daughter cells
+ B. Locomotion
+ C. Increase the surface area of the plasma membrane and enzymatic content
+ D. Respiration
+ (Topic: Cell Biology)
+
+Q.22 Which of the following organisms is used in bread and alcohol industries?
+ A. Penicillium
+ B. Nitrobacter
+ C. Clostridium
+ D. Yeast
+ (Topic: Microorganisms)
+
+Held on: 28-Oct-2024 | Shift: 2
+
+Q.10 Which of the following statements about phylum Arthropoda are correct?
+
+A. Animals of Arthropoda have joint appendages.
+ B. They have compound eyes.
+ C. These make up the majority of all animals on earth.
+ D. The mode of reproduction in all Arthropods is vegetative.
+
+A. Only B, C and D
+ B. Only C and D
+ C. Only A, B and C
+ D. Only A and C
+ (Topic: Animal Kingdom - Arthropoda)
+
+Q.20 What is the primary function of the notochord in chordates?
+ A. Support
+ B. Locomotion
+ C. Digestion
+ D. Respiration
+ (Topic: Chordates)
+
+Held on: 28-Oct-2024 | Shift: 3
+
+Q.17 Which of the following is the role of fibre in the diet?
+ A. Promoting digestion and bowel regularity
+ B. Regulating body temperature
+ C. Enhancing taste of food
+ D. Providing quick energy
+ (Topic: Human Nutrition)
+
+Held on: 29-Oct-2024 | Shift: 1
+
+Q.4 Which of the following are the amounts of nutrients in a keto diet?
+ A. High protein and fat, carbohydrates in a low amount
+ B. Only taking high number of vitamins and minerals
+ C. High carbohydrate, proper amount of protein and low fat
+ D. High amount of fat, adequate protein and low carbohydrate
+ (Topic: Nutrition)
+
+Q.18 Which of the following options correctly matches Column-A with Column-B?
+
+Column-A (Name of Vitamin) | Column-B (Deficiency Diseases)
+
+i. Vitamin A - d. Night Blindness
+ ii. Vitamin D - c. Rickets
+ iii. Vitamin B1 - b. Beriberi
+ iv. Vitamin C - a. Scurvy
+
+A. i-d, ii-c, iii-b, iv-a
+ B. i-d, ii-c, iii-a, iv-b
+ C. i-c, ii-d, iii-b, iv-a
+ D. i-c, ii-d, iii-a, iv-b
+ (Topic: Vitamins & Deficiency Diseases)
+
+Q.22 Which of the following organisms is used in bread and alcohol industries?(Repeated - 2 times)
+ A. Penicillium
+ B. Nitrobacter
+ C. Clostridium
+ D. Yeast
+ (Topic: Microorganisms)
+
+Held on: 29-Oct-2024 | Shift: 2
+
+Q.3 Stunted growth, which is common in children growing up in extreme poverty, is a sure sign of ________.
+ A. Undernutrition
+ B. Sleep Deprivation
+ C. Lack of Clothing
+ D. Lack of Housing
+ (Topic: Human Nutrition)
+
+Q.12 By what name is the species of Scaphopoda Mollusca 'Dentalium' commonly known?
+ A. Duck mussel
+ B. Tusk shells
+ C. Heart clam
+ D. Head foot
+ (Topic: Animal Kingdom - Mollusca)
+
+Q.22 Where of the following was Bal Gangadhar Tilak’s Home Rule Movement active?
+ A. Madras
+ B. Bihar
+ C. Punjab
+ D. Maharashtra
+ (Topic: Human Society & History Related GK)
+
+Held on: 29-Oct-2024 | Shift: 3
+
+Q.12 Several biological processes are catalysed by enzymes. Digestive enzymes are present in which part of the cell?
+ A. Ribosome
+ B. Mitochondria
+ C. Lysosomes
+ D. Golgi complex
+ (Topic: Cell Biology)
+
+Q.20 What is the name of the process of organic matter being broken down into simpler compounds by decomposers?
+ A. Photosynthesis
+ B. Fermentation
+ C. Respiration
+ D. Decomposition
+ (Topic: Ecology & Decomposition)
+
+Held on: 30-Oct-2024 | Shift: 1
+
+Q.2 What is the study of the interactions between living organisms and their environment called?
+ A. Chemistry
+ B. Ecology
+ C. Geology
+ D. Biology
+ (Topic: Ecology)
+
+Q.20 What do you call the body cavity that is lined by mesoderm?
+ A. Coelom
+ B. Diploblasts
+ C. Radial symmetry
+ D. Triploblasts
+ (Topic: Animal Kingdom)
+
+Q.16 Meher had two large chunks of coal. She set fire to the first chunk and broke the second one into pieces. Help Meher understand what kind of changes happened to the two chunks of coal at the end of the activity by choosing all the applicable statements.
+ A. Only D
+ B. Only A and B
+ C. Only C and E
+ D. Only B and D
+ (Topic: Physical and Chemical Changes)
+
+Held on: 30-Oct-2024 | Shift: 2
+
+Q.24 Cyanobacteria belong to the domain of:
+
+A. Decomposers
+ B. Producers
+ C. Primary Consumers
+ D. Tertiary Consumers
+
+(Topic: Microorganisms)
+
+Held on: 30-Oct-2024 | Shift: 3
+
+Q.20 The Krebs cycle of aerobic respiration is carried out within which of the following cell organelles?
+ A. Lysosome
+ B. Mitochondria
+ C. Spirogyra
+ D. Nucleus
+ (Topic: Cell Respiration)
+
+Held on: 04-Nov-2024 | Shift: 1
+
+Q.22 A person with a very low count of red blood cells is medically known to have ________.
+ A. Scurvy
+ B. Jaundice
+ C. Goitre
+ D. Anaemia
+ (Topic: Human Diseases)
+
+Q.23 What is the term for the maximum population size that an environment can sustain indefinitely?
+ A. Pioneer species
+ B. Biotic potential
+ C. Ecological niche
+ D. Carrying capacity
+ (Topic: Ecology)
+
+Held on: 04-Nov-2024 | Shift: 2
+
+Q.8 Which virus is responsible for causing common cold?
+ A. Influenza
+ B. Hepatitis A
+ C. Rhinovirus
+ D. Coronavirus
+ (Topic: Human Diseases)
+
+Q.19 Based on the number of chambers in the heart, select the odd one from the following.
+ A. Frog
+ B. Chameleon
+ C. Turtle
+ D. Crocodile
+ (Topic: Animal Physiology)
+
+Held on: 04-Nov-2024 | Shift: 3
+
+Q.9 Which option represents the correct flow of energy in an ecosystem?
+ A. Sunlight → Producers → Herbivores → Carnivores
+ B. Sunlight → Herbivores → Carnivores → Producers
+ C. Sunlight → Carnivores → Producers → Herbivores
+ D. Sunlight → Herbivores → Producers → Carnivores
+ (Topic: Ecosystem)
+
+Q.19 Based on the number of chambers in the heart, select the odd one out.
+ A. Frog
+ B. Chameleon
+ C. Turtle
+ D. Crocodile
+ (Topic: Animal Physiology)
+
+Held on: 05-Nov-2024 | Shift: 1
+
+Q.19 Which of the following groups of plants are categorised as cryptogams?
+ A. Thallophyta and Gymnosperms
+ B. Pteridophyta and Angiosperms
+ C. Bryophytes and Thallophyta
+ D. Gymnosperms and Angiosperms
+ (Topic: Plant Kingdom)
+
+Q.25 Match the following and choose the correct option.(Biological Classification based question)
+ (Topic: Biological Classification)
+
+Held on: 05-Nov-2024 | Shift: 2
+
+Q.19 Which groups of plants are categorised as cryptogams?
+ A. Thallophyta and Gymnosperms
+ B. Pteridophyta and Angiosperms
+ C. Bryophytes and Thallophyta
+ D. Gymnosperms and Angiosperms
+ (Topic: Plant Kingdom)
+
+Q.20 If a living organism can be divided into two identical halves by only one plane, it exhibits:
+ A. Bilateral symmetry
+ B. Radial symmetry
+ C. Centre of symmetry
+ D. Asymmetry
+ (Topic: Animal Classification)
+
+Held on: 05-Nov-2024 | Shift: 3
+
+Q.14 Which virus is responsible for causing AIDS?
+ A. Human Immunodeficiency Virus (HIV)
+ B. Herpes Simplex Virus (HSV)
+ C. Human Papillomavirus (HPV)
+ D. Influenza Virus
+ (Topic: Human Diseases)
+
+Q.20 If an organism can be divided into two identical halves by only one plane, it exhibits:
+ A. Bilateral symmetry
+ B. Radial symmetry
+ C. Centre of symmetry
+ D. Asymmetry
+ (Topic: Animal Classification)
+
+Held on: 11-Nov-2024 | Shift: 1
+
+Q.15 Vitamin D is synthesised using sunshine, by the:
+ A. skin
+ B. blood veins
+ C. leg
+ D. mouth
+ (Topic: Human Physiology)
+
+Q.17 Which structure within the nucleus contains genetic information in the form of DNA?
+ A. Nucleolus
+ B. Chromosome
+ C. Ribosome
+ D. Vacuole
+ (Topic: Cell Biology)
+
+Q.20 If an organism can be divided into two identical halves by only one plane, it exhibits:
+ A. Bilateral symmetry
+ B. Radial symmetry
+ C. Centre of symmetry
+ D. Asymmetry
+ (Topic: Animal Classification)
+
+Held on: 11-Nov-2024 | Shift: 2
+
+Q.24 When the body is deprived of energy from food, which of the following tissues is used to feed on its own?
+ A. Epithelial tissue
+ B. Collenchyma tissue
+ C. Adipose tissue
+ D. Nervous tissue
+ (Topic: Human Physiology)
+
+Q.15 What does a budget deficit indicate?(Biological topic not applicable, counted under Economy only and not repeated here)
+
+No second Biology overlap counted to maintain one question = one subject.
+
+Held on: 11-Nov-2024 | Shift: 3
+
+Q.13 The Indian Ministry of Environment, Forest and Climate Change maintains a log of all the endangered species of India along with their conservation status. What is the name of this book?
+ A. Red Data Book
+ B. Indian Life Catalogue
+ C. The Black Book
+ D. The Book of Endangered Species
+ (Topic: Biodiversity & Conservation)
+
+Q.24 When the body is deprived of energy from food, which of the following tissues is used to feed on its own?
+ A. Epithelial tissue
+ B. Collenchyma tissue
+ C. Adipose tissue
+ D. Nervous tissue
+ (Topic: Human Physiology)
+
+
+Held on: 12-Nov-2024 | Shift: 1
+
+Q.1 Which of the following vitamins includes cobalt as an essential component?
+ A. Vitamin A
+ B. Vitamin D
+ C. Vitamin E
+ D. Vitamin B12
+ (Topic: Vitamins)
+
+Q.17 The major carbohydrate of milk is
+ A. starch
+ B. lactose
+ C. Fructose
+ D. maltose
+ (Topic: Nutrition)
+
+Held on: 12-Nov-2024 | Shift: 2
+
+Q.19 To remain healthy and disease free, taking a balanced diet is very important. A balanced diet is:
+ A. A diet that contains sufficient amount of all the nutrients that the human body needs to grow properly
+ B. A diet that contains appreciable number of vitamins and minerals
+ C. A diet that contains adequate amount of carbohydrates
+ D. A diet that contains adequate amount of protein and fat
+ (Topic: Human Nutrition)
+
+Q.24 Match the columns. (Nutrients and Sources)
+ (Topic: Nutrition)
+
+Held on: 13-Nov-2024 | Shift: 2
+
+Q.8 For most of the ecosystem, what is the primary source of energy?
+ A. Geothermal energy
+ B. Wind
+ C. Water
+ D. Sunlight
+ (Topic: Ecosystem)
+
+Q.23 What is the primary source of energy for most ecosystems on Earth?(Repeated - 2 times)
+ A. Geothermal heat
+ B. Tidal energy
+ C. Wind
+ D. Sunlight
+ (Topic: Ecosystem)
+
+Held on: 13-Nov-2024 | Shift: 3
+
+Q.9 A child is a picky eater. He does not consume milk at all and barely eats other kinds of food. When he started losing his baby teeth, they were not getting replaced with new teeth. This can be solved by giving him ________.
+ A. Vitamin C
+ B. Calcium supplements
+ C. Carbohydrate-rich food
+ D. Vitamin B complex
+ (Topic: Human Nutrition)
+
+Q.17 Select the INCORRECT statement regarding Ozone.
+ A. Ozone is formed from oxygen in the presence of ultraviolet radiation.
+ B. Ozone (O₃), like oxygen, is a life-supporting gas.
+ C. Ozone is a deadly poison.
+ D. Ultraviolet radiation causes skin cancer.
+ (Topic: Ozone Layer)
+
+Held on: 14-Nov-2024 | Shift: 2
+
+Q.4 Which of the following possesses the largest isolated single cell?
+ A. Human brain
+ B. Blue whale
+ C. Ostrich egg
+ D. Amoeba
+ (Topic: Cell Biology)
+
+Q.12 In a food chain of Algae-Shrimp-Fish-Bird, if the energy available at the bird is 4 kJ, then the energy available at the shrimp is:
+ A. 4 kJ
+ B. 0.04 kJ
+ C. 400 kJ
+ D. 4000 kJ
+ (Topic: Ecosystem)
+
+Held on: 14-Nov-2024 | Shift: 3
+
+Q.2 What is the term for the gradual, sequential changes in species composition in an ecosystem over time?
+ A. Succession
+ B. Extinction
+ C. Evolution
+ D. Adaptation
+ (Topic: Ecology)
+
+Q.12 In a food chain of Algae-Shrimp-Fish-Bird, if the energy available at the bird is 4 kJ, then the energy available at the shrimp is:
+ A. 4 kJ
+ B. 0.04 kJ
+ C. 400 kJ
+ D. 4000 kJ
+ (Topic: Ecosystem)
+                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 01-Sep-2023 | Shift: 1
+
+Q.3 In 1873, who published the first photograph of nerve tissue stained with the black reaction technique, describing a whole nerve cell?
+ A. Gunter Blobel
+ B. Camillo Golgi
+ C. William Harvey
+ D. Paul Ehrlich
+ (Topic: Cell Biology)
+
+
+Held on: 01-Sep-2023 | Shift: 2
+
+Q.12 In which year did Robert Hooke introduce the term ‘cell’?
+ A. 1875
+ B. 1675
+ C. 1665
+ D. 1765
+ (Topic: Cell Biology)
+
+Q.20 Which of the following is an autobiography of Sachin Tendulkar?
+ A. Unbreakable
+ B. Playing It My Way
+ C. My Many Trysts with God
+ D. I Am No Messiah
+ (Topic: Sports Biography)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.19 Which gland gets enlarged in the goitre due to which there is a swelling in the front part of the throat?
+ A. Adrenal gland
+ B. Thyroid gland
+ C. Pineal gland
+ D. Pituitary gland
+ (Topic: Human Diseases)
+
+Q.23 Who among the following was a world famous ‘Sitar’ player?
+ A. Pandit Ravi Shankar
+ B. Ustad Shafaat Ahmed Khan
+ C. Rajaratanam Pillai
+ D. Ali Ahmad Hussain
+ (Topic: Music Personality / Static GK)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.23 Identify the Chhau dancer from the following, who received the Sangeet Natak Akademi Award-2021 (given in February 2023)?
+ A. Bharathi Vithal
+ B. Kumkum Dhar
+ C. Bhuvan Kumar
+ D. Rabindra Atibudhi
+ (Topic: Human Art Forms / Static GK)
+
+Held on: 04-Sep-2023 | Shift: 2
+
+Q.25 Which vitamin is needed for a healthy immune system, low-light vision, and healthy skin?
+ A. Vitamin K
+ B. Vitamin B2
+ C. Vitamin B9
+ D. Vitamin A
+ (Topic: Vitamins & Nutrition)
+
+Held on: 04-Sep-2023 | Shift: 3
+
+Q.23 Insufficient levels of parathyroid hormone and low amount of calcium in the blood causes which of the following conditions?
+ A. Malaria
+ B. Anaemia
+ C. Diabetes
+ D. Hypocalcemia
+ (Topic: Human Diseases)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.8 In the pocess of cell division, the formation of phragmoplast between the two daughter nuclei occurs during:
+ A. the G0 phase
+ B. the cytokinesis
+ C. the S phase
+ D. the karyokinesis
+ (Topic: Cell Division)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.15 Which process is sometimes called "reduction division" because it reduces the number of chromosomes to half the normal number to form sperm and eggs?
+ A. Amitosis
+ B. Meiosis
+ C. Cytokinesis
+ D. Karyokinesis
+ (Topic: Cell Division)
+
+Held on: 06-Sep-2023 | Shift: 2
+
+Q.10 Which microscopic, single-celled photosynthetic organisms are known as the primary producers of the ocean, the organisms that form the base of the aquatic food chains?
+ A. Phytoplankton
+ B. Zooplankton
+ C. Bacterioplankton
+ D. Virioplankton
+ (Topic: Marine Biology)
+
+Q.15 Which process is sometimes called "reduction division" because it reduces the number of chromosomes to half the normal number to form sperm and eggs?
+ A. Amitosis
+ B. Meiosis
+ C. Cytokinesis
+ D. Karyokinesis
+ (Topic: Cell Division)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.4 Name the life-threatening disease caused by protozoa of the genus Trypanosoma that is transmitted to human hosts through the bite of infected tsetse flies.
+ A. Sleeping sickness
+ B. Chagas disease
+ C. Giardiasis
+ D. Kala-azar
+ (Topic: Human Diseases)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.4 Name the life-threatening disease caused by protozoa of the genus Trypanosoma that is transmitted to human hosts through the bite of infected tsetse flies.
+ A. Sleeping sickness
+ B. Chagas disease
+ C. Giardiasis
+ D. Kala-azar
+ (Topic: Human Diseases)
+
+Q.17 Which is the primary structural component responsible for most of the mechanical strength of the cell wall?
+ A. Heparin
+ B. Glycogen
+ C. Chitin
+ D. Cellulose
+ (Topic: Cell Biology)
+
+Held on: 08-Sep-2023 | Shift: 2
+
+Q.6 By what name are the flat membrane-enclosed sacs present in the Golgi apparatus known?
+ A. Lamellae
+ B. Cisternae
+ C. Cristae
+ D. Stroma
+ (Topic: Cell Biology)
+
+Q.17 Which is the primary structural component responsible for most of the mechanical strength of the cell wall?
+ A. Heparin
+ B. Glycogen
+ C. Chitin
+ D. Cellulose
+ (Topic: Cell Biology)
+
+Held on: 08-Sep-2023 | Shift: 3
+
+Q.11 Which antibiotic is considered the first miracle drug, used to treat throat infections, meningitis, syphilis and other bacterial infections?
+ A. Aciclovir
+ B. Nifuratel
+ C. Penicillin
+ D. Metronidazole
+ (Topic: Human Health & Diseases)
+
+Held on: 11-Sep-2023 | Shift: 2
+
+Q.12 Due to rapid urbanisation, the human lifestyle has changed severely; obesity is a major health issue in such condition. Which of the following is a reason for obesity?
+ A. Excessive consumption of water
+ B. Excessive intake of high calorie foods
+ C. Lack of protein
+ D. Lack of vitamins in regular diet
+ (Topic: Human Health & Nutrition)
+
+Q.19 Which condition causes bone pain, poor growth, and soft, weak bones that can lead to bone deformities?
+ A. Rickets
+ B. Cerebral Palsy
+ C. Pertussis
+ D. Asplenia
+ (Topic: Deficiency Diseases)
+
+Held on: 11-Sep-2023 | Shift: 1
+
+Q.15 Which cell found in the bone marrow acts as a repair system for the body?
+ A. Bone Cells
+ B. Fat Cells
+ C. Muscle cells
+ D. Stem cells
+ (Topic: Human Biology)
+
+Held on: 11-Sep-2023 | Shift: 3
+
+Q.7 The blue green alga Anabaena lives in the leaves of Azolla, a freshwater fern, forming which of the following relationships?
+ A. Autotrophic
+ B. Symbiotic
+ C. Parasitic
+ D. Saprophytic
+
+(Topic: Symbiosis)
+
+Held on: 12-Sep-2023 | Shift: 2
+
+Q.7 The blue green alga Anabaena lives in the leaves of Azolla, a freshwater fern, forming which of the following relationships?
+ A. Autotrophic
+ B. Symbiotic
+ C. Parasitic
+ D. Saprophytic
+
+(Topic: Symbiosis)
+
+Held on: 12-Sep-2023 | Shift: 3
+
+Q.9 Lack of functional small intestine can cause a malabsorption disorder leading to diarrhoea, malnutrition, weight loss etc. This particular condition is known as:
+ A. Down syndrome
+ B. Short bowel syndrome
+ C. Hypoglycaemia
+ D. Hyperglycaemia
+
+(Topic: Human Diseases)
+
+Held on: 13-Sep-2023 | Shift: 1
+
+Q.6 Which bacteria was discovered by Barry Marshall and Robin Warren that colonises the human stomach and causes chronic superficial gastritis ulcers?
+ A. Campylobacter jejuni
+ B. Helicobacter pylori
+ C. Neisseria gonorrhoeae
+ D. Entamoeba histolytica
+ (Topic: Human Diseases)
+
+Held on: 13-Sep-2023 | Shift: 2
+
+Q.7 During cell division, the formation of a new cell wall is followed by the accumulation of:
+ A. peristome
+ B. periplasm
+ C. phragmoplast
+ D. protoplast
+ (Topic: Cell Biology)
+
+Held on: 13-Sep-2023 | Shift: 3
+
+Q.7 During cell division, the formation of a new cell wall is followed by the accumulation of:
+ A. peristome
+ B. periplasm
+ C. phragmoplast
+ D. protoplast
+ (Topic: Cell Biology)
+
+Q.22 Who coined the word ‘cell’ in the 1600s, from the Latin word ‘cellula’, meaning ‘small room’?
+ A. Louis Pasteur
+ B. Robert Hooke
+ C. Theodor Schwann
+ D. Lynn Margulis
+ (Topic: Cell Biology)
+
+Held on: 14-Sep-2023 | Shift: 1
+
+Q.20 Carbohydrates are utilised by the human body in the form of:
+ A. glucose
+ B. nucleotides
+ C. fibre
+ D. amino acids
+ (Topic: Human Nutrition)
+
+Q.22 Who coined the word ‘cell’ in the 1600s, from the Latin word ‘cellula’, meaning ‘small room’?
+ A. Louis Pasteur
+ B. Robert Hooke
+ C. Theodor Schwann
+ D. Lynn Margulis
+ (Topic: Cell Biology)
+
+Held on: 14-Sep-2023 | Shift: 2
+
+Q.3 Which diseases result from a deficiency of Vitamin B due to its insufficient intake?
+ A. Colour blindness
+ B. Rickets
+ C. Beri Beri
+ D. Scurvy
+ (Topic: Deficiency Diseases)
+
+Q.16 What is the correct sequence of trophic levels in a food chain?
+ (Topic: Ecosystem)
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.18 विटामिन B1 की कमी से कौन-सा पोषण संबंधी विकार होता है जिससे परिधीय तंत्रिकाओं (peripheral nerves) और क्षय (wasting) की समस्याएं उत्पन्न होती हैं?
+ A. शुष्काक्षिपाक (Xerophthalmia)
+ B. पर्निशियस एनीमिया (Pernicious anaemia)
+ C. बेरीबेरी (Beriberi)
+ D. सूखा रोग (Rickets)
+ (Topic: Deficiency Diseases)
+
+Q.21 Who was the music director of the famous song ‘Aye Mere Watan Ke Logon’ sung by Lata Mangeshkar?
+ A. Kishore Kumar
+ B. Rajesh Roshan
+ C. C Ramchandra
+ D. Anand Raaj Anand
+ (Topic: Human Memory/Static GK according to paper classification avoided elsewhere)
+
+                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.3 Fungi can grow on which of the following items?
+
+I. Bread
+ II. Pickles
+ III. Leather
+ IV. Clothes
+
+Select the correct option.
+
+A. I and III
+ B. I and II
+ C. I, II, III and IV
+ D. I, II and III
+ (Topic: Fungi)
+
+Q.16 The normal temperature of the human body is ________.
+ A. 31°C
+ B. 34°C
+ C. 32°C
+ D. 37°C
+ (Topic: Human Physiology)
+
+Q.23 The cells having well-organized nucleus with a nuclear membrane are designated as ________.
+ A. Cheek cells
+ B. autokaryotic cells
+ C. eukaryotic cells
+ D. prokaryotic cells
+ (Topic: Cell Biology)
+
+Held on: 05-Jul-2022 | Shift: 1
+
+Q.13 Which of the following is an example of artificial ecosystem?
+ A. Garden
+ B. Forest
+ C. Lake
+ D. Pond
+ (Topic: Ecosystem)
+Held on: 05-Jul-2022 | Shift: 2
+
+Q.15 Savi is suffering from Kwashiorkor. Which of the following deficiencies causes it?
+ A. Deficiency of iron
+ B. Deficiency of protein
+ C. Deficiency of calcium
+ D. Deficiency of vitamin A
+ (Topic: Deficiency Diseases)
+
+Q.11 ______ indicates the realm of living organisms and their interactions with the environment.
+ A. Atmosphere
+ B. Biosphere
+ C. Hydrosphere
+ D. Lithosphere
+ (Topic: Ecology)
+
+Held on: 05-Jul-2022 | Shift: 3
+
+Q.15 Which of the following does NOT belong to Arthropoda group of animal kingdom?
+ A. Butterfly
+ B. Cockroach
+ C. Octopus
+ D. Spider
+ (Topic: Animal Classification)
+
+Q.18 Which of the following enzymes is found in saliva of human body which breaks down starch into simple sugar?
+ A. Amylase
+ B. Trypsin
+ C. Pepsin
+ D. Renin
+ (Topic: Digestion & Enzymes)
+
+Held on: 06-Jul-2022 | Shift: 1
+
+Q.13 ______ includes all non-living components, such as air, cloud, dust, land, mountains, rivers, temperature, humidity, water, water vapour, sand, etc.
+ A. Biotic environment
+ B. Abiotic environment
+ C. Artificial environment
+ D. Healthy environment
+ (Topic: Environment & Ecology Basics)
+
+Q.15 Which of the following does NOT belong to Arthropoda group of animal kingdom?
+ A. Butterfly
+ B. Cockroach
+ C. Octopus
+ D. Spider
+ (Topic: Animal Classification)
+
+Q.23 Which of the following glands/organs in human body secretes bile juice?
+ A. Pancreas
+ B. Liver
+ C. Pituitary
+ D. Pineal
+ (Topic: Human Physiology)
+
+Held on: 06-Jul-2022 | Shift: 2
+
+Q.23 Which of the following glands/organs in human body secretes bile juice?
+ A. Pancreas
+ B. Liver
+ C. Pituitary
+ D. Pineal
+ (Topic: Human Physiology)
+
+Q.25 Which vitamin is needed for a healthy immune system, low-light vision, and healthy skin?
+ A. Vitamin K
+ B. Vitamin B2
+ C. Vitamin B9
+ D. Vitamin A
+ (Topic: Vitamins & Nutrition)
+
+Held on: 06-Jul-2022 | Shift: 3
+
+Q.22 Which of the following is an example of Phylum Mollusca of the animal kingdom?
+ A. Octopus
+ B. Sea horse
+ C. Dolphin
+ D. King crab
+ (Topic: Animal Kingdom)
+
+Q.23 According to the census 2011, which state is the most populous state in India?
+ A. Uttar Pradesh
+ B. Rajasthan
+ C. Kerala
+ D. Madhya Pradesh
+ (Topic: Population Biology / Demography)
+
+Q.25 Which natural compound helps in photosynthesis of plants?
+ A. Chlorophyll
+ B. Glucose
+ C. Curcumin
+ D. Lectin
+ (Topic: Plant Biology)
+
+Held on: 07-Jul-2022 | Shift: 1
+
+Q.7 Which of the following organisms is responsible for sleeping sickness?
+ A. Algae
+ B. Protozoa
+ C. Bacteria
+ D. Viruses
+ (Topic: Human Diseases)
+
+Q.17 Where are villi present in the human alimentary canal?
+ A. Pancreas
+ B. Oesophagus
+ C. Stomach
+ D. Small intestine
+ (Topic: Human Digestive System)
+
+Q.25 Which natural compound helps in photosynthesis of plants?
+ A. Chlorophyll
+ B. Glucose
+ C. Curcumin
+ D. Lectin
+ (Topic: Plant Biology)
+
+Held on: 07-Jul-2022 | Shift: 2
+
+Q.17 Where are villi present in the human alimentary canal?
+ A. Pancreas
+ B. Oesophagus
+ C. Stomach
+ D. Small intestine
+ (Topic: Human Digestive System)
+
+Q.25 ______ is a technique in which cancer cells are damaged with radiations, while limiting the harm to nearby healthy tissue.
+ A. Radiotherapy
+ B. Physiotherapy
+ C. Surgery
+ D. Chemotherapy
+ (Topic: Human Health)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.8 Which of the following classifications do humans NOT fall under?
+ A. Chordata
+ B. Porifera
+ C. Hominidae
+ D. Vertebrata
+ (Topic: Animal Classification)
+
+Q.25 ______ is a technique in which cancer cells are damaged with radiations, while limiting the harm to nearby healthy tissue.
+ A. Radiotherapy
+ B. Physiotherapy
+ C. Surgery
+ D. Chemotherapy
+ (Topic: Human Health)
+
+Held on: 08-Jul-2022 | Shift: 1
+
+Q.8 Which of the following classifications do humans NOT fall under?
+ A. Chordata
+ B. Porifera
+ C. Hominidae
+ D. Vertebrata
+ (Topic: Animal Classification)
+
+Q.11 Spirogyra belongs to which group of plant kingdom?
+ A. Bryophyta
+ B. Angiosperms
+ C. Pteridophyta
+ D. Thallophyta
+ (Topic: Plant Kingdom)
+
+Held on: 08-Jul-2022 | Shift: 3
+
+Q.11 Vinod talks about the only planet with liquid water on the surface. Which of the following planets is he talking about?
+ A. Earth
+ B. Venus
+ C. Mars
+ D. Saturn
+ (Topic: Life Sciences / Earth as a Living Planet)
+
+Q.12 Which of the following cell organelles functions both as a passageway for intracellular transport and as a manufacturing surface?
+ A. Golgi Apparatus
+ B. Lysosome
+ C. Mitochondria
+ D. Endoplasmic Reticulum
+ (Topic: Cell Biology)
+
+Q.24 Which of the following statements is correct regarding ‘Arthropoda’?
+ I. These animals are bilaterally symmetrical.
+ II. They have jointed legs.
+
+A. Both I and II
+ B. Neither I nor II
+ C. Only II
+ D. Only I
+ (Topic: Animal Classification)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.11 Vinod talks about the only planet with liquid water on the surface. Which of the following planets is he talking about?
+ A. Earth
+ B. Venus
+ C. Mars
+ D. Saturn
+ (Topic: Life Sciences)
+
+Q.12 Which of the following cell organelles functions both as a passageway for intracellular transport and as a manufacturing surface?
+ A. Golgi Apparatus
+ B. Lysosome
+ C. Mitochondria
+ D. Endoplasmic Reticulum
+ (Topic: Cell Biology)
+
+Q.24 Which of the following statements is correct regarding ‘Arthropoda’?
+ I. These animals are bilaterally symmetrical.
+ II. They have jointed legs.
+
+A. Both I and II
+ B. Neither I nor II
+ C. Only II
+ D. Only I
+ (Topic: Animal Classification)
+
+Held on: 11-Jul-2022 | Shift: 1
+
+Q.11 Which of the following states of India became the first state to have a Tsunami Ready village as of August 2020?
+ A. Tamil Nadu
+ B. Odisha
+ C. Kerala
+ D. Gujarat
+ (Topic: Environment & Disaster Management)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.109 Loss of water in plants in the form of liquid is known as:
+ A. Osmosis
+ B. Imbibition
+ C. Transpiration
+ D. Guttation
+ (Topic: Plant Physiology)
+
+Q.120 The release of which of the following into ponds and wells helps in controlling the mosquitoes?
+ A. Crab
+ B. Dogfish
+ C. Snail
+ D. Gambusia fish
+ (Topic: Biological Control)
+
+Q.123 The lens of the eye is behind the:
+ A. Pupil
+ B. Vitreous humour
+ C. Retina
+ D. Optic nerve
+ (Topic: Human Eye)
+
+Q.149 Excretory organ of cockroach is:
+ A. Nephridia
+ B. Malpighian tubules
+ C. Kidney
+ D. Malpighian Corpuscles
+ (Topic: Animal Physiology)
