@@ -1,0 +1,1972 @@
+File name: COUNT OF QUESTIONS.txt
+Language: 
+Held on: 05-Feb-2026 | Shift: 2
+
+Art & Culture → 5
+History → 7
+Geography → 3
+Polity → 1
+Economy → 4
+Books & Authors → 2
+Science - Chemistry → 1
+Science - Physics → 2
+Science - Biology → 1
+
+Held on: 05-Feb-2026 | Shift: 3
+
+Art & Culture → 7
+History → 3
+Geography → 4
+Economy → 4
+Science - Biology → 4
+Science - Physics → 1
+Books & Authors → 1
+Polity → 1
+
+Held on: 06-Feb-2026 | Shift: 1
+
+History → 4
+Geography → 2
+Polity → 4
+Economy → 5
+Science - Physics → 1
+Science - Chemistry → 1
+Science - Biology → 2
+Art & Culture → 2
+Sports → 2
+Books & Authors → 1
+Current Affairs → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Important Days → 0
+Government Schemes → 0
+Computer Awareness → 0
+Miscellaneous GK → 1 (Q.56 Infant Mortality Rate)
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Science - Chemistry → 5
+Science - Biology → 2
+Science - Physics → 1
+Science & Technology → 1
+History → 2
+Geography → 2
+Art & Culture → 3
+Economy → 4
+Sports → 2
+Books & Authors → 2
+Current Affairs → 1
+Polity → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Important Days → 0
+Government Schemes → 0
+Computer Awareness → 0
+
+Held on: 12-Feb-2026 | Shift: 3
+
+History → 4
+Geography → 4
+Economy → 5
+Art & Culture → 3
+Sports → 2
+Books & Authors → 1
+Current Affairs → 1
+Science - Biology → 1
+Science - Physics → 1
+Science & Technology → 1
+Polity → 1
+Education / Static GK → 1
+Science - Chemistry → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Important Days → 0
+Government Schemes → 0
+Computer Awareness → 0
+
+Held on: 12-Feb-2026 | Shift: 2
+
+History → 6
+Geography → 3
+Polity → 2
+Economy → 3
+Art & Culture → 2
+Sports → 3
+Books & Authors → 2
+Science - Biology → 1
+Science - Physics → 2
+Science & Technology → 1
+Current Affairs → 1
+Science - Chemistry → 0
+Environment & Ecology → 0
+Important Days → 0
+Government Schemes → 0
+Computer Awareness → 0
+Awards & Honours → 0
+
+Held on: 12-Feb-2026 | Shift: 1
+
+History → 3
+Geography → 4
+Polity → 1
+Economy → 3
+Art & Culture → 5
+Sports → 2
+Books & Authors → 1
+Science - Physics → 1
+Science - Chemistry → 1
+Science - Biology → 1
+Science & Technology → 3
+Awards & Honours → 1
+Current Affairs → 0
+Environment & Ecology → 0
+Important Days → 0
+Government Schemes → 0
+Computer Awareness → 0
+
+Held on: 30-Sep-2024 | Shift: 1
+
+Geography → 5
+Polity → 4
+Art & Culture → 3
+Science - Chemistry → 3
+Sports → 2
+Books & Authors → 2
+History → 2
+Economy → 1
+Awards & Honours → 1
+Current Affairs → 1
+Science - Physics → 0
+Science - Biology → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Government Schemes → 0
+Computer Awareness → 0
+
+                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 30-Sep-2024 | Shift: 2
+
+Art & Culture → 5
+History → 4
+Polity → 3
+Geography → 3
+Government Schemes → 2
+Science - Biology → 2
+Science - Chemistry → 2
+Sports → 2
+Books & Authors → 1
+Economy → 1
+Current Affairs → 1
+Science & Technology → 0
+Science - Physics → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 30-Sep-2024 | Shift: 3
+
+Geography → 5
+Art & Culture → 4
+History → 4
+Science - Biology → 2
+Sports → 2
+Current Affairs → 2
+Polity → 2
+Books & Authors → 1
+Economy → 1
+Science - Chemistry → 1
+Environment & Ecology → 1
+Science - Physics → 0
+Science & Technology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+
+
+Held on: 01-Oct-2024 | Shift: 1
+
+History → 4
+Polity → 4
+Art & Culture → 4
+Economy → 3
+Geography → 3
+Sports → 2
+Science - Biology → 2
+Science - Chemistry → 1
+Books & Authors → 1
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 01-Oct-2024 | Shift: 2
+
+History → 5
+Art & Culture → 4
+Economy → 3
+Polity → 3
+Geography → 2
+Sports → 2
+Science - Chemistry → 2
+Science - Biology → 1
+Government Schemes → 1
+Awards & Honours → 1
+Books & Authors → 1
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 07-Oct-2024 | Shift: 1
+
+History → 4
+Art & Culture → 4
+Geography → 4
+Polity → 3
+Science - Chemistry → 2
+Sports → 2
+Economy → 1
+Science - Biology → 1
+Books & Authors → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 07-Oct-2024 | Shift: 3
+
+History → 4
+Economy → 4
+Art & Culture → 3
+Geography → 3
+Polity → 3
+Science - Biology → 2
+Sports → 2
+Books & Authors → 1
+Current Affairs → 1
+Science - Chemistry → 1
+Awards & Honours → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Art & Culture → 5
+Science - Biology → 3
+Geography → 3
+Polity → 3
+History → 3
+Economy → 2
+Sports → 2
+Science - Chemistry → 1
+Books & Authors → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 08-Oct-2024 | Shift: 2
+
+History → 4
+Art & Culture → 4
+Polity → 3
+Geography → 3
+Sports → 2
+Current Affairs → 2
+Books & Authors → 1
+Economy → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Science - Biology → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 08-Oct-2024 | Shift: 3
+
+History → 4
+Art & Culture → 4
+Economy → 3
+Geography → 2
+Science - Biology → 2
+Polity → 2
+Sports → 2
+Government Schemes → 2
+Science - Physics → 1
+Books & Authors → 1
+Current Affairs → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 09-Oct-2024 | Shift: 1
+
+Art & Culture → 5
+History → 4
+Polity → 3
+Economy → 3
+Sports → 2
+Geography → 2
+Science - Biology → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Current Affairs → 1
+Environment & Ecology → 1
+Science - Physics → 0
+Science & Technology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 09-Oct-2024 | Shift: 2
+
+History → 4
+Art & Culture → 4
+Polity → 3
+Geography → 3
+Science & Technology → 2
+Science - Biology → 2
+Sports → 2
+Economy → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 14-Oct-2024 | Shift: 3
+
+History → 5
+Geography → 4
+Art & Culture → 4
+Polity → 3
+Books & Authors → 2
+Sports → 2
+Science - Biology → 2
+Science - Chemistry → 2
+Economy → 2
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 15-Oct-2024 | Shift: 1
+
+History → 5
+Science - Biology → 4
+Art & Culture → 4
+Geography → 3
+Sports → 2
+Polity → 2
+Current Affairs → 1
+Science - Physics → 1
+Environment & Ecology → 1
+Awards & Honours → 1
+Economy → 1
+Books & Authors → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Government Schemes → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 15-Oct-2024 | Shift: 3
+
+Art & Culture → 5
+History → 4
+Economy → 3
+Sports → 2
+Science - Biology → 2
+Polity → 2
+Geography → 2
+Current Affairs → 2
+Science - Chemistry → 1
+Books & Authors → 1
+Government Schemes → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+
+Held on: 16-Oct-2024 | Shift: 3
+
+History → 3
+Art & Culture → 4
+Geography → 4
+Polity → 2
+Economy → 2
+Books & Authors → 2
+Sports → 2
+Science - Biology → 2
+Science - Chemistry → 2
+Current Affairs → 1
+Important Days → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+
+
+Held on: 16-Oct-2024 | Shift: 2
+
+History → 4
+Art & Culture → 4
+Geography → 4
+Polity → 2
+Sports → 2
+Science - Biology → 2
+Current Affairs → 2
+Economy → 2
+Books & Authors → 1
+Government Schemes → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 17-Oct-2024 | Shift: 1
+
+Geography → 4
+Art & Culture → 4
+History → 3
+Science - Biology → 3
+Economy → 2
+Current Affairs → 2
+Sports → 2
+Polity → 2
+Important Days → 1
+Science - Physics → 1
+Books & Authors → 0
+Science - Chemistry → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Art & Culture → 4
+History → 4
+Geography → 3
+Current Affairs → 2
+Polity → 2
+Science - Biology → 2
+Economy → 2
+Sports → 2
+Science - Physics → 1
+Science & Technology → 1
+Science - Chemistry → 1
+Books & Authors → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 17-Oct-2024 | Shift: 3
+
+History → 5
+Art & Culture → 4
+Geography → 4
+Economy → 4
+Sports → 2
+Science - Biology → 2
+Polity → 2
+Science - Chemistry → 1
+Books & Authors → 1
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 18-Oct-2024 | Shift: 1
+
+Art & Culture → 4
+History → 4
+Geography → 3
+Current Affairs → 2
+Environment & Ecology → 2
+Sports → 2
+Polity → 2
+Science - Biology → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Economy → 1
+Science - Physics → 0
+Science & Technology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 18-Oct-2024 | Shift: 2
+
+Art & Culture → 4
+Economy → 4
+Geography → 3
+History → 3
+Sports → 3
+Polity → 2
+Books & Authors → 1
+Important Days → 1
+Government Schemes → 1
+Science - Biology → 1
+Science - Water & Environment → 1
+Science - Chemistry → 0
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 18-Oct-2024 | Shift: 3
+
+History → 5
+Art & Culture → 4
+Economy → 4
+Geography → 3
+Sports → 2
+Polity → 2
+Science - Chemistry → 2
+Books & Authors → 1
+Science - Biology → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 21-Oct-2024 | Shift: 1
+
+History → 5
+Geography → 4
+Art & Culture → 3
+Polity → 3
+Economy → 2
+Science - Biology → 2
+Sports → 2
+Books & Authors → 1
+Government Schemes → 1
+Science - Physics → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 21-Oct-2024 | Shift: 2
+
+History → 4
+Geography → 4
+Polity → 3
+Art & Culture → 3
+Government Schemes → 3
+Economy → 2
+Sports → 2
+Science - Biology → 2
+Books & Authors → 1
+Important Days → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 22-Oct-2024 | Shift: 1
+
+Geography → 5
+Art & Culture → 4
+History → 3
+Polity → 2
+Economy → 2
+Science - Chemistry → 2
+Current Affairs → 2
+Sports → 2
+Books & Authors → 1
+Science - Biology → 1
+Awards & Honours → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 22-Oct-2024 | Shift: 2
+
+History → 5
+Art & Culture → 4
+Geography → 4
+Polity → 3
+Sports → 2
+Current Affairs → 1
+Government Schemes → 1
+Science - Biology → 1
+Science - Physics → 1
+Science - Chemistry → 1
+Books & Authors → 1
+Economy → 1
+Environment & Ecology → 0
+Science & Technology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 22-Oct-2024 | Shift: 3
+
+History → 5
+Art & Culture → 5
+Economy → 3
+Geography → 3
+Sports → 3
+Polity → 2
+Science - Biology → 2
+Books & Authors → 1
+Current Affairs → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 23-Oct-2024 | Shift: 1
+
+Art & Culture → 4
+History → 4
+Geography → 3
+Economy → 2
+Sports → 2
+Books & Authors → 2
+Science - Biology → 2
+Polity → 2
+Government Schemes → 1
+Current Affairs → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 23-Oct-2024 | Shift: 2
+
+Geography → 4
+Art & Culture → 4
+History → 3
+Polity → 3
+Sports → 2
+Current Affairs → 2
+Books & Authors → 2
+Science - Biology → 2
+Economy → 1
+Science - Chemistry → 1
+Awards & Honours → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 23-Oct-2024 | Shift: 3
+
+History → 4
+Art & Culture → 4
+Economy → 4
+Geography → 2
+Science - Biology → 2
+Sports → 2
+Polity → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Government Schemes → 1
+Environment & Ecology → 1
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Awards & Honours → 0
+Important Days → 0
+Computer Awareness → 0
+Total General Awareness
+
+Held on: 28-Oct-2024 | Shift: 2
+
+History → 5
+Art & Culture → 4
+Geography → 4
+Polity → 3
+Economy → 2
+Current Affairs → 2
+Science - Biology → 2
+Sports → 1
+Science - Chemistry → 1
+Environment & Ecology → 1
+Awards & Honours → 1
+Books & Authors → 0
+Science - Physics → 0
+Science & Technology → 0
+Government Schemes → 0
+Important Days → 0
+Computer Awareness → 0
+
+Held on: 28-Oct-2024 | Shift: 3
+
+History → 5
+Geography → 5
+Polity → 4
+Art & Culture → 4
+Current Affairs → 2
+Sports → 2
+Science - Biology → 1
+Science - Chemistry → 1
+Books & Authors → 0
+Economy → 0
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 29-Oct-2024 | Shift: 1
+
+Geography → 4
+History → 4
+Art & Culture → 4
+Science - Biology → 3
+Sports → 2
+Current Affairs → 2
+Polity → 2
+Books & Authors → 1
+Economy → 1
+Science - Chemistry → 1
+Government Schemes → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 29-Oct-2024 | Shift: 2
+
+Art & Culture → 4
+Geography → 4
+History → 4
+Economy → 3
+Polity → 3
+Science - Biology → 3
+Sports → 2
+Books & Authors → 1
+Current Affairs → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 29-Oct-2024 | Shift: 3
+
+History → 5
+Geography → 4
+Art & Culture → 4
+Polity → 3
+Economy → 3
+Science - Biology → 2
+Sports → 1
+Current Affairs → 1
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 30-Oct-2024 | Shift: 1
+
+Geography → 4
+History → 4
+Art & Culture → 4
+Science - Biology → 3
+Polity → 2
+Current Affairs → 2
+Sports → 2
+Economy → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 30-Oct-2024 | Shift: 2
+
+Art & Culture → 5
+Geography → 5
+History → 3
+Polity → 3
+Economy → 3
+Sports → 2
+Science - Chemistry → 2
+Books & Authors → 1
+Science - Biology → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 30-Oct-2024 | Shift: 3
+
+Geography → 4
+History → 4
+Art & Culture → 4
+Science - Chemistry → 3
+Current Affairs → 3
+Sports → 2
+Polity → 2
+Books & Authors → 1
+Economy → 1
+Science - Biology → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 04-Nov-2024 | Shift: 1
+
+History → 5
+Geography → 5
+Art & Culture → 4
+Sports → 2
+Science - Biology → 2
+Polity → 2
+Government Schemes → 1
+Economy → 1
+Books & Authors → 1
+Science - Chemistry → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 04-Nov-2024 | Shift: 2
+
+History → 5
+Art & Culture → 4
+Polity → 4
+Geography → 3
+Sports → 2
+Science - Biology → 2
+Economy → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+Total General Awarenes
+
+Held on: 04-Nov-2024 | Shift: 3
+
+History → 5
+Art & Culture → 5
+Geography → 4
+Polity → 4
+Sports → 2
+Science - Biology → 2
+Economy → 1
+Books & Authors → 1
+Science - Chemistry → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 05-Nov-2024 | Shift: 1
+
+History → 4
+Art & Culture → 5
+Geography → 4
+Economy → 4
+Polity → 2
+Science - Biology → 2
+Science - Chemistry → 2
+Sports → 2
+Current Affairs → 2
+Books & Authors → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 05-Nov-2024 | Shift: 2
+
+History → 5
+Geography → 4
+Art & Culture → 4
+Economy → 4
+Polity → 3
+Sports → 2
+Science - Biology → 2
+Science - Chemistry → 2
+Current Affairs → 2
+Books & Authors → 1
+Important Days → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 05-Nov-2024 | Shift: 3
+
+History → 5
+Art & Culture → 4
+Polity → 4
+Geography → 4
+Sports → 3
+Current Affairs → 2
+Science - Biology → 2
+Economy → 2
+Science - Chemistry → 2
+Books & Authors → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 11-Nov-2024 | Shift: 1
+
+History → 4
+Geography → 4
+Art & Culture → 4
+Current Affairs → 3
+Science - Biology → 3
+Economy → 2
+Polity → 2
+Sports → 2
+Science - Chemistry → 1
+Books & Authors → 0
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 11-Nov-2024 | Shift: 2
+
+History → 5
+Geography → 5
+Polity → 3
+Art & Culture → 3
+Sports → 2
+Science - Biology → 2
+Economy → 1
+Current Affairs → 1
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 11-Nov-2024 | Shift: 3
+
+History → 5
+Art & Culture → 4
+Geography → 3
+Polity → 3
+Economy → 3
+Sports → 2
+Science - Chemistry → 2
+Science - Biology → 2
+Current Affairs → 2
+Books & Authors → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 12-Nov-2024 | Shift: 1
+
+Art & Culture → 5
+History → 4
+Geography → 4
+Polity → 3
+Economy → 2
+Science - Biology → 2
+Sports → 2
+Current Affairs → 1
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 12-Nov-2024 | Shift: 2
+
+Art & Culture → 5
+History → 4
+Geography → 3
+Polity → 2
+Economy → 2
+Current Affairs → 2
+Science - Biology → 2
+Sports → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Environment & Ecology → 1
+Science - Physics → 0
+Science & Technology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 12-Nov-2024 | Shift: 3
+
+History → 5
+Art & Culture → 5
+Geography → 3
+Economy → 3
+Polity → 2
+Current Affairs → 2
+Sports → 2
+Science - Chemistry → 2
+Environment & Ecology → 2
+Books & Authors → 1
+Science - Biology → 2
+Science - Physics → 0
+Science & Technology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 13-Nov-2024 | Shift: 2
+
+Art & Culture → 5
+History → 4
+Geography → 4
+Polity → 3
+Economy → 3
+Current Affairs → 2
+Science - Biology → 2
+Sports → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 13-Nov-2024 | Shift: 3
+
+Art & Culture → 5
+History → 5
+Geography → 4
+Economy → 4
+Polity → 3
+Science - Biology → 2
+Sports → 2
+Books & Authors → 1
+Science & Technology → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 14-Nov-2024 | Shift: 2
+
+Geography → 5
+History → 4
+Art & Culture → 4
+Polity → 3
+Economy → 2
+Science - Biology → 2
+Current Affairs → 2
+Sports → 2
+Books & Authors → 2
+Science - Physics → 1
+Science - Chemistry → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 14-Nov-2024 | Shift: 3
+
+Geography → 5
+History → 4
+Art & Culture → 4
+Polity → 3
+Science - Chemistry → 3
+Economy → 2
+Science - Biology → 2
+Sports → 2
+Government Schemes → 2
+Current Affairs → 1
+Books & Authors → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 01-Sep-2023 | Shift: 1
+
+Art & Culture → 5
+History → 4
+Geography → 4
+Economy → 3
+Polity → 3
+Sports → 3
+Science - Biology → 1
+Books & Authors → 2
+Science - Chemistry → 1
+Government Schemes → 1
+Important Days → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Computer Awareness → 0
+Total General Awarenes
+
+Held on: 01-Sep-2023 | Shift: 2
+
+History → 4
+Geography → 5
+Art & Culture → 5
+Polity → 3
+Economy → 3
+Sports → 3
+Science - Biology → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Art & Culture → 5
+History → 5
+Geography → 3
+Polity → 3
+Economy → 3
+Sports → 3
+Science - Biology → 2
+Books & Authors → 2
+Environment & Ecology → 1
+Government Schemes → 1
+Current Affairs → 1
+Science - Physics → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Art & Culture → 6
+Geography → 5
+Sports → 3
+History → 2
+Economy → 2
+Books & Authors → 2
+Polity → 2
+Government Schemes → 1
+Science - Physics → 1
+Science - Biology → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 04-Sep-2023 | Shift: 2
+
+Art & Culture → 6
+Geography → 5
+History → 3
+Polity → 3
+Economy → 2
+Sports → 3
+Books & Authors → 1
+Science - Biology → 1
+Science - Chemistry → 1
+Current Affairs → 0
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Geography → 5
+Art & Culture → 4
+History → 3
+Sports → 3
+Economy → 2
+Polity → 2
+Books & Authors → 2
+Science - Biology → 1
+Government Schemes → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Current Affairs → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Art & Culture → 5
+Geography → 5
+Sports → 3
+Economy → 3
+Polity → 3
+History → 2
+Books & Authors → 2
+Government Schemes → 1
+Science - Biology → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Current Affairs → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 06-Sep-2023 | Shift: 2
+
+Art & Culture → 5
+Geography → 5
+History → 4
+Polity → 3
+Sports → 3
+Economy → 2
+Current Affairs → 2
+Science - Biology → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Art & Culture → 5
+Geography → 5
+History → 4
+Polity → 3
+Sports → 3
+Economy → 3
+Current Affairs → 2
+Science - Biology → 1
+Books & Authors → 1
+Science - Chemistry → 1
+Government Schemes → 0
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 06-Sep-2023 | Shift: 3
+
+History → 4
+Geography → 5
+Art & Culture → 5
+Polity → 3
+Economy → 3
+Sports → 2
+Science - Biology → 2
+Current Affairs → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 08-Sep-2023 | Shift: 2
+
+Geography → 5
+Art & Culture → 4
+History → 3
+Economy → 3
+Sports → 3
+Polity → 4
+Science - Biology → 2
+Books & Authors → 1
+Science - Chemistry → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 08-Sep-2023 | Shift: 3
+
+Art & Culture → 5
+Geography → 5
+Polity → 4
+Sports → 4
+Economy → 3
+Current Affairs → 3
+History → 2
+Books & Authors → 2
+Science - Biology → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 11-Sep-2023 | Shift: 2
+
+Geography → 5
+History → 4
+Art & Culture → 4
+Polity → 4
+Sports → 3
+Economy → 3
+Science - Biology → 2
+Books & Authors → 2
+Science - Chemistry → 2
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 11-Sep-2023 | Shift: 1
+
+Geography → 4
+History → 4
+Art & Culture → 4
+Economy → 3
+Polity → 2
+Books & Authors → 2
+Sports → 2
+Government Schemes → 1
+Science - Chemistry → 1
+Science - Biology → 1
+Important Days → 1
+Current Affairs → 0
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 11-Sep-2023 | Shift: 3
+
+Geography → 5
+Art & Culture → 5
+History → 4
+Economy → 4
+Polity → 2
+Books & Authors → 2
+Sports → 2
+Science - Biology → 1
+Science - Physics → 1
+Science - Chemistry → 1
+Current Affairs → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 12-Sep-2023 | Shift: 3
+
+Art & Culture → 5
+Economy → 5
+Geography → 4
+History → 4
+Polity → 4
+Books & Authors → 2
+Sports → 2
+Science - Biology → 1
+Science - Physics → 1
+Current Affairs → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 13-Sep-2023 | Shift: 1
+
+Art & Culture → 5
+Geography → 4
+History → 4
+Sports → 3
+Polity → 2
+Economy → 2
+Books & Authors → 2
+Current Affairs → 1
+Science - Biology → 1
+Science - Physics → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 13-Sep-2023 | Shift: 2
+
+Art & Culture → 5
+Geography → 4
+History → 4
+Polity → 3
+Sports → 3
+Economy → 3
+Books & Authors → 2
+Science - Biology → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Current Affairs → 1
+Government Schemes → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 13-Sep-2023 | Shift: 3
+
+Art & Culture → 5
+Geography → 4
+History → 3
+Sports → 3
+Polity → 3
+Economy → 3
+Books & Authors → 2
+Science - Biology → 2
+Government Schemes → 2
+Science - Chemistry → 1
+Current Affairs → 1
+Science - Physics → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 14-Sep-2023 | Shift: 1
+
+Art & Culture → 5
+History → 5
+Geography → 4
+Economy → 4
+Polity → 4
+Sports → 3
+Science - Biology → 2
+Books & Authors → 2
+Government Schemes → 1
+Science - Chemistry → 0
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 14-Sep-2023 | Shift: 2
+
+Art & Culture → 5
+History → 5
+Geography → 4
+Economy → 4
+Polity → 4
+Sports → 3
+Books & Authors → 2
+Science - Biology → 2
+Science - Chemistry → 1
+Current Affairs → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 1
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Art & Culture → 5
+Economy → 5
+History → 5
+Polity → 4
+Geography → 4
+Sports → 3
+Science - Biology → 2
+Science - Physics → 1
+Science - Chemistry → 1
+Books & Authors → 2
+Current Affairs → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+             @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 14-Sep-2023 | Shift: 3
+
+History → 5
+Geography → 5
+Art & Culture → 4
+Science - Biology → 3
+Polity → 2
+Sports → 2
+Economy → 2
+Current Affairs → 2
+Books & Authors → 1
+Science - Chemistry → 0
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 05-Jul-2022 | Shift: 1
+
+History → 5
+Art & Culture → 4
+Geography → 4
+Sports → 2
+Current Affairs → 2
+Polity → 2
+Books & Authors → 1
+Science - Biology → 1
+Science - Chemistry → 1
+Government Schemes → 1
+Economy → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 05-Jul-2022 | Shift: 3
+
+Geography → 5
+History → 4
+Art & Culture → 4
+Economy → 4
+Polity → 4
+Sports → 2
+Books & Authors → 2
+Science - Biology → 2
+Science - Physics → 1
+Science - Chemistry → 1
+Current Affairs → 2
+Government Schemes → 1
+Environment & Ecology → 1
+Science & Technology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 06-Jul-2022 | Shift: 1
+
+History → 5
+Geography → 5
+Art & Culture → 4
+Economy → 3
+Sports → 3
+Polity → 3
+Science - Biology → 3
+Science - Chemistry → 2
+Books & Authors → 1
+Science - Physics → 1
+Current Affairs → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 06-Jul-2022 | Shift: 2
+
+Geography → 5
+Art & Culture → 5
+History → 4
+Polity → 3
+Sports → 2
+Current Affairs → 2
+Science - Biology → 2
+Books & Authors → 1
+Economy → 1
+Science - Chemistry → 1
+Science - Physics → 1
+Government Schemes → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 06-Jul-2022 | Shift: 3
+
+Geography → 5
+History → 4
+Art & Culture → 4
+Polity → 3
+Science - Biology → 3
+Sports → 3
+Books & Authors → 2
+Science - Chemistry → 2
+Current Affairs → 1
+Economy → 1
+Science - Physics → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 07-Jul-2022 | Shift: 1
+
+History → 5
+Art & Culture → 5
+Geography → 4
+Current Affairs → 3
+Science - Biology → 3
+Sports → 2
+Economy → 2
+Polity → 2
+Books & Authors → 1
+Science - Physics → 1
+Science - Chemistry → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 07-Jul-2022 | Shift: 2
+
+History → 5
+Art & Culture → 4
+Geography → 4
+Polity → 3
+Economy → 3
+Books & Authors → 2
+Sports → 2
+Science - Biology → 2
+Science - Chemistry → 2
+Science - Physics → 1
+Current Affairs → 3
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 07-Jul-2022 | Shift: 3
+
+History → 5
+Art & Culture → 4
+Geography → 4
+Polity → 3
+Sports → 2
+Economy → 2
+Books & Authors → 2
+Science - Biology → 2
+Current Affairs → 2
+Science - Chemistry → 2
+Government Schemes → 1
+Science - Physics → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 08-Jul-2022 | Shift: 1
+
+Art & Culture → 5
+Geography → 4
+History → 4
+Current Affairs → 3
+Sports → 3
+Science - Biology → 2
+Economy → 2
+Polity → 2
+Books & Authors → 1
+Government Schemes → 1
+Science - Physics → 2
+Science - Chemistry → 1
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 08-Jul-2022 | Shift: 3
+
+Art & Culture → 5
+Geography → 5
+History → 4
+Sports → 3
+Polity → 3
+Science - Biology → 3
+Current Affairs → 2
+Books & Authors → 2
+Economy → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Art & Culture → 5
+Geography → 5
+History → 4
+Sports → 3
+Polity → 3
+Science - Biology → 3
+Current Affairs → 2
+Books & Authors → 2
+Economy → 1
+Science - Chemistry → 1
+Science - Physics → 0
+Science & Technology → 0
+Environment & Ecology → 0
+Government Schemes → 0
+Important Days → 0
+Awards & Honours → 0
+Computer Awareness → 0
+Total General Awarenes
+
+Held on: 11-Jul-2022 | Shift: 1
+
+History → 5
+Geography → 4
+Polity → 4
+Art & Culture → 3
+Sports → 2
+Current Affairs → 2
+Books & Authors → 1
+Government Schemes → 1
+Science - Chemistry → 3
+Science - Physics → 1
+Science - Biology → 1
+Science & Technology → 1
+Important Days → 1
+Awards & Honours → 1
+Environment & Ecology → 0
+Computer Awareness → 0
+
+Held on: 27-Oct-2021 | Shift: 1
+
+History → 4
+Art & Culture → 4
+Geography → 3
+Polity → 2
+Government Schemes → 2
+Important Days → 2
+Sports → 2
+Current Affairs → 2
+Science & Technology → 1
+Science - Chemistry → 1
+Economy → 1
+Books & Authors → 1
+Environment & Ecology → 1
+Awards & Honours → 1
+Science - Physics → 1
+Science - Biology → 0
+Computer Awareness → 0
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Geography → 5
+Economy → 5
+Polity → 5
+History → 4
+Science - Biology → 4
+Science - Chemistry → 3
+Science - Physics → 2
+Science & Technology → 2
+Sports → 1
+Computer Awareness → 1
+Current Affairs → 1
+Environment & Ecology → 1
+Books & Authors → 0
+Important Days → 0
+Awards & Honours → 0
