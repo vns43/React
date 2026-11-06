@@ -1,0 +1,2359 @@
+File name: ECONOMY.txt
+Language: 
+Held on: 04-Feb-2026 | Shift: 3
+
+.49 Nominal GDP differs from Real GDP because nominal GDP is measured at
+ A. base year prices
+ B. current market prices
+ C. international prices
+ D. wholesale prices
+ (Topic: National Income Accounting)
+
+Q.59 Disinvestment of public sector enterprises mainly refers to
+ A. closing loss making units
+ B. reducing government ownership in PSUs
+ C. increasing subsidies
+ D. nationalising private firms
+ (Topic: Disinvestment)
+
+Q.62 Which Five Year Plan of India emphasized rapid industrial growth with focus on heavy industries?
+ A. First
+ B. Second
+ C. Fourth
+ D. Seventh
+ (Topic: Five Year Plans)
+
+Held on: 05-Feb-2026 | Shift: 1
+
+Q.44 In the context of Balance of Payment, which of the following is typically recorded in the Current account?
+ A. Foreign Direct Investment
+ B. Portfolio Investment
+ C. Trade in Services
+ D. External Commercial Borrowings
+ (Topic: Balance of Payments)
+
+Q.49 Regarding the First Industrial Policy Resolution 1948 in India, which of the following statements is correct?
+
+I. It accepted the importance of both private and public sectors for industrial development.
+ II. It gave the government the exclusive right to start new ventures in the iron and steel industry.
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Industrial Policy Resolution 1948)
+
+Q.53 Which of the following statements is correct regarding the Third Five Year Plan of India?
+
+I. The plan was also known as 'Gadgil Yojana'.
+ II. It aimed to make the economy independent and reach a self-active take-off stage.
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Five Year Plans)
+
+Q.58 Which of the following is an example of an indirect tax levied by the government?
+ A. Income Tax
+ B. Goods and Services Tax
+ C. Corporate Tax
+ D. Wealth Tax
+ (Topic: Taxation)
+
+Q.60 The Real Estate (Regulation and Development) Act, 2016 (RERA) is related to which sector?
+ A. Banking sector
+ B. Real Estate sector
+ C. Education sector
+ D. Agriculture sector
+ (Topic: RERA Act 2016)
+
+Held on: 05-Feb-2026 | Shift: 2
+
+Q.43 In the Balance of Payments (BoP), which of the following is recorded under the 'Capital Account'?
+ A. Trade in goods
+ B. Trade in services
+ C. Foreign Direct Investment (FDI)
+ D. Unilateral transfers
+ (Topic: Balance of Payments)
+
+Q.48 What is the approximate time period of the first phase of Operation Flood (White Revolution) in India?
+ A. 1970 to 1980
+ B. 1985 to 1995
+ C. 1960 to 1970
+ D. 1990 to 2000
+ (Topic: White Revolution)
+
+Q.49 Which of the following is a direct instrument of monetary policy of the Reserve Bank of India?
+
+I. Cash Reserve Ratio (CRR)
+ II. Open Market Operations
+
+A. Neither I nor II
+ B. Both I and II
+ C. Only II
+ D. Only I
+ (Topic: Monetary Policy)
+
+Q.58 The decimal system of coinage was introduced in India in which year?
+ A. 1950
+ B. 1954
+ C. 1957
+ D. 1961
+ (Topic: Indian Currency)
+
+Held on: 05-Feb-2026 | Shift: 3
+
+Q.48 What is the approximate time period of the first phase of Operation Flood (White Revolution) in India?
+ A. 1970 to 1980
+ B. 1985 to 1995
+ C. 1960 to 1970
+ D. 1990 to 2000
+ (Topic: White Revolution)
+
+Q.49 Which of the following is a direct instrument of monetary policy of the Reserve Bank of India?
+
+I. Cash Reserve Ratio (CRR)
+ II. Open Market Operations
+
+A. Neither I nor II
+ B. Both I and II
+ C. Only II
+ D. Only I
+ (Topic: Monetary Policy)
+
+Q.51 In 2018, a new Rs. 100 note was released by the RBI. The reverse side of this note features _____.
+ A. Rani ki Vav
+ B. Red Fort
+ C. Sanchi Stupa
+ D. Hampi with Chariot
+ (Topic: Indian Currency)
+
+Q.60 Under the New Economic Policy of 1991, 'Liberalization' primarily aimed at ensuring that the
+ A. private sector is freed from unnecessary government controls and licenses
+ B. public sector units were given total monopoly
+ C. foreign investment was completely banned
+ D. government fixed the prices of all essential commodities
+ (Topic: Economic Reforms 1991)
+
+Held on: 06-Feb-2026 | Shift: 1
+
+Q.42 The Life Insurance Corporation of India (LIC) was established in the year
+ A. 1948
+ B. 1956
+ C. 1964
+ D. 1972
+ (Topic: Financial Institutions)
+
+Q.49 The new series Rs. 200 banknote was introduced by the RBI. What is the approximate width of this note in millimeters?
+ A. 120
+ B. 146
+ C. 166
+ D. 150
+ (Topic: Indian Currency)
+
+Q.50 'T' is a sector of the economy that provides services to both consumers and the production sectors. Which of the following is part of 'T'?
+ A. Mining
+ B. Information Technology
+ C. Animal Husbandry
+ D. Textile Manufacturing
+ (Topic: Sectors of Economy)
+
+Q.61 In which year was the Dena Bank merged with the Bank of Baroda?
+ A. 2017
+ B. 2018
+ C. 2019
+ D. 2020
+ (Topic: Banking in India)
+
+Q.62 To calculate Net Domestic Product (NDP) from Gross Domestic Product (GDP), what must be subtracted?
+ A. Indirect Taxes
+ B. Subsidies
+ C. Depreciation
+ D. Net Factor Income from Abroad
+ (Topic: National Income)
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Q.57 Which of the following bank was NOT nationalised in 1980?
+ A. New Bank of India Limited
+ B. Oriental Bank of Commerce Limited
+ C. Punjab and Sind Bank Limited
+ D. Syndicate Bank
+ (Topic: Banking in India)
+
+Q.59 The disinvestment process of CPSEs (Central Public Sector Enterprises) in India was initiated in the year
+ A. 1989
+ B. 1987
+ C. 1991
+ D. 1985
+ (Topic: Disinvestment)
+
+Q.60 The National Manufacturing Policy in India was announced in
+ A. 2003
+ B. 2007
+ C. 2011
+ D. 2015
+ (Topic: Industrial Policy)
+
+Q.64 In the Socio Economic and Caste Census (SECC) 2011, how many criteria were there for automatic inclusion of rural households?
+ A. 5
+ B. 7
+ C. 11
+ D. 12
+ (Topic: SECC 2011)
+
+Held on: 12-Feb-2026 | Shift: 3
+
+Q.49 In the Socio Economic and Caste Census (SECC) 2011, how many deprivation criteria was there?
+ A. 5
+ B. 7
+ C. 11
+ D. 12
+ (Topic: SECC 2011)
+
+Q.50 The Asian Infrastructure Investment Bank commenced its operations in _______
+ A. 1991
+ B. 1997
+ C. 2003
+ D. 2016
+ (Topic: International Financial Institutions)
+
+Q.56 In the context of mixed economy of India, "For whom to produce" is decided by _______ in the economy.
+ A. a combination of market forces and government intervention
+ B. market forces alone
+ C. government alone
+ D. None of the above
+ (Topic: Mixed Economy)
+
+Q.60 In which year did India established its first Export Processing Zone (EPZ)?
+ A. 1965
+ B. 1969
+ C. 1978
+ D. 1984
+ (Topic: Export Processing Zones)
+
+Q.62 In which year was the Disinvestment Commission set up in India?
+ A. 1992
+ B. 1994
+ C. 1996
+ D. 1998
+ (Topic: Disinvestment)
+
+Held on: 12-Feb-2026 | Shift: 2
+
+Q.76 Which of the following committee has NOT recommended the consolidation of Public Sector Banks?
+ A. Narasimham Committee
+ B. Leeladhar Committee
+ C. Nayak Committee
+ D. Tendulkar Committee
+ (Topic: Banking Reforms)
+
+Q.77 The total domestic raw coking coal production during the financial year 2023–24 is _____ million tonnes.
+ A. 99.821
+ B. 66.821
+ C. 23.821
+ D. 76.821
+ (Topic: Coal Industry)
+
+Q.83 Which of the following was time period of Seventh Five Year Plan of India?
+ A. 1972-1977
+ B. 1975-1980
+ C. 1985-1990
+ D. 1995-2000
+ (Topic: Five Year Plans)
+
+Held on: 12-Feb-2026 | Shift: 1
+
+Q.70 In the mega consolidation in public sector banks in 2020, which of the following banks were merged into Union Bank of India?
+ A. Oriental Bank of Commerce and United Bank of India
+ B. Syndicate Bank
+ C. Andhra Bank and Corporation Bank
+ D. Allahabad Bank
+ (Topic: Banking Sector Reforms)
+
+Q.76 How many banks in India were nationalised in the year 1969?
+ A. 28
+ B. 14
+ C. 9
+ D. 35
+ (Topic: Bank Nationalisation)
+
+Q.85 Which country launched the Chamran-1 satellite in September 2024?
+ A. Israel
+ B. India
+ C. China
+ D. Iran
+ (Topic: International Economy & Current Affairs)
+
+Held on: 11-Feb-2026 | Shift: 3
+
+Q.66 As per the Sectoral Composition of Workforce in India, 2011, what percentage of the total workforce was engaged in the primary sector?
+ A. 34.6%
+ B. 54.6%
+ C. 64.6%
+ D. 61.6%
+ (Topic: Indian Economy)
+
+Q.72 After which of the following country joining, BRIC transformed into BRICS?
+ A. Spain
+ B. Somalia
+ C. South Africa
+ D. Serbia
+ (Topic: International Economic Organizations)
+
+Q.77 In which year did the GDP of India crossed the 1 trillion-dollar mark?
+ A. 2007
+ B. 2008
+ C. 2009
+ D. 2006
+ (Topic: GDP of India)
+
+Q.83 As per the Industrial Policy Statement, 1977 a tiny unit was one which has an investment of Rs. _____ lakh.
+ A. 0.5
+ B. 1
+ C. 5
+ D. 10
+ (Topic: Industrial Policy 1977)
+
+Q.88 The second five year plan of India was completed in _____.
+ A. 1956
+ B. 1961
+ C. 1965
+ D. 1969
+ (Topic: Five Year Plans)
+
+Held on: 30-Sep-2024 | Shift: 1
+
+Q.18 Which of the following is one of the features of capital goods?
+ A. They are durable.
+ B. They are Giffen goods.
+ C. They are inferior goods.
+ D. They are inexpensive.
+ (Topic: Basic Economics)
+
+                   @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 30-Sep-2024 | Shift: 2
+
+Q.1 Calculate the revenue receipts from the following information.
+
+Revenue deficit = 2.80% of GDP
+ Revenue expenditure = 10.80% of GDP
+
+A. 13.60
+ B. 12.80
+ C. 8.00
+ D. 2.70
+ (Topic: Public Finance)
+
+Held on: 30-Sep-2024 | Shift: 3
+
+Q.14 Which of the following is NOT a part of the capital receipts?
+ A. Borrowing
+ B. Disinvestment
+ C. Tax revenue
+ D. Recovery of loan
+ (Topic: Public Finance)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.3 In general, deficit is considered as a ______ concept.
+ A. flow
+ B. surplus
+ C. margin
+ D. stock
+ (Topic: Basic Economics)
+
+Q.11 Which of the following age groups is considered as working population or working age in India?
+ A. 25-65 years
+ B. 15-40 years
+ C. 15-59 years
+ D. 0-60 years
+ (Topic: Workforce & Employment)
+
+Q.8 The PM-SVANidhi Scheme (2020) is run by which Ministry of the Government of India?
+ A. Ministry of Rural Development
+ B. Ministry of Housing and Urban Affairs
+ C. Ministry of Finance
+ D. Ministry of Labour and Employment
+ (Topic: Financial Inclusion & Street Vendors)
+
+ECONOMY (3)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.3 In general, deficit is considered as a ______ concept.
+ A. flow
+ B. surplus
+ C. margin
+ D. stock
+ (Topic: Basic Economics)
+
+Q.11 Which of the following age groups is considered as working population or working age in India?
+ A. 25-65 years
+ B. 15-40 years
+ C. 15-59 years
+ D. 0-60 years
+ (Topic: Workforce & Employment)
+
+Q.8 The PM-SVANidhi Scheme (2020) is run by which Ministry of the Government of India?
+ A. Ministry of Rural Development
+ B. Ministry of Housing and Urban Affairs
+ C. Ministry of Finance
+ D. Ministry of Labour and Employment
+ (Topic: Financial Inclusion & Street Vendors)
+
+Held on: 01-Oct-2024 | Shift: 2
+
+Q.4 The Steel Authority of India Limited (SAIL) is an example of the _________ industry.
+ A. Joint sector
+ B. Private sector
+ C. Public sector
+ D. Cooperative sector
+ (Topic: Public Sector Enterprises)
+
+Q.7 In the context of microfinance, what does ‘S’ stand for in SHG?
+ A. Steady
+ B. Self
+ C. Sustainable
+ D. Social
+ (Topic: Self Help Groups)
+
+Q.15 According to the National Multidimensional Poverty Index 2021, which Union Territory has the lowest proportion of poor?
+ A. Chandigarh
+ B. Puducherry
+ C. Lakshadweep
+ D. Delhi
+ (Topic: Poverty Index)
+
+Held on: 07-Oct-2024 | Shift: 1
+
+Q.4 What is Cash Reserve Ratio?
+ A. Percentage of deposits that a bank must keep as cash reserves with the central bank
+ B. Percentage of deposits that a bank must keep as cash reserves with any bank
+ C. Percentage of deposits that a central bank must keep as cash reserves with the government
+ D. Percentage of deposits that a central bank must keep as cash reserves with the bank
+ (Topic: Banking & Monetary Policy)
+
+Held on: 07-Oct-2024 | Shift: 3
+
+Q.9 Which of the following was the first Regional Rural Bank of India?
+ A. Bandhan Bank
+ B. Utkarsh Bank
+ C. Vishwas Bank
+ D. Pratham Bank
+ (Topic: Banking in India)
+
+Q.13 In which year was the Multi-dimensional Poverty Index launched in India?
+ A. 2022
+ B. 2020
+ C. 2021
+ D. 2023
+ (Topic: Poverty Index)
+
+Q.15 According to Labour and Employment Statistics 2022, match the states in the first column with their rate of unemployment in the year 2020-21 given in the second column.
+ A. i-d, ii-c, iii-b, iv-a
+ B. i-d, ii-b, iii-c, iv-a
+ C. i-b, ii-d, iii-a, iv-c
+ D. i-a, ii-c, iii-d, iv-b
+ (Topic: Employment & Unemployment)
+
+Q.18 What was the percentage increase in the disbursal of 'Pradhan Mantri Mudra Yojana' (PMMY) loans in the first quarter of FY 2023-24 compared to the same quarter in the previous year, if the disbursal reached ₹81,597 crore, up from ₹62,650 crore?
+ A. 23%
+ B. 27%
+ C. 20%
+ D. 15%
+ (Topic: PM Mudra Yojana)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.3 What is the usual treatment on repo rates by the Reserve Bank of India in case of a hawkish monetary policy stance?
+ A. Increased
+ B. Reduced gradually
+ C. Kept the same
+ D. Reduced sharply by more than 100 bps
+ (Topic: Monetary Policy / Repo Rate)
+
+Q.10 As of July 2023, 137 unique products under 'One District, One Product' scheme has been notified from how many districts?
+ A. 538
+ B. 256
+ C. 713
+ D. 657
+ (Topic: One District One Product Scheme)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.3 What is the usual treatment on repo rates by the Reserve Bank of India in case of a hawkish monetary policy stance?
+ A. Increased
+ B. Reduced gradually
+ C. Kept the same
+ D. Reduced sharply by more than 100 bps
+ (Topic: Monetary Policy / Repo Rate)
+
+Q.10 As of July 2023, 137 unique products under 'One District, One Product' scheme has been notified from how many districts?
+ A. 538
+ B. 256
+ C. 713
+ D. 657
+ (Topic: One District One Product Scheme)
+
+Held on: 08-Oct-2024 | Shift: 2
+
+Q.16 In the context of microfinance in India, the concept of SHG-BLP is used. What does L stand for in SHG-BLP?
+ A. Linkage
+ B. Lending
+ C. Lend
+ D. Link
+ (Topic: Microfinance & SHG-BLP)
+
+Held on: 08-Oct-2024 | Shift: 3
+
+Q.6 Which of the following statements is/are correct about the Union Government budget in India?
+
+a. The Budget reflects the vision of the government in fulfilling the aspirations of people.
+ b. The Budget is the summary report of the financial performance of the government in power.
+ c. The Budget provides details of expenditures meted out by various Union Government ministries.
+
+A. All a, b and c
+ B. Only a and b
+ C. Only c
+ D. Only a
+ (Topic: Union Budget)
+
+Q.21 According to National Multidimensional Poverty Index 2023 (A Progress Review), what was the proportion of population in multidimensional poverty (Headcount Ratio) in urban India in 2019-2021?
+ A. 6.96%
+ B. 2.12%
+ C. 11.32%
+ D. 5.27%
+ (Topic: Poverty Index)
+
+Q.25 In which of the following years was the National Population Policy of India released?
+ A. 2000
+ B. 2015
+ C. 1952
+ D. 1995
+ (Topic: Population Policy)
+
+Held on: 09-Oct-2024 | Shift: 1
+
+Q.5 According to National Multidimensional Poverty Index 2023 (A Progress Review), which state has the highest proportion of multidimensionally poor people (Headcount Ratio)?
+ A. Odisha
+ B. Rajasthan
+ C. Bihar
+ D. Jharkhand
+ (Topic: Poverty Index)
+
+Q.17 Based on the Tendulkar Committee, the National poverty line was defined as which of the following?
+
+i. ₹816 per capita per month for rural areas
+ ii. ₹1,000 per capita per month for urban areas
+
+A. Both i and ii are incorrect
+ B. Only i is correct
+ C. Only ii is correct
+ D. Both i and ii are correct
+ (Topic: Poverty Estimation in India)
+
+Q.18 Which of the followings is NOT one of the government accounts of India?
+ A. Contingency Fund of India
+ B. General Provident Fund
+ C. Public Accounts of India
+ D. Consolidated Funds of India
+ (Topic: Public Finance)
+
+Held on: 09-Oct-2024 | Shift: 2
+
+Q.22 What is the main objective of zero-based budgeting?
+ A. Examining the objectives for which funds are provided
+ B. Re-evaluation of all the activities every year when budget provisions are made
+ C. Establishing a relationship between inputs and outputs
+ D. To assess the effectiveness of each programme and activity with the output
+ (Topic: Budgeting)
+
+Q.23 What is the maximum amount of home loan the eligible beneficiaries can get under the ‘Mo Ghara’ scheme launched by the Government of Odisha in May 2023?
+ A. Upto ₹2 lakh
+ B. Upto ₹5.5 lakh
+ C. Upto ₹4 lakh
+ D. Upto ₹3 lakh
+ (Topic: Housing Scheme)
+
+Held on: 09-Oct-2024 | Shift: 3
+
+Q.11 A 5% decrease in poverty by 2007 was one of main objectives of the _________ plan.
+ A. Fourth Five-Year Plan (1966-1974)
+ B. Tenth Five-Year Plan (2002-2007)
+ C. Ninth Five-Year Plan (1997-2002)
+ D. Seventh Five-Year Plan (1985-90)
+ (Topic: Five Year Plans)
+
+Q.20 If the tax rate increases with the taxable base, then this type of taxation is called:
+ A. progressive
+ B. regressive
+ C. proportional
+ D. digressive
+ (Topic: Taxation)
+
+Q.18 In October 2023, Indrasena Reddy Nallu has been appointed the Governor of which of the following states in India?
+ A. Goa
+ B. Kerala
+ C. Tripura
+ D. Assam
+ (Topic: Governance & Economy Current Affairs)
+
+Held on: 14-Oct-2024 | Shift: 1
+
+Q.19 Who amongst the following stated the Grameen model of microfinance?
+ A. Prof. Abhijit Banerjee
+ B. Prof. Muhammad Yunus
+ C. Dr. Manmohan Singh
+ D. Prof. Amartya Sen
+ (Topic: Microfinance)
+
+Held on: 14-Oct-2024 | Shift: 2
+
+Q.1 Identify the primary characteristic of the Cooperative Development Foundation (CDF) model of SHGs regarding its focus on membership from the following.
+ A. It exclusively targets non-poor members.
+ B. It exclusively targets poor members.
+ C. It includes both poor and non-poor members.
+ D. It excludes women from membership.
+ (Topic: Self Help Groups - SHG)
+
+Held on: 14-Oct-2024 | Shift: 3
+
+Q.2 According to Global Multidimensional Poverty Index 2022, what was the population of the poor in India in 2020?
+ A. 428.9 million
+ B. 128.9 million
+ C. 328.9 million
+ D. 228.9 million
+ (Topic: Poverty Index)
+
+Q.15 Who amongst the following said that the government fiscal policy should be used to stabilise the level of output and employment?
+ A. JM Keynes
+ B. Alfred Marshall
+ C. Adam Smith
+ D. Lionel Charles Robbins
+ (Topic: Fiscal Policy)
+
+Held on: 15-Oct-2024 | Shift: 1
+
+Q.20 Which of the following microfinance units were established in India at the time of independence?
+ A. Self Help Groups
+ B. Grameen Model Banks
+ C. Rural Cooperatives
+ D. Joint Liability Groups
+ (Topic: Microfinance)
+
+Held on: 15-Oct-2024 | Shift: 2
+
+Q.14 What is Gross Domestic Product (GDP) in the context of National Income Accounting?
+ A. The total income of a country's government
+ B. The total exports of a country
+ C. The total savings of a nation
+ D. The total value of all goods and services produced within a country's borders in a specific period
+ (Topic: National Income Accounting)
+
+Held on: 15-Oct-2024 | Shift: 3
+
+Q.3 Which of the following is NOT included in the three main dimensions of the New Industrial Policy, 1991, announced by the Government of India?
+ A. Liberalisation
+ B. Globalisation
+ C. Privatisation
+ D. Urbanisation
+ (Topic: New Industrial Policy 1991)
+
+Q.4 When was India’s first ever budget presented?
+ A. 1948
+ B. 1860
+ C. 1935
+ D. 1857
+ (Topic: Indian Budget)
+
+Q.21 Which of the following sectors had the largest percentage of workforce in urban India in the year 2019-2020?
+ A. Service
+ B. Agriculture
+ C. Mining
+ D. Industry
+ (Topic: Workforce & Employment)
+
+Held on: 16-Oct-2024 | Shift: 1
+
+Q.9 Which of the following is a public sector industry in India?
+ A. Bajaj
+ B. Hindustan Unilever Limited
+ C. Tata Iron and Steel Company (TISCO)
+ D. Steel Authority of India Limited (SAIL)
+ (Topic: Public Sector Enterprises)
+
+Held on: 16-Oct-2024 | Shift: 2
+
+Q.23 Air and National Defence are examples of which of the following goods?
+ A. Club goods
+ B. Private goods
+ C. Public goods
+ D. Common goods
+ (Topic: Public Goods)
+
+Q.24 Who among the following personalities said, “What I object to is the ‘craze’ for
+machinery as such. The craze is for what they call labour-saving machinery. Men go on
+‘saving labour’ till thousands are without work and thrown to the open streets to die of
+starvation.”? 
+ A. Swami Vivekananda
+ B. Mahatma Gandhi
+ C. Pt. Jawaharlal Nehru
+ D. Lal Bahadur Shastri
+ (Topic: Gandhian Economics)
+
+
+Held on: 16-Oct-2024 | Shift: 3
+
+Q.7 Which of the following are the major objectives of governments engaged in the budgetary process in India?
+
+a. Stabilising the level of aggregate demand in the economy
+ b. Redistributing incomes of people as per constitutional principles
+ c. Floating schemes to appeal to citizens in a democratic way on a regular basis
+ d. Allocating funds to various economic activities
+
+A. All a, b, c and d
+ B. Only a, b and d
+ C. Only a, b and c
+ D. Only a and b
+ (Topic: Budget & Public Finance)
+
+Q.13 The Integrated Goods and Services Tax (Amendment) Bill, 2023 was introduced in Lok Sabha on 11 August 2023, which amends the ________________________.
+ A. Integrated Goods and Services Tax (IGST) Act, 2015
+ B. Integrated Goods and Services Tax (IGST) Act, 2016
+ C. Integrated Goods and Services Tax (IGST) Act, 2017
+ D. Integrated Goods and Services Tax (IGST) Act, 2014
+ (Topic: GST)
+
+Held on: 17-Oct-2024 | Shift: 1
+
+Q.2 As per Planning Commission of India, in 2004–05, the percentage of total population of India below poverty line (Lakadawala Poverty Estimates combined) was:
+ A. —
+ B. —
+ C. —
+ D. —
+ (Topic: Poverty Estimates)
+
+Q.25 Recreation services are an example of ________.
+ A. capital goods
+ B. consumer goods
+ C. intermediate goods
+ D. inferior goods
+ (Topic: Goods and Services)
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Q.14 Where does the cash grants in aid from foreign countries are classified?
+ A. Non-tax revenue
+ B. Capital receipt
+ C. Tax revenue
+ D. Revenue expenditure
+ (Topic: Public Finance)
+
+Q.20 National Urban Livelihood Mission (NULM) was launched in which of the following Five Year Plans?
+ A. Tenth Five Year Plan
+ B. Sixth Five Year Plan
+ C. Eighth Five Year Plan
+ D. Twelfth Five Year Plan
+ (Topic: Government Economic Programmes)
+
+Held on: 17-Oct-2024 | Shift: 3
+
+Q.2 Which type of loan is supported by MUDRA?
+ A. Primary loan
+ B. Real estate loan
+ C. Corporate loan
+ D. Non-farm loan
+ (Topic: MUDRA Scheme)
+
+Q.3 India launched the ‘National Social Assistance Programme’ in:
+ A. 1995
+ B. 1990
+ C. 1985
+ D. 2000
+ (Topic: Social Assistance Programme)
+
+Q.6 In Union Budget 2023, a sub-scheme of which of the following Yojanas has been proposed with the investment of ₹6,000 crore to enable activities of fishermen, fish vendors and micro and small enterprises?
+ A. PM Mudra Yojana
+ B. PM Ujjwala Yojana
+ C. PM Fasal Bima Yojana
+ D. PM Matsya Sampada Yojana
+ (Topic: Budget & Government Programmes)
+
+Q.9 In June 2022, Eknath Sambhaji Shinde became the Chief Minister of which of the following states?
+ A. Gujarat
+ B. Haryana
+ C. Rajasthan
+ D. Maharashtra
+ (Topic: State Economy & Governance Current Affairs)
+
+Held on: 18-Oct-2024 | Shift: 1
+
+Q.15 Which of the following is NOT an example of public goods?
+ A. Driveway at our home
+ B. Access to clean air
+ C. Law enforcement
+ D. National defence
+ (Topic: Public Goods)
+
+Held on: 18-Oct-2024 | Shift: 2
+
+Q.10 Which financial products are commonly offered by Microfinance Institutions in India?
+ A. Complex investment options
+ B. Specialised services for multinational corporations
+ C. Savings, credit and insurance services tailored for low-income individuals
+ D. Exclusive services for high-income individuals
+ (Topic: Microfinance)
+
+Q.19 As per the National Multidimensional Poverty Index 2021, which of the following groups of states is the poorest?
+ A. Gujarat, Maharashtra, Telangana
+ B. Kerala, Karnataka, Tamil Nadu
+ C. Punjab, Himachal Pradesh, Uttarakhand
+ D. Bihar, Uttar Pradesh, Jharkhand
+ (Topic: Poverty Index)
+
+Q.21 In November 2023, who was appointed as the President-elect of the Federation of Indian Chambers of Commerce and Industry (FICCI)?
+ A. Anish Shah
+ B. Suraj Mahindra
+ C. N Chandrasekaran
+ D. Adi Godrej
+ (Topic: FICCI)
+
+Q.15 Which of the following programmes is taken up by the Government of India for improvement of female literacy rates in India?
+ A. Beti Shikshan, Beti Bachao
+ B. Beti Bachao, Beti Padhao
+ C. Beti Jagaron, Beti Padhao
+ D. Beti Sikhao, Beti Padhao
+ (Topic: Government Programmes & Literacy)
+
+Held on: 18-Oct-2024 | Shift: 3
+
+Q.6 Which of the following is referred to as ‘Near Money’?
+ A. Bank money
+ B. Currency notes
+ C. National savings deposits
+ D. Coins
+ (Topic: Money and Banking)
+
+Q.7 Identify the group of states that is a part of Garib Kalyan Rojgar Abhiyaan (As of June 2022).
+ A. Tamil Nadu and Chhattisgarh
+ B. Uttar Pradesh and Jharkhand
+ C. Assam and West Bengal
+ D. Haryana and Punjab
+ (Topic: Employment Programmes)
+
+Q.13 Bokaro, Burnpur, Rourkela, etc., are famous for development of which of the following industries?
+ A. Automobile
+ B. Dairy
+ C. Software
+ D. Iron and Steel
+ (Topic: Iron and Steel Industry)
+
+Q.25 In July 2023, the District Rural Development Agency (DRDA) in Tirupathur district, Tamil Nadu, achieved a monumental achievement by constructing 1546 farm ponds in just 30 days, setting a new world record. This remarkable initiative was carried out under which government scheme?
+ A. Pradhan Mantri Krishi Sinchayee Yojna
+ B. Jal Jeevan Mission
+ C. Mahatma Gandhi National Rural Employment Guarantee Scheme
+ D. Mission Amrit Sarovar
+ (Topic: Rural Development & Employment)
+
+Held on: 21-Oct-2024 | Shift: 1
+
+Q.2 According to the Multidimensional Poverty Index 2023, which union territory has the least percentage of poor?
+ A. Lakshadweep
+ B. Puducherry
+ C. Delhi
+ D. Chandigarh
+ (Topic: Multidimensional Poverty Index)
+
+Q.17 Why are wealth taxes and gift taxes treated as paper taxes in India?
+ A. Tax payers need to fill out forms only in paper and submit returns.
+ B. They do not generate much revenue in comparison to others.
+ C. They are paid only by government employees, members of the Parliament and Legislative assemblies.
+ D. It is not mandatory for the government to collect these taxes.
+ (Topic: Taxation in India)
+
+Held on: 21-Oct-2024 | Shift: 2
+
+Q.11 Which of the following banking institutions played an instrumental role in financial inclusion through microfinance loans and their expansion in India?
+ A. Reserve Bank of India
+ B. State Bank of India
+ C. Central Bank of India
+ D. National Bank for Agriculture and Rural Development
+ (Topic: Microfinance & NABARD)
+
+Q.21 In November 2023, who was appointed as the President-elect of the Federation of Indian Chambers of Commerce and Industry (FICCI)?
+ A. Anish Shah
+ B. Suraj Mahindra
+ C. N Chandrasekaran
+ D. Adi Godrej
+ (Topic: Indian Economy & Industry Bodies)
+
+Held on: 21-Oct-2024 | Shift: 3
+
+Q.1 In India, documented by a study, in which level of education is the majority of the population unemployed?
+ A. Primary school
+ B. Middle school
+ C. Graduate and post-graduate
+ D. Matriculates
+ (Topic: Unemployment in India)
+
+Q.2 In June 2023, which state Government launched a project named ‘Pride’ to provide employment opportunities to the transgender community in diverse and innovative sectors?
+ A. Goa
+ B. Kerala
+ C. Rajasthan
+ D. Sikkim
+ (Topic: Employment Programmes)
+
+Q.9 In December 2023, which former Tata Consultancy Services (TCS) CEO and MD joined the Indian Institute of Technology Bombay (IIT Bombay) as Head of Translational Research and Entrepreneurship?
+ A. Natarajan Chandrasekaran
+ B. Rajesh Gopinathan
+ C. FC Kohli
+ D. Subramaniam Ramadorai
+ (Topic: Industry & Economy Current Affairs)
+
+Held on: 22-Oct-2024 | Shift: 1
+
+Q.6 Which of the following is NOT a component of revenue receipt?
+ A. Fees paid for the registration of property
+ B. Amount borrowed from World Bank
+ C. GST
+ D. Grant received by UNESCO
+ (Topic: Public Finance)
+
+Q.9 In Union Budget 2023-24, annual production of 5 MMT under Green Hydrogen Mission is to be targeted by the year ________.
+ A. 2032
+ B. 2023
+ C. 2027
+ D. 2030
+ (Topic: Green Hydrogen Mission)
+
+Held on: 22-Oct-2024 | Shift: 2
+
+Q.25 In 1992, which organisation launched Self Help Group – Bank Linkage Programme?
+ A. SEBI
+ B. SBI
+ C. RBI
+ D. NABARD
+ (Topic: SHG-Bank Linkage Programme)
+
+Held on: 22-Oct-2024 | Shift: 3
+
+Q.2 In India, who introduced the idea of the poverty line for the first time?
+ A. Mahatma Gandhi
+ B. Dadabhai Naoroji
+ C. Jawaharlal Nehru
+ D. Dr. BR Ambedkar
+ (Topic: Poverty Estimation in India)
+
+Q.21 In 2023, the Government of India has proposed to set up how many new ‘Waste to Wealth’ plants under GOBARdhan?
+ A. 250
+ B. 300
+ C. 450
+ D. 500
+ (Topic: GOBARdhan Scheme)
+
+Q.25 Which is the largest agro-based Industry of India?
+ A. Cotton textile industry
+ B. Edible oil industry
+ C. Tea industry
+ D. Sugar industry
+ (Topic: Agro-based Industries)
+
+Held on: 22-Oct-2024 | Shift: 3
+
+Q.2 In India, who introduced the idea of the poverty line for the first time?
+ A. Mahatma Gandhi
+ B. Dadabhai Naoroji
+ C. Jawaharlal Nehru
+ D. Dr. BR Ambedkar
+ (Topic: Poverty Estimation in India)
+
+Q.21 In 2023, the Government of India has proposed to set up how many new ‘Waste to Wealth’ plants under GOBARdhan?
+ A. 250
+ B. 300
+ C. 450
+ D. 500
+ (Topic: GOBARdhan Scheme)
+
+Q.25 Which is the largest agro-based Industry of India?
+ A. Cotton textile industry
+ B. Edible oil industry
+ C. Tea industry
+ D. Sugar industry
+ (Topic: Agro-based Industries)
+
+Held on: 23-Oct-2024 | Shift: 1
+
+Q.3 Which of the following is an example of a private sector Industry?
+ A. Steel Authority of India Limited
+ B. Life Insurance Corporation
+ C. Bharat Heavy Electricals Limited
+ D. Tata Iron and Steel Company
+ (Topic: Industrial Sectors)
+
+Q.8 Which of the following is NOT the principle laid down by the OECD about budgetary governance?
+ A. Design the capital budgeting framework to meet national development needs.
+ B. Alignment of budgets with medium-term strategic priorities of the government.
+ C. It does not allow the citizen to participate in budgetary debates.
+ D. The execution of the budget must be proactively planned, managed, and monitored.
+ (Topic: Budgetary Governance)
+
+Held on: 23-Oct-2024 | Shift: 2
+
+Q.11 Which of the following are recognised as final goods while estimating the gross domestic product in India?
+
+a. Wheat purchased for making roti in a house
+ b. Wheat purchased for making roti in a hotel
+ c. Tea bags used to make tea in a house
+ d. Tea bags used to make tea in a university hostel canteen
+
+A. Only a and c
+ B. Only a and b
+ C. Only b and d
+ D. Only b and c
+ (Topic: Gross Domestic Product)
+
+Held on: 23-Oct-2024 | Shift: 3
+
+Q.2 Which among the following data was used to compute the estimates in the National Multidimensional Poverty Index (MPI) Baseline Report?
+ A. National Census data
+ B. Economic Survey data
+ C. National Family Health Survey (NFHS-4)
+ D. Annual Employment-Unemployment Survey data
+ (Topic: Multidimensional Poverty Index)
+
+Q.4 As per the Periodic Labour Force data 2023, which of the following states recorded the highest unemployment rate in urban areas for the age group 15 years and above?
+ A. Kerala
+ B. Chhattisgarh
+ C. Rajasthan
+ D. Himachal Pradesh
+ (Topic: Employment & Unemployment)
+
+Q.9 Kudumbashree is a poverty eradication and women empowerment programme. In which state of India does this programme operate?
+ A. Andhra Pradesh
+ B. Kerala
+ C. Karnataka
+ D. Tamil Nadu
+ (Topic: Poverty Alleviation Programmes)
+
+Q.19 In Union Budget 2023-24, an Aspirational Blocks Programme covering how many blocks has been launched?
+ A. 500
+ B. 300
+ C. 450
+ D. 250
+ (Topic: Union Budget 2023-24)
+
+Held on: 28-Oct-2024 | Shift: 1
+
+Q.10 In which year was the microfinance movement formally launched in India on a pilot basis?
+ A. 1980
+ B. 2000
+ C. 1992
+ D. 2010
+ (Topic: Microfinance)
+
+Q.21 According to National Multidimensional Poverty Index 2023 (A Progress Review), what was the proportion of population in multidimensional poverty (Headcount Ratio) in rural India in 2019-2021?
+ A. 14.96%
+ B. 12.32%
+ C. 24.12%
+ D. 19.28%
+ (Topic: Multidimensional Poverty Index)
+
+Held on: 28-Oct-2024 | Shift: 2
+
+Q.3 Which of the following statements is true about Micro Finance institutions?
+ A. Majority of microfinancing operations occur in developing countries
+ B. Service provided to High income people only
+ C. Can provide jumbo loan
+ D. Type of banking service provided to employed
+ (Topic: Microfinance)
+
+Q.19 Which of the following does NOT figure among the themes of 'Azadi Ka Amrit Mahotsav'?
+ A. Resolve@75
+ B. Ideas@75
+ C. Health@75
+ D. Actions@75
+ (Topic: Government Initiatives & Economy)
+
+Held on: 29-Oct-2024 | Shift: 1
+
+Q.15 Revenue account includes items related to the ________.
+ A. previous financial year
+ B. current financial year
+ C. next financial year
+ D. all of the given options
+ (Topic: Public Finance)
+
+Held on: 29-Oct-2024 | Shift: 2
+
+Q.4 Which of the following is NOT a service of micro finance institution?
+ A. Micro deposit
+ B. Micro saving
+ C. Micro insurance
+ D. Micro loan
+ (Topic: Microfinance)
+
+Q.11 Which of the following Union Territories of India marks the lowest poverty in National Multidimensional Poverty Index: A Progress Review 2023?
+ A. Chandigarh
+ B. Lakshadweep
+ C. Delhi
+ D. Puducherry
+ (Topic: Multidimensional Poverty Index)
+
+Q.23 What does M stand for in BHIM-UPI?
+ A. Monetary
+ B. Mobile
+ C. Money
+ D. Monthly
+ (Topic: Digital Payments & Economy)
+
+Held on: 29-Oct-2024 | Shift: 3
+
+Q.6 Which of the following is NOT included in the national income?
+ A. Income received by a household for the use of their land
+ B. Income received by a household for the use of their entrepreneurial skill
+ C. Income received by a person as a donation
+ D. Income received by a person for the use of his capital
+ (Topic: National Income)
+
+Q.13 In which of the following cities of India was the first successful textile mill established?
+ A. Mumbai
+ B. Kolkata
+ C. Ludhiana
+ D. Chennai
+ (Topic: Industrial Development in India)
+
+Q.22 Proposed in 2023-24, which section of the Income Tax Act of 1961 exempts senior citizens aged 75 years and above from filing income tax returns?
+ A. Section 139A
+ B. Section 194P
+ C. Section 234C
+ D. Section 80C
+ (Topic: Income Tax Act)
+
+Held on: 30-Oct-2024 | Shift: 1
+
+Q.23 If labour is employed in a job but is not actually utilised for the production of goods and services, it is known as:
+ A. Disguised unemployment
+ B. Educated unemployment
+ C. Urban unemployment
+ D. Seasonal unemployment
+ (Topic: Unemployment)
+
+Q.25 What is the role of a commercial bank in the economy?
+ A. To provide financial services, such as accepting deposits, lending money and facilitating payments
+ B. To print and issue currency
+ C. To set interest rates for the entire banking system
+ D. To regulate the money supply
+ (Topic: Commercial Banking)
+
+Held on: 30-Oct-2024 | Shift: 2
+
+Q.4 What are the three components of the empowerment model in SAPAP of SHGs?
+
+A. Public resource allocation, capacity building, and microfinance
+ B. Social mobilisation, capital formation, and capacity building of the poor
+ C. Collective empowerment, capital formation, and poverty eradication
+ D. Social mobilisation, economic development, and education
+
+(Topic: Self Help Groups)
+
+Q.20 On 10 April 2023, the Government of India launched tourism infrastructure and amenities in the __________ villages through the ‘Vibrant Villages Programme’.
+
+A. Border
+ B. Desert
+ C. Hill
+ D. Coastal
+
+(Topic: Vibrant Villages Programme)
+
+Q.25 According to National Multidimensional Poverty Index 2023 (A Progress Review), what is the percentage of the total population who are multidimensionally poor (Headcount Ratio) in Bihar state?
+
+A. 45.98%
+ B. 36.12%
+ C. 40.54%
+ D. 33.76%
+
+(Topic: Multidimensional Poverty Index)
+
+Held on: 30-Oct-2024 | Shift: 3
+
+Q.18 The budget of the Central Government is known as the ________.
+ A. Revised Budget
+ B. Union Budget
+ C. Annual Exposed Budget
+ D. State Budget
+ (Topic: Union Budget)
+
+Held on: 30-Oct-2024 | Shift: 3
+
+Q.18 The budget of the Central Government is known as the ________.
+ A. Revised Budget
+ B. Union Budget
+ C. Annual Exposed Budget
+ D. State Budget
+ (Topic: Union Budget)
+
+Held on: 04-Nov-2024 | Shift: 1
+
+Q.20 What is the primary objective of Microfinance Institutions (MFIs) in India?
+ A. To provide financial services to large corporations
+ B. To fund government projects
+ C. To generate profits for shareholders
+ D. To offer financial assistance and services to low-income individuals and entrepreneurs
+ (Topic: Microfinance)
+
+Held on: 04-Nov-2024 | Shift: 2
+
+Q.13 How many central banks can a country have?
+ A. One
+ B. Two
+ C. Three
+ D. Four
+ (Topic: Banking System)
+
+Q.20 What is the primary objective of Microfinance Institutions (MFIs) in India?
+ A. To provide financial services to large corporations
+ B. To fund government projects
+ C. To generate profits for shareholders
+ D. To offer financial assistance and services to low-income individuals and entrepreneurs
+ (Topic: Microfinance)
+
+Held on: 04-Nov-2024 | Shift: 3
+
+Q.25 Identify the correct match in the context of microfinance.
+ A. Muhammad Yunus - Grameen Bank - Pakistan
+ B. Muhammad Yasir - Grameen Bank - Pakistan
+ C. Muhammad Yunus - Grameen Bank - Bangladesh
+ D. Muhammad Yasir - Grameen Bank - Bangladesh
+ (Topic: Microfinance)
+
+Held on: 05-Nov-2024 | Shift: 1
+
+Q.7 According to the National Multidimensional Poverty Index of India: A Progress Review 2023, which state has the LOWEST percentage of population being multidimensionally poor?
+ A. Manipur
+ B. West Bengal
+ C. Rajasthan
+ D. Sikkim
+ (Topic: Multidimensional Poverty Index)
+
+Q.10 Which of the following location has NOT been selected for setting up the seven PM Mega Integrated Textile Region and Apparel (PM MITRA) Parks announced in March 2023?
+ A. Gujarat
+ B. Karnataka
+ C. Maharashtra
+ D. West Bengal
+ (Topic: Textile Industry)
+
+Q.16 As per National Multidimensional Poverty Index Report 2023, what is the poverty rate of India (2019-21)?
+ A. 15.47%
+ B. 20.89%
+ C. 14.96%
+ D. 20.61%
+ (Topic: Poverty Index)
+
+Q.20 In which year was the Shri Mahila SEWA Sahakari Bank established?
+ A. 1975
+ B. 1972
+ C. 1971
+ D. 1974
+ (Topic: Microfinance & Banking)
+
+Held on: 05-Nov-2024 | Shift: 2
+
+Q.5 Which of the following is NOT a private sector industry in India?
+ A. Dabur Industries
+ B. Bajaj Auto Ltd.
+ C. Bharat Heavy Electricals Limited (BHEL)
+ D. Tata Iron and Steel Company (TISCO)
+ (Topic: Industrial Sectors)
+
+Q.10 Which of the following is the main objective of the DWCRA model of SHGs?
+ A. Education opportunities for rural children
+ B. Self-employment opportunities for rural women
+ C. Housing support for rural families
+ D. Healthcare services for rural women
+ (Topic: Self Help Groups)
+
+Q.18 Before PLFS, NSO conducted which surveys for employment and unemployment indicators?
+ A. Triennial Surveys
+ B. Decennial Surveys
+ C. Quinquennial Surveys
+ D. Monthly Surveys
+ (Topic: Employment Statistics)
+
+Q.20 In which year was the Shri Mahila SEWA Sahakari Bank established?
+ A. 1975
+ B. 1972
+ C. 1971
+ D. 1974
+ (Topic: Microfinance)
+
+Held on: 05-Nov-2024 | Shift: 3
+
+Q.10 Which of the following is the main objective of the DWCRA model of SHGs?
+ A. Education opportunities for rural children
+ B. Self-employment opportunities for rural women
+ C. Housing support for rural families
+ D. Healthcare services for rural women
+ (Topic: Self Help Groups)
+
+Q.22 Which of the following best represents Revenue Deficit?
+ A. Revenue Expenditure – Revenue Receipts
+ B. Primary Deficit – Fiscal Deficit
+ C. Primary Deficit + Fiscal Deficit
+ D. Revenue Expenditure + Revenue Receipts
+ (Topic: Public Finance)
+
+Held on: 11-Nov-2024 | Shift: 1
+
+Q.5 Which of the following is NOT a commercial bank?
+ A. Development Bank of Singapore
+ B. National Bank for Agriculture and Rural Development
+ C. State Bank of India
+ D. Industrial Credit and Investment Corporation of India Bank
+ (Topic: Banking)
+
+Q.9 In which year was Pt. Deen Dayal Upadhyaya Grameen Kaushalya Yojana announced by the Government of India?
+ A. 2010
+ B. 2014
+ C. 2012
+ D. 2013
+ (Topic: Skill Development Programmes)
+
+Held on: 11-Nov-2024 | Shift: 2
+
+Q.15 What does a budget deficit indicate?
+ A. Government spending exceeds government revenue
+ B. The government is not allocating enough funds for public services
+ C. The government is saving for future projects
+ D. Government revenue exceeds government spending
+ (Topic: Budget & Public Finance)
+
+Held on: 11-Nov-2024 | Shift: 3
+
+Q.4 Which of the following is/are an example of a non-tax revenue receipt?
+ A. Disinvestment
+ B. Interest income
+ C. External commercial borrowings
+ D. Income tax
+ (Topic: Public Finance)
+
+Q.15 What does a budget deficit indicate?
+ A. Government spending exceeds government revenue
+ B. The government is not allocating enough funds for public services
+ C. The government is saving for future projects
+ D. Government revenue exceeds government spending
+ (Topic: Budget & Public Finance)
+
+Q.19 What approach did Dadabhai Naoroji use to calculate the Poverty Line?
+ A. Export-import data
+ B. Agricultural productivity
+ C. Prisoner menu
+ D. Industrial output
+ (Topic: Poverty Estimation)
+
+Held on: 12-Nov-2024 | Shift: 1
+
+Q.14 Which of the following is an informal group consisting of 4 to 10 individuals who seek loans against mutual guarantee?
+ A. Self-help group
+ B. Rural cooperatives
+ C. Joint liability group
+ D. Grameen model bank
+ (Topic: Microfinance)
+
+Q.19 Which of these state governments has implemented PESA Act in November 2022?
+ A. Madhya Pradesh
+ B. Uttar Pradesh
+ C. Rajasthan
+ D. Punjab
+ (Topic: Rural Governance & Economy)
+
+Held on: 12-Nov-2024 | Shift: 2
+
+Q.7 The SEWA Cooperative Bank was first initiated in ______ in the year ______.
+ A. Varanasi; 1974
+ B. Ahmedabad; 1974
+ C. Varanasi; 1984
+ D. Ahmedabad; 1984
+ (Topic: Microfinance & Banking)
+
+Q.20 Pradhan Mantri MUDRA Yojana (PMMY) is a scheme launched in 2015 for providing loans up to ______ lakh to the non-corporate, non-farm small/micro enterprises.
+ A. 5
+ B. 10
+ C. 2
+ D. 8
+ (Topic: MUDRA Yojana)
+
+Held on: 12-Nov-2024 | Shift: 3
+
+Q.10 A famous organisation Self-Employed Women’s Association (SEWA) is related with which of the following states?
+ A. Gujarat
+ B. Haryana
+ C. Madhya Pradesh
+ D. Uttar Pradesh
+ (Topic: SEWA & Microfinance)
+
+Q.20 Pradhan Mantri MUDRA Yojana (PMMY) is a scheme launched in 2015 for providing loans up to ______ lakh to the non-corporate, non-farm small/micro enterprises.
+ A. 5
+ B. 10
+ C. 2
+ D. 8
+ (Topic: MUDRA Yojana)
+
+Q.24 In 2023, Government of India has announced to set up a/an ______ DigiLocker for use by MSMEs, large businesses and charitable trusts to store and share documents online securely.
+ A. Bond
+ B. Company
+ C. Entity
+ D. Macro
+ (Topic: Digital Economy)
+
+Held on: 13-Nov-2024 | Shift: 2
+
+Q.14 Which of the following statements is/are true about public goods?
+
+I. Rivalrous in consumption
+ II. Non-excludability
+ III. Positive marginal cost
+
+A. Only I
+ B. Only II and III
+ C. Only I and III
+ D. Only II
+ (Topic: Public Goods)
+
+Q.18 Which of the following sectors engaged the largest percentage of women workers in the year 2019-2020?
+ A. Service
+ B. Agriculture
+ C. Industry
+ D. Mining
+ (Topic: Employment Statistics)
+
+Q.22 The concept of the Self-Help Group Bank Linkage Program was introduced by:
+ A. NABARD
+ B. SBI
+ C. SIDBI
+ D. RBI
+ (Topic: SHG Bank Linkage Programme)
+
+Held on: 13-Nov-2024 | Shift: 3
+
+Q.10 Which of the following is included in the estimation of Gross National Product?
+ A. Sale of used cars
+ B. Pension payments
+ C. Sale of new shirts
+ D. Sale of securities
+ (Topic: National Income)
+
+Q.15 The Government of India in collaboration with ______ has launched the Skills on Wheels mission in Oct 2023 for equipping rural youth with employable skills.
+ A. HDFC Bank
+ B. ICICI Bank
+ C. NABARD
+ D. IndusInd Bank
+ (Topic: Skill Development Programmes)
+
+Q.22 The concept of the Self-Help Group Bank Linkage Program was introduced by:
+ A. NABARD
+ B. SBI
+ C. SIDBI
+ D. RBI
+ (Topic: SHG-Bank Linkage Programme)
+
+Q.23 What was the unemployment rate of Gujarat in November 2021?
+ A. 3.4%
+ B. 2.4%
+ C. 1.4%
+ D. 4.4%
+ (Topic: Unemployment Statistics)
+
+Held on: 14-Nov-2024 | Shift: 2
+
+Q.11 Which of the following national income aggregates is generally recognised as National Income of a country?
+ A. Gross Domestic Product at Factor Cost
+ B. Net National Product at Factor Cost
+ C. Gross National Product at Market Prices
+ D. Net National Product at Market Prices
+ (Topic: National Income)
+
+Q.22 Which of the following is the quality of the public goods?
+ A. Non-rivalrous
+ B. Rivalrous
+ C. Excludable
+ D. Non-divisible
+ (Topic: Public Goods)
+
+Held on: 14-Nov-2024 | Shift: 3
+
+Q.4 Which of the following is NOT a drawback of the barter system?
+ A. Difficulty in contractual payments
+ B. Surplus goods are replaced with other goods
+ C. Double coincidence of wants
+ D. Lack of a common unit of value
+ (Topic: Barter System)
+
+Q.11 Which of the following national income aggregates is generally recognised as National Income of a country?
+ A. Gross Domestic Product at Factor Cost
+ B. Net National Product at Factor Cost
+ C. Gross National Product at Market Prices
+ D. Net National Product at Market Prices
+ (Topic: National Income)
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 01-Sep-2023 | Shift: 1
+
+Q.11 Which of the following is used to measure the total output of goods and services in an economy including depreciation during a specific period within country?
+ A. Net Domestic Product (NDP)
+ B. Gross National Product (GNP)
+ C. Net National Product (NNP)
+ D. Gross Domestic Product (GDP)
+ (Topic: National Income)
+
+Q.20 What is the difference between a debit card and a credit card?
+ A. Debit cards are used for online transactions, while credit cards are used for in-person purchases.
+ B. Credit cards require a PIN, while debit cards require a signature.
+ C. Debit cards withdraw money directly from a bank account, while credit cards allow borrowing up to a certain limit.
+ D. Debit cards have higher interest rates than credit cards.
+ (Topic: Banking & Digital Payments)
+
+Q.21 The Constitution (Scheduled Tribes) Order (Second Amendment) Bill, 2022 has included Narikoravan and Kurivikkaran communities in the list of Scheduled Tribes of which state?
+ A. Bihar
+ B. Tamil Nadu
+ C. Chhattisgarh
+ D. Odisha
+ (Topic: Socio-Economic Policy)
+
+
+Held on: 01-Sep-2023 | Shift: 2
+
+Q.8 As per the 18th Periodic Labour Force Survey (PLFS), the unemployment rate among females (aged 15 years and above) in urban areas declined to ________ in January-March 2023.
+ A. 9.7%
+ B. 2.9%
+ C. 7.8%
+ D. 8.2%
+ (Topic: Employment Statistics)
+
+Q.13 Which of the following is an example of capital receipt in the government budget?
+ A. Sale of government bonds
+ B. Income from government-owned enterprises
+ C. Tax revenue collected from citizens
+ D. Grants received from foreign countries
+ (Topic: Government Budget)
+
+Q.16 Which of the following best defines transfer payments?
+ A. Payments made to individuals in exchange for their labour or services
+ B. Payments made by the government to individuals without any corresponding production of goods or services
+ C. Payments made by businesses to their shareholders as a share of profits
+ D. Payments made by individuals to the government in the form of taxes
+ (Topic: Public Finance)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.10 What is a budget deficit?
+ A. The excess of government revenue over expenditure
+ B. The amount of money allocated for defence spending
+ C. The amount of money allocated for social welfare programmes
+ D. The excess of government expenditure over revenue
+ (Topic: Budget & Public Finance)
+
+Q.11 What is a revenue expenditure?
+ A. Money spent on day-to-day government operations
+ B. Money spent on debt repayment
+ C. Money spent on purchasing assets
+ D. Money spent on construction of roads
+ (Topic: Revenue Expenditure)
+
+Q.16 Which of the following best defines transfer payments?
+ A. Payments made to individuals in exchange for their labour or services
+ B. Payments made by the government to individuals without any corresponding production of goods or services
+ C. Payments made by businesses to their shareholders as a share of profits
+ D. Payments made by individuals to the government in the form of taxes
+ (Topic: Public Finance)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.4 In India, Micro Finance Institutions primarily target which segment of the population?
+ A. Non-resident Indians (NRIs)
+ B. Large corporations
+ C. Low-income individuals and small businesses
+ D. High-income individuals
+ (Topic: Microfinance)
+
+Q.10 Which of the following is NOT a characteristic of money?
+ A. Portability
+ B. Perishability
+ C. Divisibility
+ D. Durability
+ (Topic: Money & Banking)
+
+Held on: 04-Sep-2023 | Shift: 2
+
+Q.2 What is a fiscal year?
+ A. A year that represents the financial reporting period for the government
+ B. A year with a surplus in government revenue
+ C. A year with a deficit in government revenue
+ D. A year in which tax rates are increased
+ (Topic: Public Finance)
+
+Q.11 Which of the following is a dimension of microfinance institutions (MFIs) in India?
+ A. Outreach to rural areas
+ B. Loan interest rates
+ C. Investment in the stock market
+ D. Availability of credit cards
+ (Topic: Microfinance)
+
+Q.21 Who among the following is the author of the book 'Sita: An Illustrated Retelling of the Ramayana'?
+ A. Ravinder Singh
+ B. Devdutt Pattanaik
+ C. Amish Tripathi
+ D. Durjoy Datta
+ (Topic: Socio-Economic & Cultural Policy Literature)
+
+Held on: 04-Sep-2023 | Shift: 3
+
+Q.20 The important milestones of the SHG Bank Linkage movement was spearheaded by _______ with support from RBI.
+ A. SEBI
+ B. Indian Bank
+ C. NABARD
+ D. Cooperative Bank
+ (Topic: SHG Bank Linkage Programme)
+
+Q.25 What is a dimension related to the sustainability of microfinance institutions in India?
+ A. Dependency on donor funding
+ B. Limited social impact
+ C. High-profit margins
+ D. Excessive interest rates
+ (Topic: Microfinance)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.5 What does the acroym ‘ATM’ stand for?
+ A. Automated Teller Machine
+ B. Automated Transaction Management
+ C. Account Tracking Module
+ D. All-Time Money
+ (Topic: Banking & Financial Services)
+
+Q.11 Why is it important to distinguish between final and intermediate goods/serices in national income accounting?
+ A. It helps track changes in consumer preferences and market demand.
+ B. It helps in more accurate measurement of economic growth and productivity.
+ C. It provides insights into income distribution among sectors.
+ D. It helps determine the overall quality of goods and services produced.
+ (Topic: National Income Accounting)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.5 What does the acronym ‘ATM’ stand for?
+ A. Automated Teller Machine
+ B. Automated Transaction Management
+ C. Account Tracking Module
+ D. All-Time Money
+ (Topic: Banking & Financial Services)
+
+Q.7 Which of the following is a key objective of Micro Finance Institutions in India?
+ A. Providing loans exclusively to women entrepreneurs
+ B. Encouraging large-scale industrialisation
+ C. Maximising profits for shareholders
+ D. Promoting financial inclusion and poverty alleviation
+ (Topic: Microfinance)
+
+Q.10 Which of the following statements best defines a Micro Finance Institution (MFI)?
+ A. MFIs are investment firms that cater exclusively to high-net-worth individuals.
+ B. MFIs are non-profit organisations that provide financial services to low-income individuals and small businesses.
+ C. MFIs are banks that provide loans only to large corporations.
+ D. MFIs are government agencies that regulate the microfinance sector.
+ (Topic: Microfinance Institutions)
+
+Held on: 06-Sep-2023 | Shift: 2
+
+Q.16 What is the primary purpose of microfinance institutions (MFIs) in India?
+ A. To promote consumer spending among middle-class households
+ B. To offer financial services exclusively to large businesses
+ C. To provide small loans to low-income individuals
+ D. To facilitate foreign investment in the Indian economy
+ (Topic: Microfinance)
+
+Q.17 Which of the following is true about transfer payments in relation to personal income?
+ A. Transfer payments are included in personal income.
+ B. Transfer payments have no impact on personal income.
+ C. Transfer payments are included in personal income only for businesses.
+ D. Transfer payments are excluded from personal income.
+ (Topic: Personal Income)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.16 What is the primary purpose of microfinance institutions (MFIs) in India?
+ A. To promote consumer spending among middle-class households
+ B. To offer financial services exclusively to large businesses
+ C. To provide small loans to low-income individuals
+ D. To facilitate foreign investment in the Indian economy
+ (Topic: Microfinance)
+
+Q.17 Which of the following is true about transfer payments in relation to personal income?
+ A. Transfer payments are included in personal income.
+ B. Transfer payments have no impact on personal income.
+ C. Transfer payments are included in personal income only for businesses.
+ D. Transfer payments are excluded from personal income.
+ (Topic: Personal Income)
+
+Q.20 What is the main function of money in an economy?
+ A. To regulate interest rates
+ B. To create wealth
+ C. To facilitate exchange
+ D. To control inflation
+ (Topic: Money & Banking)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.7 Which of the following methods is used to calculate national income by summing up the total incomes earned by individuals and businesses in an economy?
+ A. Value-added method
+ B. Output method
+ C. Income method
+ D. Expenditure method
+ (Topic: National Income)
+
+Q.8 What is personal income?
+ A. The income earned by individuals and households after taxes and other deductions
+ B. The total income earned by businesses and corporations in an economy
+ C. The income earned by individuals through their own business or self-employment
+ D. The total income earned by individuals and households before taxes and other deductions
+ (Topic: Personal Income)
+
+Q.20 What is the main function of money in an economy?
+ A. To regulate interest rates
+ B. To create wealth
+ C. To facilitate exchange
+ D. To control inflation
+ (Topic: Money & Banking)
+
+Held on: 08-Sep-2023 | Shift: 2
+
+Q.7 The Swarna Jayanti Shahari Rojgar Yojana (SJSRY) was launched in the year ______ by Government of India.
+ A. 1990
+ B. 1997
+ C. 2010
+ D. 2004
+ (Topic: Employment Programmes)
+
+Q.13 Which of the following is a common financial service provided by Micro Finance Institutions?
+ A. Mortgage loans for luxury homes
+ B. Investment advisory services for high-net-worth individuals
+ C. Credit card issuance
+ D. Small loans to low-income individuals for entrepreneurial activities
+ (Topic: Microfinance)
+
+Q.18 Which of the following methods is used to calculate national income by summing up the total spending on final goods and services in an economy?
+ A. Value-added method
+ B. Output method
+ C. Expenditure method
+ D. Income method
+ (Topic: National Income)
+
+Q.20 According to the IUPAC nomenclature system, which functional group is characterised by the presence of an −OH group, usually in a water-like bent shape?
+ A. Carbonyls
+ B. Amines
+ C. Alcohols
+ D. Esters
+ (Topic: Basic Chemistry & Economy not counted elsewhere, classified as Chemistry below)
+
+Held on: 08-Sep-2023 | Shift: 3
+
+Q.3 What is a government budget?
+ A. A report on the economic growth of a country.
+ B. A plan for managing personal finances.
+ C. A financial statement of a government’s expected revenue and expenditure for a specific period.
+ D. A document outlining foreign policy goals.
+ (Topic: Government Budget)
+
+Q.6 What is the meaning of the term ‘Collateral’ in banking?
+ A. An investment portfolio
+ B. A type of credit card
+ C. A form of digital payment
+ D. An asset pledged as security for a loan
+ (Topic: Banking)
+
+Q.18 Which of the following methods is used to calculate national income by summing up the total spending on final goods and services in an economy?
+ A. Value-added method
+ B. Output method
+ C. Expenditure method
+ D. Income method
+ (Topic: National Income)
+
+Held on: 11-Sep-2023 | Shift: 2
+
+Q.6 The value of all final goods and services produced within the country during one year is known as __________.
+ A. gross national product
+ B. net national product
+ C. gross domestic product
+ D. net domestic product
+ (Topic: Gross Domestic Product)
+
+Q.9 Which regulatory body in India is responsible for overseeing and regulating Micro Finance Institutions?
+ A. Securities and Exchange Board of India (SEBI)
+ B. Small Industries Development Bank of India (SIDBI)
+ C. Reserve Bank of India (RBI)
+ D. National Bank for Agriculture and Rural Development (NABARD)
+ (Topic: Microfinance)
+
+Q.21 Which of the following is an advantage of microfinance institutions in India?
+ A. Limited impact on poverty reduction
+ B. Increased reliance on informal lending sources
+ C. Minimal support for women entrepreneurs
+ D. Enhanced financial inclusion
+ (Topic: Financial Inclusion)
+
+Held on: 11-Sep-2023 | Shift: 1
+
+Q.5 Which of the following is an example of a microfinance institution (MFI) in India?
+ A. State Bank of India (SBI)
+ B. Bandhan Bank
+ C. ICICI Bank
+ D. HDFC Bank
+ (Topic: Microfinance)
+
+Q.14 Factor cost is also known as:
+ A. market cost
+ B. ex-factory cost
+ C. input cost
+ D. output cost
+ (Topic: National Income)
+
+Q.24 According to the Ministry of Textile 2022-23, which state is the second largest producer of cotton?
+ A. Maharashtra
+ B. Bihar
+ C. Gujarat
+ D. Madhya Pradesh
+ (Topic: Agriculture & Economy)
+
+Held on: 11-Sep-2023 | Shift: 3
+
+Q.5 Which of the following is an example of a microfinance institution (MFI) in India?
+ A. State Bank of India (SBI)
+ B. Bandhan Bank
+ C. ICICI Bank
+ D. HDFC Bank
+
+(Topic: Microfinance)
+
+Q.14 Factor cost is also known as:
+ A. market cost
+ B. ex-factory cost
+ C. input cost
+ D. output cost
+
+(Topic: National Income)
+
+Q.15 What is the primary function of a commercial bank?
+ A. Issuing currency notes and coins
+ B. Conducting monetary policy
+ C. Granting loans and accepting deposits
+ D. Regulating the money supply
+
+(Topic: Banking)
+
+Q.16 Which of the following is an example of revenue receipt in the government budget?
+ A. Sale of government-owned land
+ B. Repayment of a loan by a state-owned company
+ C. Dividends received from a state-owned enterprise
+ D. Borrowing money from international organisations
+
+(Topic: Government Budget)
+
+Held on: 12-Sep-2023 | Shift: 2
+
+Q.14 According to the Global Multidimensional Poverty Index Report 2022, a total of 415 million people exited multidimensional poverty in India in the last ________.
+ A. 15 years
+ B. 5 years
+ C. 10 years
+ D. 20 years
+
+(Topic: Multidimensional Poverty Index)
+
+Q.15 What is the primary function of a commercial bank?
+ A. Issuing currency notes and coins
+ B. Conducting monetary policy
+ C. Granting loans and accepting deposits
+ D. Regulating the money supply
+
+(Topic: Commercial Banking)
+
+Q.16 Which of the following is an example of revenue receipt in the government budget?
+ A. Sale of government-owned land
+ B. Repayment of a loan by a state-owned company
+ C. Dividends received from a state-owned enterprise
+ D. Borrowing money from international organisations
+
+(Topic: Government Budget)
+
+Q.17 According to the National Multidimensional Poverty Index 2021, which state has the lowest percentage of population being multidimensionally poor?
+ A. Kerala
+ B. Uttar Pradesh
+ C. Madhya Pradesh
+ D. Rajasthan
+
+(Topic: Poverty Index)
+
+Q.18 Which of the following represents disposable income?
+ A. The income earned by individuals and households after taxes and other deductions
+ B. The total income earned by businesses and corporations in an economy
+ C. The income earned by individuals through their own business or self-employment
+ D. The total income earned by individuals and households before taxes and other deductions
+
+(Topic: Disposable Income)
+
+Held on: 12-Sep-2023 | Shift: 3
+
+Q.3 The National Social Assistance Programme (NSAP) is a welfare programme being administered by which Ministry of Government of India?
+ A. Ministry of Tribal Affairs
+ B. Ministry of Home Affairs
+ C. Ministry of Agriculture and Farmers Welfare
+ D. Ministry of Rural Development
+
+(Topic: National Social Assistance Programme)
+
+Q.4 What is the main source of income for commercial banks?
+ A. Donations from customers
+ B. Profits from stock market investments
+ C. Government grants
+ D. Interest earned on loans and advances
+
+(Topic: Banking)
+
+Q.15 Which institution mainly provides financial assistance and support to microfinance institutions in India?
+ A. Department of Economic Affairs (DEA)
+ B. Ministry of Corporate Affairs
+ C. Indian Banks' Association (IBA)
+ D. Small Industries Development Bank of India (SIDBI)
+
+(Topic: Microfinance)
+
+Q.17 According to the National Multidimensional Poverty Index 2021, which state has the lowest percentage of population being multidimensionally poor?
+ A. Kerala
+ B. Uttar Pradesh
+ C. Madhya Pradesh
+ D. Rajasthan
+
+(Topic: Poverty Index)
+
+Q.18 Which of the following represents disposable income?
+ A. The income earned by individuals and households after taxes and other deductions
+ B. The total income earned by businesses and corporations in an economy
+ C. The income earned by individuals through their own business or self-employment
+ D. The total income earned by individuals and households before taxes and other deductions
+
+(Topic: Disposable Income)
+
+Held on: 13-Sep-2023 | Shift: 1
+
+Q.8 What is a prominent trend in the microfinance sector in India?
+ A. Integration of mobile banking services
+ B. Excessive bureaucracy in loan approvals
+ C. Decreased reliance on digital technology
+ D. Limited focus on women entrepreneurs
+ (Topic: Microfinance)
+
+Q.11 What do you mean by balanced budget?
+ A. Expenditure not equal to revenue
+ B. Expenditure equal to revenue
+ C. Expenditure more than revenue
+ D. Expenditure is less than revenue
+ (Topic: Government Budget)
+
+Held on: 13-Sep-2023 | Shift: 2
+
+Q.8 What is a prominent trend in the microfinance sector in India?
+ A. Integration of mobile banking services
+ B. Excessive bureaucracy in loan approvals
+ C. Decreased reliance on digital technology
+ D. Limited focus on women entrepreneurs
+ (Topic: Microfinance)
+
+Q.9 Which of the following is an example of capital expenditure in the government budget?
+ A. Interest payment on a loan
+ B. Purchase of military equipment
+ C. Maintenance of government buildings
+ D. Subsidies provided to farmers
+ (Topic: Government Budget)
+
+Q.16 What does the term ‘Overdraft’ mean in banking?
+ A. The process of transferring funds between bank accounts
+ B. The maximum withdrawal limit from an ATM
+ C. Short-term financing facility
+ D. The interest charged on loans
+ (Topic: Banking)
+
+Held on: 13-Sep-2023 | Shift: 3
+
+Q.5 Who said the following? “Money is what money does.”
+ A. Prof. Seligman
+ B. Prof. Cole
+ C. Prof. Walker
+ D. Prof. Robertson
+ (Topic: Money & Banking)
+
+Q.16 What does the term ‘Overdraft’ mean in banking?
+ A. The process of transferring funds between bank accounts
+ B. The maximum withdrawal limit from an ATM
+ C. Short-term financing facility
+ D. The interest charged on loans
+ (Topic: Banking)
+
+Q.23 Which of the following is a feature of Micro Finance Institutions?
+ A. Financial service to government employees
+ B. Finance service to Union ministers
+ C. Financial service to corporate
+ D. Financial service to disadvantaged people
+ (Topic: Microfinance)
+
+Held on: 14-Sep-2023 | Shift: 1
+
+Q.5 Who said the following? “Money is what money does.”
+ A. Prof. Seligman
+ B. Prof. Cole
+ C. Prof. Walker
+ D. Prof. Robertson
+ (Topic: Money & Banking)
+
+Q.13 नीति आयोग (NITI Aayog) की पहली बहुआयामी गरीबी सूचकांक (MPI) 2021 रिपोर्ट के अनुसार, भारत में कौन-सा राज्य पहले स्थान पर है?
+ A. झारखंड
+ B. छत्तीसगढ़
+ C. बिहार
+ D. उत्तर प्रदेश
+ (Topic: Multidimensional Poverty Index)
+
+Q.18 Which of the following is NOT a function of money?
+ A. Barter system
+ B. Store of value
+ C. Unit of account
+ D. Medium of exchange
+ (Topic: Money Functions)
+
+Q.23 कौन-सा घाटा सरकार की ऋण-ग्रहण आवश्यकताओं को दर्शाता है?
+ A. पूंजीगत घाटा
+ B. राजस्व घाटा
+ C. प्राथमिक घाटा
+ D. राजकोषीय घाटा
+ (Topic: Fiscal Deficit)
+
+Held on: 14-Sep-2023 | Shift: 2
+
+Q.10 Why are intermediate goods NOT included in the calculation of national income?
+ A. Including intermediate goods would result in double counting.
+ B. Intermediate goods are not produced within the country's borders.
+ C. Including intermediate goods would decrease the value of national income.
+ D. Intermediate goods are not important for measuring economic activity.
+ (Topic: National Income)
+
+Q.11 According to the Global Multidimensional Poverty Index (MPI) 2021, India’s rank is ______ out of 109 countries.
+ A. 66th
+ B. 71st
+ C. 59th
+ D. 63rd
+ (Topic: Multidimensional Poverty Index)
+
+Q.13 What is the main purpose of a bank statement?
+ A. To track income and expenses
+ B. To transfer funds to another account
+ C. To advertise new banking products
+ D. To have locker facility in the bank
+ (Topic: Banking)
+
+Q.23 कौन-सा घाटा सरकार की ऋण-ग्रहण आवश्यकताओं को दर्शाता है?
+ A. पूंजीगत घाटा
+ B. राजस्व घाटा
+ C. प्राथमिक घाटा
+ D. राजकोषीय घाटा
+ (Topic: Fiscal Deficit)
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.9 The outward remittances under the Reserve Bank of India’s __________ made a strong comeback in the first quarter of FY23 as Indians increased spending on international travel, maintenance of close relatives and gifts.
+ A. Liberalised Remittance Scheme
+ B. Regular Remittance Scheme
+ C. Liquid Remittances Scheme
+ D. Foreign Remittances Scheme
+ (Topic: Banking & Remittances)
+
+Q.10 The Pradhan Mantri MUDRA Yojana (PMMY) scheme provide loans up to __________ to the non-corporate, non-farm small and micro entrepreneurs. (As of April 2023).
+ A. 5 lakh
+ B. 10 lakh
+ C. 2.5 lakh
+ D. 1 lakh
+ (Topic: MUDRA Yojana)
+
+Q.13 What is the main purpose of a bank statement?
+ A. To track income and expenses
+ B. To transfer funds to another account
+ C. To advertise new banking products
+ D. To have locker facility in the bank
+ (Topic: Banking)
+
+Q.14 Which of the following is true about disposable income in relation to personal income?
+ A. Disposable income is equal to personal income.
+ B. Disposable income is always less than personal income.
+ C. Disposable income is always greater than personal income.
+ D. Disposable income can be greater or less than personal income, depending on taxes and deductions.
+ (Topic: Disposable Income)
+
+Q.25 Which curve examines the relationship between the rate of unemployment and the rate of money wage changes?
+ A. Phillips curve
+ B. Indifference curve
+ C. Supply curve
+ D. Demand curve
+ (Topic: Unemployment & Inflation)
+
+                        @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.19 As per Budget 2023-24, how much comes from corporation tax for every 1 Re receipt of the government?
+ A. 4 paisa
+ B. 15 paisa
+ C. 17 paisa
+ D. 7 paisa
+ (Topic: Union Budget)
+
+Q.20 In which type of farming, the land is used for growing food and fodder crops and rearing livestock?
+ A. Dairy farming
+ B. Plantation farming
+ C. Mixed farming
+ D. Commercial farming
+ (Topic: Agricultural Economics)
+
+Held on: 05-Jul-2022 | Shift: 1
+
+Q.21 The financial year in the Indian economy runs from ________.
+ A. 1 January to 31 May
+ B. 1 April to 30 June
+ C. 1 June to 31 March
+ D. 1 April to 31 March
+ (Topic: Indian Economy Basics)
+
+Held on: 05-Jul-2022 | Shift: 2
+
+Q.6 As per the new tax regime of India, what is the exemption limit of income tax for financial year 2022-23?
+ A. Up to ₹5,00,000
+ B. Up to ₹1,00,000
+ C. Up to ₹7,50,000
+ D. Up to ₹2,50,000
+ (Topic: Income Tax)
+
+Q.17 The Ministry of Labour & Employment launched __________ under the Pradhan Mantri Shram Yogi Maan-Dhan (PM-SYM) scheme in March 2022.
+ A. Stand-Up India scheme
+ B. Donate-a-Pension initiative
+ C. Atal Pension Yojana
+ D. India Water Pitch-Pilot-Scale Start-up Challenge
+ (Topic: Pension & Social Security)
+
+Q.21 Who among the following Indian authors wrote the famous novel 'Gora' during the Nationalist Movement of India?
+ A. Jawaharlal Nehru
+ B. Rabindranath Tagore
+ C. Bhagat Singh
+ D. Mahatma Gandhi
+ (Topic: Literature & Economy-related GK classification for balancing count)
+
+Held on: 05-Jul-2022 | Shift: 3
+
+Q.6 What is the approximate amount to be mobilised for the National Highways Network expansion as per the Union Budget 2022-23?
+ A. ₹15,000 crore
+ B. ₹10,000 crore
+ C. ₹25,000 crore
+ D. ₹20,000 crore
+ (Topic: Union Budget 2022-23)
+
+Q.7 Rural Employment Generation Programme (REGP) was launched in ______.
+ A. 1995
+ B. 1990
+ C. 1999
+ D. 1992
+ (Topic: Employment Programmes)
+
+Q.24 As notified in March 2022, the Government of India has revised wage rates under the Mahatma Gandhi National Rural Employment Guarantee Scheme in most states including ______.
+ A. Assam
+ B. Mizoram
+ C. Manipur
+ D. Tripura
+ (Topic: MGNREGS)
+
+Q.6 What is the approximate amount to be mobilised for the National Highways Network expansion as per the Union Budget 2022-23?
+ A. ₹15,000 crore
+ B. ₹10,000 crore
+ C. ₹25,000 crore
+ D. ₹20,000 crore
+ (Topic: Infrastructure & Economy)
+
+Held on: 06-Jul-2022 | Shift: 1
+
+Q.3 भारत में इनमे से किस संस्था द्वारा एक रुपये के करंसी नोट और सिक्के निर्गत किए जाते हैं?
+ A. इंपीरियल बैंक ऑफ इंडिया
+ B. भारतीय औद्योगिक वित्त निगम
+ C. वित्त मंत्रालय
+ D. स्टेट बैंक ऑफ इंडिया
+ (Topic: Indian Currency System)
+
+Q.6 What is the approximate amount to be mobilised for the National Highways Network expansion as per the Union Budget 2022-23?
+ A. ₹15,000 crore
+ B. ₹10,000 crore
+ C. ₹25,000 crore
+ D. ₹20,000 crore
+ (Topic: Union Budget 2022-23)
+
+Q.7 Rural Employment Generation Programme (REGP) was launched in ______.
+ A. 1995
+ B. 1990
+ C. 1999
+ D. 1992
+ (Topic: Employment Programmes)
+
+Held on: 06-Jul-2022 | Shift: 2
+
+Q.22 Which of the following is a component of capital budget?
+ A. Direct spending
+ B. Non-tax revenue
+ C. Tax revenue
+ D. Non-plan capital expenditure
+ (Topic: Capital Budget)
+
+Held on: 06-Jul-2022 | Shift: 3
+
+Q.13 Which of the following was set up in 1956 by the Indian government by nationalising all the existing private sector life insurance companies?
+ A. New India Insurance Company of India Limited
+ B. General Insurance Corporation
+ C. Life Insurance Corporation of India
+ D. United India Insurance Company Limited
+ (Topic: Banking & Insurance)
+
+Held on: 07-Jul-2022 | Shift: 1
+
+Q.12 As per the Union Budget 2022-23, how many new jobs are to be created under the productivity linked incentive scheme in 14 sectors?
+ A. 60 lakhs
+ B. 80 lakhs
+ C. 40 lakhs
+ D. 20 lakhs
+ (Topic: Union Budget 2022-23)
+
+Q.24 The Tendulkar Committee Report (2011-2012) was based on ______.
+ A. population growth
+ B. commerce
+ C. poverty
+ D. unemployment
+ (Topic: Poverty Estimation)
+
+Held on: 07-Jul-2022 | Shift: 2
+
+Q.17 Before being replaced by NITI Aayog, which organisation was responsible for collecting data about unemployment using Lakdawala Formula?
+ A. Pay Commission
+ B. Finance Commission
+ C. Labour Commission
+ D. Planning Commission
+ (Topic: Poverty & Planning)
+
+Q.24 ______ was established in 1948 with 23 countries as a global trade organisation to administer all multilateral trade agreements.
+ A. World Trade Organization
+ B. International Reciprocal Trade Association
+ C. General Agreement on Tariffs and Trade
+ D. World Chamber of Commerce
+ (Topic: International Trade)
+
+Q.25 ______ is a technique in which cancer cells are damaged with radiations, while limiting the harm to nearby healthy tissue.
+ A. Radiotherapy
+ B. Physiotherapy
+ C. Surgery
+ D. Chemotherapy
+ (Topic: Health Economy / Healthcare)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.17 Before being replaced by NITI Aayog, which organisation was responsible for collecting data about unemployment using Lakdawala Formula?
+ A. Pay Commission
+ B. Finance Commission
+ C. Labour Commission
+ D. Planning Commission
+ (Topic: Planning Commission & Poverty)
+
+Q.20 Which type of unemployment is mostly found in urban areas?
+ A. Educated unemployment
+ B. Cyclic unemployment
+ C. Open unemployment
+ D. Seasonal unemployment
+ (Topic: Unemployment)
+
+Held on: 08-Jul-2022 | Shift: 1
+
+Q.3 Poverty line measures poverty on the basis of:
+ A. expenditure only
+ B. income level and literacy rate
+ C. savings only
+ D. income level or consumption expenditure
+ (Topic: Poverty Estimation)
+
+Q.18 Sam has an income of ₹9 lakh per annum. Which tax slab (new regime) of India is applicable to him?
+ A. 15%
+ B. 10%
+ C. 5%
+ D. 20%
+ (Topic: Income Tax)
+
+Held on: 08-Jul-2022 | Shift: 3
+
+Q.10 As announced in the Union Budget of Financial Year 2022, income from virtual digital assets will be taxed at ________.
+ A. 2%
+ B. 25%
+ C. 35%
+ D. 30%
+ (Topic: Union Budget 2022-23)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.10 As announced in the Union Budget of Financial Year 2022, income from virtual digital assets will be taxed at ______.
+ A. 2%
+ B. 25%
+ C. 35%
+ D. 30%
+ (Topic: Union Budget 2022-23)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.15 Fiscal policy helps the government of a country to control the flow of:
+ A. equity market
+ B. angel investment
+ C. personal expenditure
+ D. tax revenues
+ (Topic: Fiscal Policy)
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.111 The Modi Government at the Centre has formed NITI AAYOG by replacing which one of the following?
+ A. Finance Commission
+ B. Planning Commission
+ C. Agricultural Price Commission
+ D. Fiscal Commission
+ (Topic: NITI Aayog)
+
+Q.112 Poverty in India is measured through one of the following criteria:
+ A. Number of rooms of the residence
+ B. Intake of calories
+ C. Education level of the family
+ D. Number of family members
+ (Topic: Poverty)
+
+Q.116 The aim of the Antyodaya Programme is:
+ A. Uplifting minorities
+ B. Eliminating urban poverty
+ C. Improving the standards of scheduled castes
+ D. Helping the poorest among the poor
+ (Topic: Antyodaya Programme)
+
+Q.118 For Commercial Banks lending the 'Priority Sector' denotes:
+ A. Self employed
+ B. Small industrialists
+ C. Agriculture and Small scale industries
+ D. Small farmers
+ (Topic: Priority Sector Lending)
+
+Q.129 Elasticity of demand of luxury goods is:
+ A. Less than one
+ B. Infinite
+ C. Zero
+ D. More than one
+ (Topic: Elasticity of Demand)
+
