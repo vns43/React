@@ -1,0 +1,192 @@
+File name: ENVIRONMENT & ECOLOGY.txt
+Language: 
+Held on: 30-Sep-2024 | Shift: 3
+
+Q.3 Which of the following National Parks is located in Madhya Pradesh?
+ A. Periyar
+ B. Silent Valley
+ C. Nanda Devi
+ D. Bandhavgarh
+ (Topic: Protected Areas of India)
+
+Held on: 09-Oct-2024 | Shift: 1
+
+Q.10 Carbon dioxide plays a vital role in changing the earth's climate, leading to a critical condition known as __________.
+ A. Temperature Convection
+ B. Ozone Depletion
+ C. Greenhouse Effect
+ D. Thermal Conduction
+ (Topic: Climate Change & Greenhouse Effect)
+
+Held on: 14-Oct-2024 | Shift: 1
+
+Q.15 When was the Wildlife Protection Act passed?
+ A. 1980
+ B. 1951
+ C. 1955
+ D. 1972
+ (Topic: Wildlife Protection Act)
+
+Held on: 15-Oct-2024 | Shift: 1
+
+Q.17 The amount of dissolved oxygen in water becomes lowest at what time of the day?
+ A. In the evening
+ B. In the afternoon
+ C. At night time
+ D. In the dawn
+ (Topic: Aquatic Ecology)
+
+Held on: 15-Oct-2024 | Shift: 2
+
+Q.22 Suspended solids in water can increase the haziness of the water. Which of the following represents the measurement of haziness of water?
+ A. Viscosity
+ B. Salinity
+ C. Solubility
+ D. Turbidity
+ (Topic: Water Pollution)
+
+Held on: 18-Oct-2024 | Shift: 1
+
+Q.6 The Pitti Bird Sanctuary is located in which Union Territory/State of India?
+ A. Manipur
+ B. Lakshadweep
+ C. Andaman and Nicobar Islands
+ D. Tamil Nadu
+ (Topic: Bird Sanctuaries of India)
+
+Q.20 Which of the following factors is primarily responsible for soil formation?
+ A. Mining
+ B. Irrigation
+ C. Weathering
+ D. Degradation
+ (Topic: Soil Formation)
+
+Held on: 18-Oct-2024 | Shift: 2
+
+Q.1 Select the correct order of processes used for water purification in waterworks.
+
+Filtration
+Chlorination
+Suspended impurity sedimentation
+Solid impurity sedimentation
+
+A. 1-2-3-4
+ B. 2-1-4-3
+ C. 4-3-1-2
+ D. 4-3-2-1
+ (Topic: Water Purification)
+
+ENVIRONMENT & ECOLOGY (1)
+
+Held on: 23-Oct-2024 | Shift: 3
+
+Q.1 The condition when the amount of dissolved oxygen in a water body is alarmingly decreased is called:
+ A. hypoxia
+ B. anoxia
+ C. hypothermia
+ D. acidification
+ (Topic: Water Pollution & Aquatic Ecosystems)
+
+Held on: 28-Oct-2024 | Shift: 1
+
+Q.2 Which of the following is an alarming effect of thermal pollution in water bodies?
+ A. The amount of dissolved oxygen decreased significantly
+ B. Changes in turbidity
+ C. The random changes in pH values
+ D. Increasing amount of carbon dioxide
+ (Topic: Thermal Pollution)
+
+Held on: 12-Nov-2024 | Shift: 2
+
+Q.9 Which of the following groups of organisms are more vulnerable to the acidification of ocean?
+ A. Marine mammals
+ B. Marine reptiles
+ C. Marine algae
+ D. Calcifying organisms
+ (Topic: Ocean Acidification)
+
+Held on: 12-Nov-2024 | Shift: 3
+
+Q.5 A factory set up in my area is causing huge deforestation. Which of the following can we expect to see in the near future?
+
+A) Lowering of ground water
+ B) Lower temperatures
+ C) Frequent rain
+ D) Arrival of new animals
+
+A. A
+ B. B
+ C. D
+ D. C
+ (Topic: Deforestation & Environment)
+
+Q.6 Which of the following statements about the Ozone layer are true?
+
+Statement A: It is found in the stratosphere.
+ Statement B: Chlorofluorocarbons (CFCs) are responsible for ozone hole.
+ Statement C: Ozone layer is found around 15–30 km above the earth’s surface.
+ Statement D: Ozone layer is expected not to recover anymore now.
+
+A. Only statements A and D
+ B. Only statements A, B and C
+ C. Only statements A and B
+ D. Only statement B, C and D
+ (Topic: Ozone Layer)
+
+NVIRONMENT & ECOLOGY (1)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.15 The Wild Life (Protection) Amendment Act, 2022 seeks to implement the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES). Which of the following statements is correct about CITES?
+
+CITES is an agreement between governments to ensure that international trade in the specimens of wild animals and plants does not threaten the survival of the species.
+Under CITES, plant and animal specimens are classified into five categories based on the threat to their extinction.
+The Convention requires countries to regulate the trade of all listed specimens through permits.
+It also seeks to regulate the possession of live animal specimens.
+
+A. 1, 2 and 4
+ B. 1, 3 and 4
+ C. 2, 3 and 4
+ D. 1, 2 and 3
+ (Topic: CITES & Wildlife Conservation)
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 05-Jul-2022 | Shift: 3
+
+Q.20 Which of the following is considered to be the purest form of natural water (distilled water) free from impurities?
+ A. Well water
+ B. Spring water
+ C. River water
+ D. Rain water
+ (Topic: Water Resources & Environment)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.19 When is World Nature Conservation Day observed?
+ A. 12th July
+ B. 5th August
+ C. 28th July
+ D. 30th May
+ (Topic: Nature Conservation)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.138 Microsoft Excel is a:
+ A. Graphics Package
+ B. MS Office Package
+ C. Electronic Spreadsheet
+ D. Financial Planning Package
+ (Topic: MS Excel)
+
+ENVIRONMENT & ECOLOGY (1)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.122 A biome is:
+ A. A group of plants growing in a particular area
+ B. A delimited area
+ C. A complex of communities characterised by distinctive climate & vegetation
+ D. A collection of rare plants & animals
+ (Topic: Biomes)
+
