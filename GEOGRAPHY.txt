@@ -1,0 +1,2317 @@
+File name: GEOGRAPHY.txt
+Language: 
+Held on: 04-Feb-2026 | Shift: 3
+
+Q.53 Which lake in Rajasthan is famous for the annual Pushkar Fair?
+A. Sambhar Lake
+B. Fateh Sagar Lake
+C. Pushkar Lake
+D. Rajsamand Lake
+(Topic: Lakes of India)
+
+Q.61 The ozone layer that protects life from harmful ultraviolet radiation lies mainly in the
+A. Troposphere
+B. Stratosphere
+C. Mesosphere
+D. Thermosphere
+(Topic: Atmosphere)
+
+Q.63 The Appalachian coal fields are mainly located in which country?
+A. Australia
+B. United States
+C. Canada
+D. South Africa
+(Topic: World Mineral Resources)
+
+Held on: 05-Feb-2026 | Shift: 1
+
+Q.43 According to the Census 2011, which Indian state recorded the second highest literacy rate?
+ A. Goa
+ B. Mizoram
+ C. Tripura
+ D. Himachal Pradesh
+ (Topic: Census 2011)
+
+Q.47 In the context of the Earth's core, the primary metallic constituents of the 'Nife' layer are
+ A. nickel and iron
+ B. sodium and ferrous
+ C. nitrogen and bauxite
+ D. silica and nickel
+ (Topic: Structure of the Earth)
+
+Q.62 The average thickness of the Earth's crust is approximately _______.
+ A. 5 km
+ B. 30 km
+ C. 100 km
+ D. 200 km
+ (Topic: Interior of the Earth)
+
+Held on: 05-Feb-2026 | Shift: 2
+
+Q.44 The Standard Meridian of India passes through which of the following cities?
+ A. Nagpur
+ B. Mirzapur
+ C. Patna
+ D. Bhopal
+ (Topic: Indian Geography)
+
+Q.48 Which city is known as the 'Manchester of South India' because of its extensive textile industry?
+ A. Madurai
+ B. Coimbatore
+ C. Mysuru
+ D. Kochi
+ (Topic: Important Cities of India)
+
+Q.52 The thick deposits of glacial clay and other materials embedded with moraines in the Kashmir Himalayas are known as
+ A. Terai
+ B. Bhabar
+ C. Karewas
+ D. Khadar
+ (Topic: Physiography of India)
+
+Q.57 The 'Regur' soil, found extensively in the Deccan Trap, is also known by which name?
+ A. Alluvial soil
+ B. Red soil
+ C. Black soil
+ D. Laterite soil
+ (Topic: Soils of India)
+
+Held on: 05-Feb-2026 | Shift: 3
+
+Q.41 Which of the following is INCORRECT about Troposphere?
+ A. It is the lowest layer of the atmosphere.
+ B. Its average height is about 13 km.
+ C. Almost all weather phenomena like rainfall and fog occur in this layer.
+ D. It lies above the Stratosphere.
+ (Topic: Atmosphere)
+
+Q.42 The principal minerals produced in _____ are Iron Ore, Chromite, Bauxite, Coal, and Limestone.
+ A. Odisha
+ B. Kerala
+ C. Punjab
+ D. Haryana
+ (Topic: Mineral Resources)
+
+Q.43 Which of the following language families is the second most spoken in India?
+ A. Dravidian
+ B. Sino-Tibetan
+ C. Austric
+ D. Afro-Asiatic
+ (Topic: Languages of India)
+
+Q.65 Mesosphere is a part of
+ A. Lithosphere
+ B. Hydrosphere
+ C. Atmosphere
+ D. Biosphere
+ (Topic: Atmosphere)
+
+Held on: 06-Feb-2026 | Shift: 1
+
+Q.41 ____ is a method of farming where crops are grown and animals are reared on the same farm simultaneously.
+ A. Shifting cultivation
+ B. Plantation farming
+ C. Mixed farming
+ D. Subsistence farming
+ (Topic: Agriculture)
+
+Q.53 The Seychelles Islands are located in the
+ A. Atlantic Ocean
+ B. Indian Ocean
+ C. Pacific Ocean
+ D. Southern Ocean
+ (Topic: World Geography)
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Q.46 Which of the following port is known as the "Queen of the Arabian Sea"?
+ A. Cochin port
+ B. Paradip
+ C. Tuticorin port
+ D. N/A
+ (Topic: Ports of India)
+
+Q.63 The approximate height of the India Gate is
+ A. 56 m
+ B. 42 m
+ C. 30 m
+ D. 65 m
+ (Topic: Monuments of India)
+
+Held on: 12-Feb-2026 | Shift: 3
+
+Q.43 In which of the following city, the main reason of dense population is industrial areas which provide employment opportunities?
+ A. Varanasi
+ B. Mumbai
+ C. Puri
+ D. Leh
+ (Topic: Population Distribution)
+
+Q.47 All the weather phenomena like rainfall, fog and hailstorm occur in _________
+ A. Exosphere
+ B. Stratosphere
+ C. Mesosphere
+ D. Troposphere
+ (Topic: Atmosphere)
+
+Q.48 The Naharkatiya and Moran are important oil producing area of _________
+ A. Rajasthan
+ B. Maharashtra
+ C. Kerala
+ D. Assam
+ (Topic: Mineral Resources of India)
+
+Q.52 Which of the following statement is correct regarding Majuli?
+ I. It is the largest inhabited riverine island in the world.
+ II. It is in the Indus river.
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Indian Geography)
+
+Held on: 12-Feb-2026 | Shift: 2
+
+Q.74 Kakrapar Atomic Power Plant is located in which state?
+ A. Maharashtra
+ B. Bihar
+ C. Rajasthan
+ D. Gujarat
+ (Topic: Important Places in India)
+
+Q.81 Among the scheduled languages the smallest language groups in term of speakers are _____.
+ A. Sanskrit, Bodo, and Manipuri
+ B. Telugu, Marathi, and Gujarati
+ C. Urdu, Assamese, and Malayalam
+ D. Konkani, Maithili, and Sindhi
+ (Topic: Languages of India)
+
+Q.43 In which of the following city, the main reason of dense population is industrial areas which provide employment opportunities?
+ A. Varanasi
+ B. Mumbai
+ C. Puri
+ D. Leh
+ (Topic: Population Distribution)
+
+Held on: 12-Feb-2026 | Shift: 1
+
+Q.67 The population of India according to their economic status is generally divided into _____ groups.
+ A. 3
+ B. 6
+ C. 7
+ D. 5
+ (Topic: Population Studies)
+
+Q.75 Which of the following statement is correct regarding westerlies?
+
+I. It is found between sub-tropical high pressure belt and sub-polar low pressure belt.
+ II. It is a local wind.
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Winds)
+
+Q.77 Which of the following is an example of peninsular river?
+ A. Mahanadi
+ B. Brahmaputra
+ C. Ganga
+ D. Indus
+ (Topic: Rivers of India)
+
+Q.82 Which of the following statements is correct regarding Cobalt?
+
+I. Jharkhand has cobalt deposits.
+ II. Cobalt is used in rechargeable batteries.
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Mineral Resources)
+
+Held on: 11-Feb-2026 | Shift: 3
+
+Q.71 Which State is the sole holder of the country's perlite resources?
+ A. Gujarat
+ B. Andhra Pradesh
+ C. Assam
+ D. Punjab
+ (Topic: Mineral Resources of India)
+
+Q.76 Around which fort did the city of Chennai develop?
+ A. Mehrangarh Fort
+ B. Fort William
+ C. Fort Saint George
+ D. Sindhudurg Fort
+ (Topic: Indian Geography)
+
+Q.80 A piece of land that is surrounded by water on three sides is known as _____.
+ A. Strait
+ B. Isthmus
+ C. Peninsula
+ D. Gulf
+ (Topic: Landforms)
+
+Q.89 Which of the following river is known as Dakshin Ganga?
+ A. Narmada
+ B. Godavari
+ C. Brahmaputra
+ D. Brahmani
+ (Topic: Rivers of India)
+
+Held on: 30-Sep-2024 | Shift: 1
+
+Q.6 How many countries share their land borders with India?
+ A. Nine
+ B. Seven
+ C. Eight
+ D. Six
+ (Topic: Political Geography of India)
+
+Q.12 The Rabi season of agriculture begins in October-November and ends in __________.
+ A. May-June
+ B. June-July
+ C. March-April
+ D. January-February
+ (Topic: Indian Agriculture)
+
+Q.14 Which Union Territory had minimum literacy rate as per 2011 Census?
+ A. Chandigarh
+ B. Lakshadweep
+ C. Delhi
+ D. Dadra and Nagar Haveli
+ (Topic: Census of India)
+
+Q.22 Which of the following statements is/are correct about the famous place Mawsynram?
+
+A. It is the wettest place on the earth.
+ B. It is located in Meghalaya state of India.
+
+A. Only A is correct.
+ B. Only B is correct.
+ C. Neither A nor B is correct.
+ D. A and B both are correct.
+ (Topic: Physical Geography of India)
+
+Q.24 In which part of India is cool mountain climate observed?
+ A. North
+ B. South
+ C. East
+ D. West
+ (Topic: Climate of India)
+
+                @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 30-Sep-2024 | Shift: 2
+
+Q.11 Which of the following dams is a part of the Damodar Valley Corporation?
+ A. Rihand
+ B. Koyna
+ C. Salal
+ D. Maithon
+ (Topic: Rivers and Dams of India)
+
+Q.14 The Patkai hills are part of the __________ mountains.
+ A. Purvachal
+ B. Eastern Ghats
+ C. Western Ghats
+ D. Karakoram
+ (Topic: Physical Geography of India)
+
+Q.16 In the 1991 Census, which state was the highest in rank in terms of literacy rate and held higher than the national average of literacy rate?
+ A. Tamil Nadu
+ B. Karnataka
+ C. West Bengal
+ D. Kerala
+ (Topic: Census of India)
+
+Held on: 30-Sep-2024 | Shift: 3
+
+Q.3 Which of the following National Parks is located in Madhya Pradesh?
+ A. Periyar
+ B. Silent Valley
+ C. Nanda Devi
+ D. Bandhavgarh
+ (Topic: National Parks of India)
+
+Q.7 Which of the following states of India marked the lowest in National Multi-dimensional Poverty Index: A Progress Review 2023?
+ A. Sikkim
+ B. Kerala
+ C. Tamil Nadu
+ D. Goa
+ (Topic: Indian States)
+
+Q.9 Identify the INCORRECT pair of cropping season and related crop from the following.
+ A. Kharif - Maize
+ B. Kharif – Soyabean
+ C. Rabi - Wheat
+ D. Rabi - Paddy
+ (Topic: Indian Agriculture)
+
+Q.11 The average separation between the sun and the earth in terms of light years is 8.311 minutes. Here, minutes indicate:
+ A. distance
+ B. time
+ C. velocity
+ D. speed
+ (Topic: Earth and Sun)
+
+Q.24 The Hindu temples ‘Hinglaj Mata’ and ‘Katasraj’ are located in which neighbouring country of India?
+ A. Sri Lanka
+ B. Bhutan
+ C. Nepal
+ D. Pakistan
+ (Topic: World Geography)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.5 What is the approx width of broad-gauge railway network in India?
+ A. 1.3 metres
+ B. 1.2 metres
+ C. 1.6 metres
+ D. 1 metre
+ (Topic: Transport Geography)
+
+Q.16 According to Indian Meteorology, which of the following is NOT a season experienced in India?
+ A. The hot weather season
+ B. The southwest monsoon season
+ C. Equatorial season
+ D. The cold weather season
+ (Topic: Climate of India)
+
+Q.23 Bawris are traditionally used for:
+ A. getting petroleum oil
+ B. collecting garbage
+ C. getting useful minerals
+ D. storing and recharging water
+ (Topic: Water Resources of India)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.5 What is the approx width of broad-gauge railway network in India?
+ A. 1.3 metres
+ B. 1.2 metres
+ C. 1.6 metres
+ D. 1 metre
+ (Topic: Transport Geography)
+
+Q.16 According to Indian Meteorology, which of the following is NOT a season experienced in India?
+ A. The hot weather season
+ B. The southwest monsoon season
+ C. Equatorial season
+ D. The cold weather season
+ (Topic: Climate of India)
+
+Q.23 Bawris are traditionally used for:
+ A. getting petroleum oil
+ B. collecting garbage
+ C. getting useful minerals
+ D. storing and recharging water
+ (Topic: Water Resources of India)
+
+Held on: 01-Oct-2024 | Shift: 2
+
+Q.14 A process like river bifurcation can create valuable landforms for the environment, providing growth of vegetation. An example of such landform is ______.
+ A. Cascades
+ B. River deltas
+ C. Potholes
+ D. V-shaped valleys
+ (Topic: Landforms)
+
+Q.20 In which state is Kawal Wildlife Sanctuary located?
+ A. Maharashtra
+ B. Gujarat
+ C. Odisha
+ D. Telangana
+ (Topic: Wildlife Sanctuaries of India)
+
+Held on: 07-Oct-2024 | Shift: 1
+
+Q.3 Which of the following states had benefitted by the Indira Gandhi Canal?
+ A. Uttar Pradesh
+ B. Gujarat
+ C. Rajasthan
+ D. Madhya Pradesh
+ (Topic: Irrigation Projects of India)
+
+Q.5 Which of the following mountain peaks is a part of the Himalayas?
+ A. Kamet
+ B. Taramati
+ C. Kalsubai
+ D. Dhupgarh
+ (Topic: Himalayan Peaks)
+
+Q.14 Who was the Registrar General and Census Commissioner of India for the 2011 Indian Census?
+ A. Devender Kumar Sikri
+ B. Jayant Kumar Banthia
+ C. Vivek Joshi
+ D. Dr. C Chandramouli
+ (Topic: Census of India)
+
+Q.21 A river is capable of forming which of the following landscapes when the river is in its middle course?
+ A. V shaped valley
+ B. A delta
+ C. Waterfalls
+ D. A meander
+ (Topic: River Landforms)
+
+Held on: 07-Oct-2024 | Shift: 3
+
+Q.7 Which of the following crops is grown in the Kharif season in India?
+ A. cucumber
+ B. Soyabean
+ C. Barley
+ D. Mustard
+ (Topic: Indian Agriculture)
+
+Q.14 For transporting water from one place to another, some man-made structures used to distribute water to a place far away are known as:
+ A. aquifuge
+ B. aqueducts
+ C. aquifer
+ D. aquiclude
+ (Topic: Water Resources)
+
+Q.22 The Durg-Bastar-Chandrapur iron ore belt lies in which of the following groups of states?
+ A. Madhya Pradesh - Gujarat
+ B. Karnataka - Goa
+ C. Chhattisgarh - Maharashtra
+ D. Odisha - Jharkhand
+ (Topic: Mineral Resources of India)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.6 As per Census of India 2011, which of the following states has the highest percentage of Hindu population in India?
+ A. Uttar Pradesh
+ B. Madhya Pradesh
+ C. Himachal Pradesh
+ D. Bihar
+ (Topic: Census of India)
+
+Q.11 What is the height of the Kanchenjunga peak of Himalaya?
+ A. 8434 metres
+ B. 8798 metres
+ C. 8598 metres
+ D. 8175 metres
+ (Topic: Himalayan Peaks)
+
+Q.16 As of 2023, what is the number of major public seaports in India?
+ A. 16
+ B. 10
+ C. 12
+ D. 13
+ (Topic: Ports of India)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.6 As per Census of India 2011, which of the following states has the highest percentage of Hindu population in India?
+ A. Uttar Pradesh
+ B. Madhya Pradesh
+ C. Himachal Pradesh
+ D. Bihar
+ (Topic: Census of India)
+
+Q.11 What is the height of the Kanchenjunga peak of Himalaya?
+ A. 8434 metres
+ B. 8798 metres
+ C. 8598 metres
+ D. 8175 metres
+ (Topic: Himalayan Peaks)
+
+Q.16 As of 2023, what is the number of major public seaports in India?
+ A. 16
+ B. 10
+ C. 12
+ D. 13
+ (Topic: Ports of India)
+
+Held on: 08-Oct-2024 | Shift: 2
+
+Q.3 According to the Ministry of Agriculture and Farmers Welfare 2022-23, which state of India is the largest producer of sugarcane?
+ A. Andhra Pradesh
+ B. Karnataka
+ C. Bihar
+ D. Uttar Pradesh
+ (Topic: Agriculture of India)
+
+Q.11 Gabbro is an example of which type of rocks?
+ A. Metamorphic rock
+ B. Organically formed sedimentary rock
+ C. Sedimentary rock
+ D. Igneous rock
+ (Topic: Rocks and Minerals)
+
+Q.13 Which of the following peaks is NOT located in the Himalayan mountains?(Repeated - 2 times)
+ A. Nanda Devi
+ B. Kalsubai
+ C. Annapurna
+ D. Kamet
+ (Topic: Himalayan Peaks)
+
+Held on: 08-Oct-2024 | Shift: 3
+
+Q.2 Kaal Baisakhi belongs to which state from the following?
+ A. Bihar
+ B. West Bengal
+ C. Rajasthan
+ D. Punjab
+ (Topic: Climatology of India)
+
+Q.23 The igneous, sedimentary and metamorphic rocks are interconvertible through a continuous process called:
+ A. lithification
+ B. rock cycle
+ C. metamorphism
+ D. weathering and erosion
+ (Topic: Rocks and Rock Cycle)
+
+Held on: 09-Oct-2024 | Shift: 1
+
+Q.21 According to average rainfall in India, the Ladakh Union Territory is located in __________.
+ A. areas of low rainfall
+ B. areas of medium rainfall
+ C. areas of inadequate rainfall
+ D. areas of high rainfall
+ (Topic: Climate of India)
+
+Q.24 According to Economic Survey 2023-24, which of the following states is the largest wheat producing state of India?
+ A. Bihar
+ B. West Bengal
+ C. Uttar Pradesh
+ D. Assam
+ (Topic: Agriculture of India)
+
+Held on: 09-Oct-2024 | Shift: 2
+
+Q.10 The layer made up of unconsolidated rock, dust, soil, etc. that is deposited on a bed rock surface like a blanket is known as:
+ A. Protolith
+ B. Regolith
+ C. Talus
+ D. Scree
+ (Topic: Geomorphology)
+
+Q.11 According to Census 2011 of India, what was the percentage of Christian communities of the total population in India?
+ A. 1.7%
+ B. 0.7%
+ C. 0.4%
+ D. 2.3%
+ (Topic: Census of India)
+
+Q.13 Which of the following places in India receive the highest rainfall?(Repeated - 2 times)
+ A. Imphal
+ B. Guwahati
+ C. Patna
+ D. Mawsynram
+ (Topic: Climate of India)
+
+Held on: 09-Oct-2024 | Shift: 3
+
+Q.5 Which of the following is the National Waterway No. 4 in India?
+ A. Mahanadi and Brahmani rivers and East Coast Canal
+ B. Godavari and Krishna rivers along with Kakinada-Puducherry Canal
+ C. The Brahmaputra river between Sadiya and Dhubri
+ D. The Ganga River between Allahabad-Haldia
+ (Topic: Waterways of India)
+
+Q.12 Identify the INCORRECT pair (State and Iron-ore producing region) from the following.
+ A. Madhya Pradesh - Ratnagiri
+ B. Odisha - Badampahar
+ C. Chhattisgarh - Bailadila
+ D. Karnataka - Kudremukh
+ (Topic: Mineral Resources of India)
+
+Q.15 Select the odd one from the following saltwater lakes on the basis of their formation?
+ A. Chilika lake
+ B. Kolleru lake
+ C. Sambhar lake
+ D. Pulicat lake
+ (Topic: Lakes of India)
+
+Q.24 According to the Census of India 2011, which states of India have population density more than 1000 persons per sq. km?
+ A. Uttar Pradesh and Haryana
+ B. Madhya Pradesh and Maharashtra
+ C. Bihar and West Bengal
+ D. Kerala and Tamil Nadu
+ (Topic: Census 2011)
+
+Held on: 14-Oct-2024 | Shift: 1
+
+Q.2 The state religion of Bangladesh is:
+ A. Islam
+ B. Buddhism
+ C. Christianity
+ D. Hinduism
+ (Topic: World Geography)
+
+Q.3 What is the major purpose of the Salal Dam located on Chenab River in Jammu and Kashmir?
+ A. Drinking
+ B. Navigation
+ C. Hydroelectricity
+ D. Irrigation
+ (Topic: Dams and Rivers of India)
+
+Q.13 As per the 2001 Census, what is the specific age, for a person to be called literate?
+ A. 6 years
+ B. 7 years
+ C. 9 years
+ D. 8 years
+ (Topic: Census of India)
+
+Q.23 The Mahananda River rising in the ______ is a tributary of Ganga.
+ A. Kaimur hills
+ B. Darjeeling hills
+ C. Nanda Devi peak
+ D. Chota Nagpur plateau
+ (Topic: Rivers of India)
+
+Held on: 14-Oct-2024 | Shift: 2
+
+Q.3 The zone where the earthquake waves are not observed is called:
+ A. Hypocentre
+ B. Benthic Zone
+ C. Shadow Zone
+ D. Epicentre
+ (Topic: Earthquakes)
+
+Q.10 As per Census of India 2011, which of the following states has the highest percentage of urban population in India?
+ A. Maharashtra
+ B. Mizoram
+ C. Gujarat
+ D. Tamil Nadu
+ (Topic: Census of India)
+
+Q.16 According to the advancing of monsoon in India, which of the following cities receives rainfall after 15 June every year?
+ A. Hyderabad
+ B. Bengaluru
+ C. Imphal
+ D. Jaipur
+ (Topic: Monsoon in India)
+
+Q.19 Bhakra Dam is built on which of the following rivers?
+ A. Ravi
+ B. Beas
+ C. Chenab
+ D. Satluj
+ (Topic: Rivers and Dams of India)
+
+Held on: 14-Oct-2024 | Shift: 3
+
+Q.5 Which sector uses the groundwater maximally?
+ A. Educational
+ B. Industrial
+ C. Domestic
+ D. Agriculture
+ (Topic: Water Resources)
+
+Q.8 Which of the following crops takes almost a year to grow?
+ A. Ragi
+ B. Groundnut
+ C. Soyabean
+ D. Sugarcane
+ (Topic: Agriculture of India)
+
+Q.10 In which of the following states is the famous International Sand Art Festival organised, where artists get enthralled by the diverse thoughts and their elucidation on sand?
+ A. Assam
+ B. Bihar
+ C. West Bengal
+ D. Odisha
+ (Topic: Geography of India)
+
+Q.21 The Dudhsagar waterfall is a major tourist place of _________ State.
+ A. Nagaland
+ B. Chhattisgarh
+ C. Goa
+ D. Meghalaya
+ (Topic: Waterfalls of India)
+
+Held on: 15-Oct-2024 | Shift: 1
+
+Q.4 As per Census 2011, which of the following states has the highest percentage of Buddhist population in India?
+ A. Arunachal Pradesh
+ B. Himachal Pradesh
+ C. Sikkim
+ D. Karnataka
+ (Topic: Census of India)
+
+Q.14 Which of the following river valleys is NOT known for coal deposits in India?
+ A. Mahanadi
+ B. Satluj
+ C. Godavari
+ D. Son
+ (Topic: Mineral Resources of India)
+
+Q.22 Select the correct combination of famous palaces and their locations in Rajasthan.
+ A. Umaid Bhawan Palace – Udaipur
+ B. Lalgarh Palace - Bikaner
+ C. Rambagh Palace – Jodhpur
+ D. Taj Lake Palace – Jaipur
+ (Topic: Geography of India)
+
+Held on: 15-Oct-2024 | Shift: 2
+
+Q.10 The Sarda River rises in the _________ glacier in the Nepal Himalayas.
+ A. Milam
+ B. Bokhar Chu
+ C. Machoi
+ D. Siachen
+ (Topic: Rivers of India)
+
+Q.20 Which of the following iron and steel plants is located in Odisha?
+ A. Bokaro
+ B. Vijay Nagar
+ C. Vishakhapatnam
+ D. Rourkela
+ (Topic: Iron & Steel Industry)
+
+Q.23 In which region of Bangladesh do the Chakma people predominantly live?
+ A. Rajshahi Division
+ B. Sylhet Division
+ C. Sundarbans Mangrove Forest
+ D. Chittagong Hill Tracts
+ (Topic: World Geography)
+
+Held on: 15-Oct-2024 | Shift: 3
+
+Q.9 Which river is known as ‘Langchen Khambab’ in Tibet?
+ A. Indus
+ B. Sutlej
+ C. Kosi
+ D. Tista
+ (Topic: Rivers of India)
+
+Q.23 A portion of landmass from the shoreline up to the shelf break that is submerged under shallow water is known as:
+ A. Continental Drift
+ B. Oceanic Basin
+ C. Trenches
+ D. Continental Shelf
+ (Topic: Ocean Relief Features)
+Held on: 16-Oct-2024 | Shift: 1
+
+Q.1 Which of the following statements is/are correct according to the Census of India-2011?
+
+(a) A person aged seven years or above, who can both read and write with understanding in any language, is treated as literate.
+
+(b) A person who can only read but cannot write is not literate.
+
+A. Only (b) is correct
+ B. Only (a) is correct
+ C. Neither (a) nor (b) is correct
+ D. Both (a) and (b) are correct
+ (Topic: Census of India)
+
+Q.11 Nife layer of earth is situated in the __________.
+ A. Mantle
+ B. Core
+ C. Lithosphere
+ D. Crust
+ (Topic: Interior of the Earth)
+
+Q.19 The Indian Bureau of Mines (IBM) was established in the year ________.
+ A. 1985
+ B. 1948
+ C. 1960
+ D. 1973
+ (Topic: Mineral Resources of India)
+
+Held on: 16-Oct-2024 | Shift: 2
+
+Q.1 The property of rock or soil that indicates the ability of allowing fluids to flow through it is called:
+ A. Plasticity
+ B. Stability
+ C. Permeability
+ D. Density
+ (Topic: Soil & Rock Properties)
+
+Q.3 Identify the INCORRECT pair.
+ A. Blossom Shower - Andhra Pradesh
+ B. Nor Westers - West Bengal
+ C. Bardoisila - Assam
+ D. Mango Shower - Kerala
+ (Topic: Local Winds and Climate of India)
+
+Q.4 In which state is the Jhumming cultivation known as Dahiya?
+ A. Andhra Pradesh
+ B. Odisha
+ C. Rajasthan
+ D. Madhya Pradesh
+ (Topic: Shifting Cultivation)
+
+Q.23 In which region of Bangladesh do the Chakma people predominantly live?
+ A. Rajshahi Division
+ B. Sylhet Division
+ C. Sundarbans Mangrove Forest
+ D. Chittagong Hill Tracts
+ (Topic: World Geography)
+
+Held on: 16-Oct-2024 | Shift: 3
+
+Q.8 Which of the following Union Territories has the lowest population as per the Census of India 2011?
+ A. Lakshadweep
+ B. Delhi
+ C. Andaman and Nicobar
+ D. Daman and Diu
+ (Topic: Census of India)
+
+Q.18 Which of the following is the headquarter of East Central Railway?
+ A. Hajipur
+ B. Guwahati
+ C. Kanpur
+ D. Kolkata
+ (Topic: Indian Transport Geography)
+
+Q.22 According to the Census of India 2001, how much percentage of the immigrant population was from Sri Lanka?
+ A. 8.1%
+ B. 1.6%
+ C. 7.1%
+ D. 2.9%
+ (Topic: Census of India)
+
+Q.24 According to Koeppen’s Scheme of climatic regions of India, in which of the following states is the ‘BWhw’ and ‘BShw’ type climate found?
+ A. Maharashtra
+ B. Rajasthan
+ C. Bihar
+ D. Andhra Pradesh
+ (Topic: Climate of India)
+
+Held on: 17-Oct-2024 | Shift: 1
+
+Q.4 The Ebony, Mahogany, Cinchona etc. are trees found in which type of forests in India?
+ A. Tropical Deciduous Forests
+ B. Tropical Evergreen Forests
+ C. Thorny Forests
+ D. Mangrove Forests
+ (Topic: Natural Vegetation of India)
+
+Q.14 As per the National Multidimensional Poverty Index Report 2021, which of the following states has the least population under poverty?
+ A. Tamil Nadu
+ B. Sikkim
+ C. Himachal Pradesh
+ D. Punjab
+ (Topic: Poverty & Population Geography)
+
+Q.18 In which of the following states is shifting agriculture locally called Penda?
+ A. Madhya Pradesh
+ B. Orissa
+ C. West Bengal
+ D. Andhra Pradesh
+ (Topic: Shifting Cultivation)
+
+Q.7 Match the following.
+ A. 1-d, 2-a, 3-b, 4-c
+ B. 1-d, 2-a, 3-c, 4-b
+ C. 1-d, 2-b, 3-a, 4-c
+ D. 1-d, 2-c, 3-b, 4-a
+ (Topic: Indian Geography)
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Q.5 In a laterite soil profile, which of the following elements is present in an excessive amount?
+ A. Feldspar
+ B. Nitrogen
+ C. Lime
+ D. Iron
+ (Topic: Soils of India)
+
+Q.9 Which of the following States/Union Territories is NOT a part of Indus River Basin?
+ A. Himachal Pradesh
+ B. Ladakh
+ C. Jammu and Kashmir
+ D. Sikkim
+ (Topic: River Systems of India)
+
+Q.21 According to Census 2011 of India, which Union Territory has the second highest percentage of urban population?
+ A. Daman and Diu
+ B. Delhi
+ C. Chandigarh
+ D. Puducherry
+ (Topic: Census 2011)
+
+Held on: 17-Oct-2024 | Shift: 3
+
+Q.1 The weaker warm storms that grow stronger over time are finally converted into huge storms or hurricanes. Which of the following climate regions is the origin of such hurricanes?
+ A. Semi-arid climate region
+ B. Continental climate region
+ C. Tropical climate region
+ D. Arid climate region
+ (Topic: Climatology)
+
+Q.10 Which Census decade recorded the highest population growth rate (in terms of percentage) in India?
+ A. 1971-1981
+ B. 1941-1951
+ C. 1961-1971
+ D. 2001-2011
+ (Topic: Census of India)
+
+Q.13 The term 'Aus', 'Aman' and 'Boro' are associated with which crop in India?
+ A. Jute
+ B. Wheat
+ C. Paddy
+ D. Maize
+ (Topic: Agriculture of India)
+
+Q.25 Which of the following is NOT a physiographic division of India?
+ A. The Tibetan Plateau
+ B. The Northern Plains
+ C. The Peninsular Plateau
+ D. The Himalayan Mountains
+ (Topic: Physiography of India)
+
+Held on: 18-Oct-2024 | Shift: 1
+
+Q.16 With reference to agriculture in India, the term 'penda' is the name given to __________.
+ A. slash and burn agriculture
+ B. plantation agriculture
+ C. tea farming
+ D. agricultural season
+ (Topic: Agriculture of India)
+
+Q.23 Which of the following states has the lowest child sex ratio according to Census of India, 2001?
+ A. Uttarakhand
+ B. Haryana
+ C. Himachal Pradesh
+ D. Kerala
+ (Topic: Census of India)
+
+Q.25 As per Census 2011, which of the following states recorded negative growth in child sex ratio?
+ A. Punjab
+ B. Maharashtra
+ C. Himachal Pradesh
+ D. Haryana
+ (Topic: Census of India)
+
+Held on: 18-Oct-2024 | Shift: 2
+
+Q.2 Which of the following groups of ports are located on the bank of the Bay of Bengal?
+ A. Paradip and New Mangalore
+ B. Tuticorin and Cochin
+ C. Haldia and Kandla
+ D. Haldia and Paradip
+ (Topic: Ports of India)
+
+Q.4 The Betul, Hoshangabad and Chhindwara districts of Madhya Pradesh is a part of which of the following Biosphere Reserves?
+ A. Agasthyamalai
+ B. Pachmarhi
+ C. Manas
+ D. Seshachalam
+ (Topic: Biosphere Reserves of India)
+
+Q.22 Which of the following is a precious mineral?
+ A. Mica
+ B. Bauxite
+ C. Hematite
+ D. Platinum
+ (Topic: Minerals of India)
+
+Held on: 18-Oct-2024 | Shift: 3
+
+Q.10 Which of the following is NOT an iron-ore producing belt of India?
+ A. Maharashtra-Goa belt
+ B. Durg-Bastar-Chandrapur belt
+ C. Bilaspur-Panipat belt
+ D. Odisha-Jharkhand belt
+ (Topic: Mineral Resources of India)
+
+Q.11 Which state has the highest population in India as per the projected data of 2024?
+ A. Kerala
+ B. Uttar Pradesh
+ C. Bihar
+ D. Rajasthan
+ (Topic: Population of India)
+
+Q.22 Divergent plate boundary is a boundary that occurs between two tectonic plates:
+ A. that are sliding horizontally past each other
+ B. that are moving towards one another
+ C. where one plate slides beneath the other
+ D. that are moving away from one another
+ (Topic: Plate Tectonics)
+
+Held on: 21-Oct-2024 | Shift: 1
+
+Q.9 The North-South National Highway Corridor connects which two UTs/States of India?
+ A. Jammu and Kashmir - Tamil Nadu
+ B. Ladakh - Kerala
+ C. Delhi - Odisha
+ D. Jammu and Kashmir - Telangana
+ (Topic: Transport Geography)
+
+Q.11 Which of the following water bodies are also known as nurseries of the ocean?
+ A. Bogs
+ B. Dams
+ C. Lagoons
+ D. Estuaries
+ (Topic: Oceanography)
+
+Q.14 According to the standard definition of Census of India, the marginal worker is a person who works for less than ______ days in a year.
+ A. 180
+ B. 173
+ C. 170
+ D. 183
+ (Topic: Census of India)
+
+Q.20 The ‘Dhansiri’ and ‘Subansiri’ are the tributaries of ______ River.
+ A. Godavari
+ B. Sutlej
+ C. Brahmaputra
+ D. Mahanadi
+ (Topic: Rivers of India)
+
+Held on: 21-Oct-2024 | Shift: 2
+
+Q.6 As per Census 2011, which of the following Union Territories has the highest percentage of rural population?
+ A. Daman and Diu
+ B. Delhi
+ C. Puducherry
+ D. Chandigarh
+ (Topic: Census of India)
+
+Q.12 Which of the following is not a tributary of Godavari River?
+ A. Kameng
+ B. Manjra
+ C. Indravati
+ D. Pranhita
+ (Topic: Rivers of India)
+
+Q.21 Which of the following options contains groups of cropping seasons in India?
+ A. Rabi, Kharif and Zaid
+ B. Rabi, Podu and Zaid
+ C. Rabi, Kharif and Jhum
+ D. Ray, Kharif and Zaid
+ (Topic: Cropping Seasons of India)
+
+Q.7 The process by which a water body gradually becomes enriched with nutrients and minerals, mainly phosphorus and nitrogen, leading to enormous growth of algae on the surface of the water, thus decreasing the amount of dissolved oxygen in the water is known as:
+ A. Hypoxia
+ B. Biomagnification
+ C. Eutrophication
+ D. Bioaccumulation
+ (Topic: Environmental Geography)
+
+Held on: 21-Oct-2024 | Shift: 3
+
+Q.5 Coimbatore, which is located in the state of _______, is famous for the cotton textile industry.
+ A. Kerala
+ B. Tamil Nadu
+ C. Andhra Pradesh
+ D. Karnataka
+ (Topic: Industrial Geography of India)
+
+Q.6 Which of the following States/Union Territories is included in the ‘Areas of Inadequate Rainfall’ of India?
+ A. Haryana
+ B. Andaman and Nicobar Islands
+ C. Ladakh
+ D. Meghalaya
+ (Topic: Climate of India)
+
+Q.24 According to the Census of India 2011, which of the following states has the highest percentage of rural population?
+ A. Assam
+ B. Uttar Pradesh
+ C. West Bengal
+ D. Bihar
+ (Topic: Census of India)
+
+Q.11 Eutrophication is a condition where excessive growth of algal bloom occurs on the surface of a water body because of abundant nutrients. Which of the following are the key nutrients for eutrophication?
+ A. Iron and nitrogen
+ B. Phosphorus and nitrogen
+ C. Nitrogen and potassium
+ D. Phosphorus and iron
+ (Topic: Environmental Geography)
+
+Held on: 22-Oct-2024 | Shift: 1
+
+Q.2 Which of the following is NOT an element of weather?
+ A. Humidity
+ B. Plants
+ C. Temperature
+ D. Rainfall
+ (Topic: Weather and Climate)
+
+Q.10 According to the Census of India-2011, what is the share of workforce engaged in the agriculture sector?
+ A. 65.3%
+ B. 48.9%
+ C. 45.8%
+ D. 54.6%
+ (Topic: Census of India / Workforce Distribution)
+
+Q.16 According to the Census of India 2011, what was the population growth rate in Kerala?
+ (Topic: Census of India)
+
+Q.17 In which of the following states are the Nor Westers known as ‘Bardoisila’?
+ A. Goa
+ B. Bihar
+ C. Assam
+ D. Odisha
+ (Topic: Local Winds of India)
+
+Q.19 According to the Census 2011, what was the annual population growth rate of India (in percentage)?
+ A. 2.16%
+ B. 2.22%
+ C. 1.97%
+ D. 1.64%
+ (Topic: Census of India)
+
+Held on: 22-Oct-2024 | Shift: 2
+
+Q.5 Which of the following cities is known as the Steel City in India?
+ A. Jamshedpur
+ B. Ranchi
+ C. Patna
+ D. Mumbai
+ (Topic: Industrial Geography of India)
+
+Q.15 In which state are the Gua and Noamundi iron ore mines located?
+ A. Karnataka
+ B. Chhattisgarh
+ C. Jharkhand
+ D. Maharashtra
+ (Topic: Mineral Resources of India)
+
+Q.16 What is the rank of Sri Lanka in the Global Hunger Index (GHI) 2023?
+ A. 60
+ B. 69
+ C. 95
+ D. 80
+ (Topic: Global Indices & Geography)
+
+Q.20 The climatic diversity of India is characterised by its distinctiveness, and one of the following factors does NOT contribute to it is ________.
+ A. Latitudinal extent
+ B. Longitudinal extent
+ C. Topography
+ D. Vegetation
+ (Topic: Climate of India)
+
+Held on: 22-Oct-2024 | Shift: 3
+
+Q.17 Layers of varying thickness are found in which type of rock?
+ A. Volcanic rock
+ B. Igneous rock
+ C. Sedimentary rock
+ D. Metamorphic rock
+ (Topic: Rocks and Landforms)
+
+Q.18 The Panchpatmali mineral deposit region is located in which state from the following?
+ A. Rajasthan
+ B. Himachal Pradesh
+ C. Odisha
+ D. Haryana
+ (Topic: Mineral Resources of India)
+
+Q.24 As per Census 2011, what is the literacy rate of India?
+ A. 65.46%
+ B. 82.14%
+ C. 70%
+ D. 74.04%
+ (Topic: Census of India)
+
+Held on: 23-Oct-2024 | Shift: 1
+
+Q.5 All natural earthquakes take place in the:
+ A. Asthenosphere
+ B. Lithosphere
+ C. Biosphere
+ D. Hydrosphere
+ (Topic: Earthquakes)
+
+Q.14 According to the Census of India 2011, what is the population density of India?
+ A. 382/km²
+ B. 388/km²
+ C. 375/km²
+ D. 360/km²
+ (Topic: Census of India)
+
+Q.21 The Zaskar and the Nubra are tributaries of which river?
+ A. Ganga
+ B. Kaveri
+ C. Mahanadi
+ D. Indus
+ (Topic: Rivers of India)
+
+Held on: 23-Oct-2024 | Shift: 2
+
+Q.3 As per the World Happiness Index 2023, which of the following countries secured the highest rank?
+ A. Pakistan
+ B. Sri Lanka
+ C. Bangladesh
+ D. Nepal
+ (Topic: World Geography / Global Indices)
+
+Q.7 Atmospheric temperature usually decreases with altitude, but sometimes this phenomenon gets reversed in the troposphere. This phenomenon is known as ________.
+ A. Global Warming
+ B. Temperature Inversion
+ C. Adiabatic Lapse Rate
+ D. Temperature Convection
+ (Topic: Climatology)
+
+Q.9 The 2011 Census was the ______ official survey conducted in India.
+ A. 16th
+ B. 14th
+ C. 15th
+ D. 18th
+ (Topic: Census of India)
+
+Q.13 Which of the following is a crop grown in Rabi season in India?
+ A. Wheat
+ B. Soyabean
+ C. Maize
+ D. Rice
+ (Topic: Indian Agriculture)
+
+Held on: 23-Oct-2024 | Shift: 3
+
+Q.23 A famous hill station 'Ranikhet' is located on which mountain?
+ A. Eastern Ghats
+ B. Himalaya
+ C. Western Ghats
+ D. Aravali
+ (Topic: Indian Geography)
+
+Q.24 Which type of tea in large amount is exported from India to importing countries?
+ A. Black tea
+ B. Herbal tea
+ C. Green tea
+ D. Regular tea
+ (Topic: Agricultural Geography)
+
+Held on: 28-Oct-2024 | Shift: 1
+
+Q.4 According to Census 2011 of India, which metropolitan city has the highest population?
+ A. Mumbai
+ B. Kolkata
+ C. Chennai
+ D. Delhi
+ (Topic: Census of India)
+
+Q.7 Which of the following states is characterised by salt marshes known as 'Rann'?
+ A. Gujarat
+ B. Jharkhand
+ C. Maharashtra
+ D. Punjab
+ (Topic: Physical Geography of India)
+
+Q.23 The people of Himachal Pradesh make channels to bring water from a glacier or rainwater to villages for the function of mainly irrigation. These channels are locally known as:
+ A. Baori
+ B. Guls or Kuls
+ C. Khadins
+ D. Johads
+ (Topic: Water Resources of India)
+
+Q.25 Which of the following is NOT a hydroelectric power plant?
+ A. Sambhar Lake Hydel Project
+ B. Damodar Valley Hydel Project
+ C. Kopili Hydel Project
+ D. Bhakra Nangal Hydel Project
+ (Topic: Power Resources of India)
+
+Held on: 28-Oct-2024 | Shift: 2
+
+Q.1 In which state is the ‘slash and burn’ agriculture known as ‘Dahiya’?
+ A. Andhra Pradesh
+ B. Himachal Pradesh
+ C. Arunachal Pradesh
+ D. Madhya Pradesh
+ (Topic: Shifting Cultivation)
+
+Q.12 What is the rank of India in the Global Hunger Index (GHI) 2023?
+ A. 111
+ B. 120
+ C. 115
+ D. 105
+ (Topic: Global Indices)
+
+Q.15 The Patli Dun is associated with which physiographic division of India?
+ A. The Himalayan Mountains
+ B. The Indian Desert
+ C. The Peninsular Plateau
+ D. The Coastal Plains
+ (Topic: Physiography of India)
+
+Q.21 Fuels that are derived from fossils are preserved only in which kind of rocks?
+ A. Metamorphic rocks
+ B. Plutonic rocks
+ C. Volcanic rocks
+ D. Sedimentary rocks
+ (Topic: Rocks and Minerals)
+
+Held on: 28-Oct-2024 | Shift: 3
+
+Q.2 Who is literate according to the Census of India?
+ A. A person above 5 years of age, who can read and write with understanding in any language.
+ B. A person above 7 years of age, who can read and write with understanding in any language.
+ C. A person above 18 years of age, who can read and write with understanding in any language.
+ D. A person above 14 years of age, who can read and write with understanding in any language.
+ (Topic: Census of India)
+
+Q.3 Rank the following states in ascending order, based on their population density, as per Census 2011. Tripura, Meghalaya, Manipur, Nagaland.
+ A. Nagaland-Manipur-Meghalaya-Tripura
+ B. Nagaland-Tripura-Manipur-Meghalaya
+ C. Meghalaya-Tripura-Manipur-Nagaland
+ D. Meghalaya-Tripura-Nagaland-Manipur
+ (Topic: Population Density / Census)
+
+Q.8 In which state of India is the Telaiya Dam located?
+ A. Jharkhand
+ B. Karnataka
+ C. Madhya Pradesh
+ D. Bihar
+ (Topic: Dams of India)
+
+Q.9 When a river reaches a low lying plain, it continues erosion and deposition, forming a U-shaped lake detached from the main river. This is called:
+ A. an oxbow lake
+ B. a gulf
+ C. a canal
+ D. an estuary
+ (Topic: River Landforms)
+
+Q.23 In which of the following states can the 'Loo' phenomenon be observed?
+ A. Rajasthan
+ B. Goa
+ C. Tamil Nadu
+ D. Manipur
+ (Topic: Local Winds of India)
+
+
+Held on: 29-Oct-2024 | Shift: 1
+
+Q.1 The original non-metamorphic rock that undergoes profound physical or chemical changes leading to the formation of a metamorphic rock is known as:
+ A. Laterite
+ B. Bedrock
+ C. Regolith
+ D. Protolith
+ (Topic: Metamorphic Rocks)
+
+Q.2 According to the Census of India 2011, what was the total population of India?
+ A. 1.41 billion
+ B. 98.6 billion
+ C. 1.21 billion
+ D. 1.11 billion
+ (Topic: Census of India)
+
+Q.6 Magnolia and Laurel trees are found in which type of forest in India?
+ A. Mangrove Forests
+ B. Tropical Deciduous Forests
+ C. Montane Forests
+ D. Tropical Thorn Forests
+ (Topic: Forests of India)
+
+Q.24 As per Census of India 2011, which of the following states has the highest child sex ratio (in the age group of 0-6 years)?
+ A. Kerala
+ B. Rajasthan
+ C. Mizoram
+ D. Chhattisgarh
+ (Topic: Census of India)
+
+Held on: 29-Oct-2024 | Shift: 2
+
+Q.5 The ‘Mangla’ oil field is located in which district of Rajasthan?
+ A. Barmer
+ B. Kota
+ C. Bharatpur
+ D. Jaipur
+ (Topic: Mineral & Petroleum Resources)
+
+Q.7 According to Census of India 2011, which is the largest religious community in India?
+ A. Sikhs
+ B. Muslims
+ C. Hindus
+ D. Christians
+ (Topic: Census of India)
+
+Q.16 The Narora ______ Power Station is located in Uttar Pradesh.
+ A. Natural Gas
+ B. Wind
+ C. Atomic
+ D. Thermal
+ (Topic: Power Resources of India)
+
+Q.19 Groundwater is an important source of water. The top level of the groundwater layer is called:
+ A. Sea level
+ B. Underground water
+ C. Well
+ D. Water table
+ (Topic: Water Resources)
+
+Held on: 29-Oct-2024 | Shift: 3
+
+Q.2 According to Census of India 2011, in which of the following Union Territories was the sex ratio recorded at 1037 females per 1000 males?
+ A. Puducherry
+ B. Chandigarh
+ C. Lakshadweep
+ D. Andaman and Nicobar Islands
+ (Topic: Census of India)
+
+Q.14 The Thermohaline Circulation directly influences which of the following crucial environmental factors all over the world?
+ A. The landforms
+ B. The climate
+ C. Natural resources
+ D. Pollution in the air
+ (Topic: Oceanography & Climate)
+
+Q.15 According to the Census of India 2011, which state has the highest sex ratio?
+ A. Karnataka
+ B. Kerala
+ C. Tamil Nadu
+ D. Andhra Pradesh
+ (Topic: Census of India)
+
+Q.21 The Union Territory of Puducherry is located in which of the following river basins?
+ A. Yamuna
+ B. Kaveri
+ C. Krishna
+ D. Mahanadi
+ (Topic: River Basins of India)
+
+Held on: 30-Oct-2024 | Shift: 1
+
+Q.1 As per the 2011 census, which of the following union territories had the lowest population?
+ A. Andaman and Nicobar Islands
+ B. Puducherry
+ C. Lakshadweep
+ D. Chandigarh
+ (Topic: Census of India)
+
+Q.6 Which of the following rivers flows north of the Tropic of Cancer in India?
+ A. Tapi
+ B. Mahanadi
+ C. Penganga
+ D. Yamuna
+ (Topic: Rivers of India)
+
+Q.11 Large tidal waves caused by an underwater earthquake or volcanic eruption are known as a ________.
+ A. tsunami
+ B. tornado
+ C. hurricane
+ D. typhoon
+ (Topic: Oceanography & Natural Disasters)
+
+Q.12 Which of the following National Waterways (NW) is associated with the Udyogamandal and the Champakkara canals?
+ A. NW-3
+ B. NW-5
+ C. NW-25
+ D. NW-10
+ (Topic: National Waterways)
+
+Q.21 The God of Small Things is a novel authored by whom among the following authors?
+ A. Shashi Tharoor
+ B. Fakira
+ C. Arundhati Roy
+ D. Rohinton Mistry
+ (Topic: Geography not applicable - Reclassified elsewhere)
+
+Held on: 30-Oct-2024 | Shift: 2
+
+Q.3 The oceanic trenches or the narrow depressions on the seafloor are formed by reason of:
+
+A. tsunamis
+ B. thermohaline circulation
+ C. tectonic activity
+ D. tidal currents
+
+(Topic: Oceanography)
+
+Q.5 According Census 2011 of India, which of the following Union Territories has the second highest literacy rate?
+
+A. Lakshadweep
+ B. Chandigarh
+ C. Daman and Diu
+ D. Andaman and Nicobar
+
+(Topic: Census of India)
+
+Q.19 Which of the following rivers flows through Madhya Pradesh?
+
+A. Sharda
+ B. Bhima
+ C. Shyok
+ D. Betwa
+
+(Topic: Rivers of India)
+
+Q.23 Which port situated at the head of Gulf of Kutch has helped to reduce the pressure at Mumbai port?
+
+A. Kolkata
+ B. Kochi
+ C. Haldia
+ D. Kandla
+
+(Topic: Ports of India)
+
+Q.7 Match the following.(Geography-based matching question from the paper)
+
+A. A-2, B-1, C-3, D-4
+ B. A-3, B-2, C-4, D-1
+ C. A-4, B-1, C-2, D-3
+ D. A-3, B-4, C-2, D-1
+
+(Topic: Indian Geography)
+
+Held on: 30-Oct-2024 | Shift: 3
+
+Q.1 Which of the following country's official language is Sinhala?
+ A. Maldives
+ B. Sri Lanka
+ C. Nepal
+ D. Myanmar
+ (Topic: World Geography)
+
+Q.10 In which Indian state do we find caves named after elephant statues found in it?
+ A. Rajasthan
+ B. Karnataka
+ C. Odisha
+ D. Maharashtra
+ (Topic: Indian Geography & Caves)
+
+Q.13 Which state in India has the highest population density as per the 2011 Census?
+ A. Bihar
+ B. Tamil Nadu
+ C. West Bengal
+ D. Uttar Pradesh
+ (Topic: Census of India)
+
+Q.17 The Guindy National Park is located in which state?
+ A. Madhya Pradesh
+ B. Rajasthan
+ C. Tamil Nadu
+ D. Maharashtra
+ (Topic: National Parks of India)
+
+Held on: 04-Nov-2024 | Shift: 1
+
+Q.5 Water from melting snow or rainfall or the spring drains downwards through an area of land and finally gets mixed into a large water body like river or ocean. This area of land is called:
+ A. Bay
+ B. Delta
+ C. Drainage Basin
+ D. Estuary
+ (Topic: Drainage Basin)
+
+Q.6 According to Census 2011 of India, which Indian state has the highest urban population percentage?
+ A. Mizoram
+ B. Maharashtra
+ C. Kerala
+ D. Goa
+ (Topic: Census of India)
+
+Q.17 ‘Doabs’ are found in which physical feature of India?
+ A. The Peninsular Plateau
+ B. The Northern Plains
+ C. The Coastal Plains
+ D. The Himalayan Mountains
+ (Topic: Northern Plains)
+
+Q.19 In which of the following groups of States and Union Territories is ‘slash and burn’ agriculture known as ‘Dipa’?
+ A. Chhattisgarh and Andaman & Nicobar Islands
+ B. Odisha and Puducherry
+ C. Chhattisgarh and Lakshadweep
+ D. Rajasthan and Andaman & Nicobar Islands
+ (Topic: Agriculture of India)
+
+Q.4 The Republic Day parade is held every year at Kartavya Path, in which of the following cities?
+ A. Jaipur
+ B. Bangalore
+ C. Dispur
+ D. New Delhi
+ (Topic: Important Places in India)
+
+Held on: 04-Nov-2024 | Shift: 2
+
+Q.17 What is the rate of movement of tectonic plate boundaries?
+ A. 1-2 m per year
+ B. 1-2 inch per year
+ C. 2-5 km per year
+ D. 1-2 mm per year
+ (Topic: Plate Tectonics)
+
+Q.22 Which of the following Biosphere reserves is located in Uttarakhand?
+ A. Panchmarhi
+ B. Nilgiri
+ C. Nanda Devi
+ D. Dihang-Dibang
+ (Topic: Biosphere Reserves of India)
+
+Q.24 In which state is the Kaiga Nuclear Power Project located?
+ A. Assam
+ B. Bihar
+ C. Gujarat
+ D. Karnataka
+ (Topic: Power Resources of India)
+
+Held on: 04-Nov-2024 | Shift: 3
+
+Q.6 Which state has the largest Scheduled Tribe population as per Census 2011?
+ A. Chhattisgarh
+ B. Odisha
+ C. Jharkhand
+ D. Madhya Pradesh
+ (Topic: Census of India)
+
+Q.12 The percentage of pore space between particles inside a rock or soil is called:
+ A. Porosity
+ B. Salinity
+ C. Density
+ D. Permeability
+ (Topic: Physical Geography)
+
+Q.14 In which state is the Rewa Ultra Mega Solar Power Project located?
+ A. Madhya Pradesh
+ B. Rajasthan
+ C. Karnataka
+ D. Tamil Nadu
+ (Topic: Power Resources)
+
+Q.22 As per Census 2011, which is the most populated city in India?
+ A. Kolkata
+ B. Chennai
+ C. Mumbai
+ D. Delhi
+ (Topic: Census of India)
+
+Held on: 05-Nov-2024 | Shift: 1
+
+Q.11 Sedimentary rocks are formed by the process of deposition and compaction of rock fragments. This process is called:
+ A. Weathering
+ B. Lacoliths
+ C. Lithification
+ D. Liquefaction
+ (Topic: Rocks and Landforms)
+
+Q.15 Which of the following is NOT a natural fibre crop grown in India?
+ A. Hemp
+ B. Polyester
+ C. Cotton
+ D. Jute
+ (Topic: Agriculture of India)
+
+Q.23 Which physical feature of India is known for its lateritic soil which supports plantation crops?(Repeated - 2 times)
+ A. Chhota Nagpur Plateau
+ B. Malabar Coast
+ C. Western Ghats
+ D. The Himalayas
+ (Topic: Physical Geography of India)
+
+Q.7 According to the National Multidimensional Poverty Index of India: A Progress Review 2023, which state has the LOWEST percentage of population being multidimensionally poor?
+ A. Manipur
+ B. West Bengal
+ C. Rajasthan
+ D. Sikkim
+ (Topic: Human Geography / Poverty Statistics)
+
+Held on: 05-Nov-2024 | Shift: 2
+
+Q.1 Select the correct statement regarding the water table.
+ A. Water table cannot be changed at any place.
+ B. No water can be found below the water table.
+ C. Water table varies from place to place.
+ D. The lower level of groundwater is called water table.
+ (Topic: Groundwater Resources)
+
+Q.11 Sedimentary rocks are formed by deposition and compaction of rock fragments. This process is called:
+ A. Weathering
+ B. Lacoliths
+ C. Lithification
+ D. Liquefaction
+ (Topic: Rocks and Landforms)
+
+Q.15 The 'Mahawat' term is associated with which season in North-West India?
+ A. Rainy season
+ B. Winter rainfall
+ C. Post Monsoon rainfall
+ D. Summer rainfall
+ (Topic: Climate of India)
+
+Q.17 Which Census decade in India recorded the highest crude death rate?
+ A. 1931-1941
+ B. 1991-2001
+ C. 1911-1921
+ D. 1941-1951
+ (Topic: Census of India)
+
+Held on: 05-Nov-2024 | Shift: 3
+
+Q.6 According to Census of India 2011, which state is least urbanised?
+ A. Himachal Pradesh
+ B. Uttar Pradesh
+ C. Chhattisgarh
+ D. Bihar
+ (Topic: Census of India)
+
+Q.10 The Indravati National Park is located in which state?
+ A. Tripura
+ B. Chhattisgarh
+ C. Tamil Nadu
+ D. Rajasthan
+ (Topic: National Parks of India)
+
+Q.17 The navigable portion of Barak River between Lakhipur and Bhanga was declared as ______ in 2016.
+ A. NW-5
+ B. NW-10
+ C. NW-16
+ D. NW-8
+ (Topic: Inland Waterways of India)
+
+Q.19 The non-metallic mineral mica is used in which industry?
+ A. Cement industry
+ B. Steel industry
+ C. Glass industry
+ D. Electrical industry
+ (Topic: Minerals of India)
+
+Held on: 11-Nov-2024 | Shift: 1
+
+Q.3 In Kerala and coastal area of Karnataka the pre-monsoon shower is known as _______.
+ A. Blossom shower
+ B. Kalbaisakhi
+ C. Mango shower
+ D. Bardoisila
+ (Topic: Climate of India)
+
+Q.6 According to the Human Development Index 2023-24, what is the rank of India?
+ A. 134
+ B. 132
+ C. 130
+ D. 129
+ (Topic: Human Development Index)
+
+Q.20 Plutonic rocks are formed when lava cools _______.
+ A. in the core
+ B. in the crust
+ C. at the surface
+ D. in the asthenosphere
+ (Topic: Rocks and Landforms)
+
+Q.25 Which of the following is the first planned industrial city in India?
+ A. Chandigarh
+ B. Indore
+ C. Navi Mumbai
+ D. Jamshedpur
+ (Topic: Industrial Geography)
+
+Held on: 11-Nov-2024 | Shift: 2
+
+Q.1 Which of the following neighbouring countries of India is most populous?
+ A. Pakistan
+ B. Afghanistan
+ C. Bhutan
+ D. Bangladesh
+ (Topic: Neighbouring Countries of India)
+
+Q.3 The Mayurbhanj District in Odisha is a part of which Biosphere Reserve from the following?
+ A. Pachmarhi
+ B. Similipal
+ C. Dihang Dibang
+ D. Nokrek
+ (Topic: Biosphere Reserves of India)
+
+Q.14 As per Ministry of Road Transport and Highways, what is the total length of National Highways in India as of November 2022?
+ A. 1,86,908 kilometres
+ B. 1,45,897 kilometres
+ C. 1,85,633 kilometres
+ D. 1,44,634 kilometres
+ (Topic: Transport Geography)
+
+Q.20 The earthquakes that are generated due to the explosion of chemical or nuclear devices are known as:
+ A. Collapse earthquakes
+ B. Explosion earthquakes
+ C. Tectonic earthquakes
+ D. Reservoir-induced earthquakes
+ (Topic: Earthquakes)
+
+Q.23 What is the female literacy rate in India, as per the 2011 census?
+ A. 65.46%
+ B. 66.44%
+ C. 65.64%
+ D. 64.66%
+ (Topic: Census of India)
+
+Held on: 11-Nov-2024 | Shift: 3
+
+Q.11 Where is the headquarters of the West Central Railway Zone?
+ A. Maligaon
+ B. Bilaspur
+ C. Hubli
+ D. Jabalpur
+ (Topic: Transport Geography)
+
+Q.17 Which state lies in the rain shadow region of the Arabian Sea branch of the southwest monsoon?
+ A. Goa
+ B. Gujarat
+ C. Tamil Nadu
+ D. Kerala
+ (Topic: Climate of India)
+
+Q.21 In rat-hole mining, which of the following minerals is mined?
+ A. Coal
+ B. Bauxite
+ C. Gold
+ D. Nickel
+ (Topic: Mineral Resources)
+
+Held on: 12-Nov-2024 | Shift: 1
+
+Q.11 Which of the following iron and steel plants is located in Jharkhand?
+ A. Salem
+ B. Durgapur
+ C. Vijay Nagar
+ D. Bokaro
+ (Topic: Industrial Geography)
+
+Q.12 Which of the following peaks is NOT located in India?
+ A. Nanda Devi
+ B. Guru Shikar
+ C. Mahendragiri
+ D. Dhaulagiri
+ (Topic: Mountains of India)
+
+Q.18 The national animal of Nepal is:
+ A. Tiger
+ B. Snow Leopard
+ C. Camel
+ D. Cow
+ (Topic: Neighbouring Countries)
+
+Q.20 Which of the following Census recorded negative population growth in India?
+ A. 1971
+ B. 1991
+ C. 2011
+ D. 1921
+ (Topic: Census of India)
+
+Held on: 12-Nov-2024 | Shift: 2
+
+Q.4 The Talcher Thermal Power Station is located in which state?
+ A. Andhra Pradesh
+ B. Rajasthan
+ C. Odisha
+ D. Bihar
+ (Topic: Power Resources of India)
+
+Q.11 Which of the following is the zonal headquarter of North Eastern Railway?
+ A. Kolkata
+ B. Gorakhpur
+ C. Allahabad
+ D. Hubli
+ (Topic: Transport Geography)
+
+Q.25 The cold subarctic climate region possesses forest lands having conifers as main vegetation. These forest lands are known as:
+ A. Taiga
+ B. Tundra
+ C. Mangrove
+ D. Savanna
+ (Topic: World Geography & Vegetation)
+
+Held on: 12-Nov-2024 | Shift: 3
+
+Q.3 The Kakrapar Atomic Power Plant is located in which state?
+ A. Tamil Nadu
+ B. Rajasthan
+ C. Maharashtra
+ D. Gujarat
+ (Topic: Power Resources of India)
+
+Q.11 Which of the following is the zonal headquarter of North Eastern Railway?
+ A. Kolkata
+ B. Gorakhpur
+ C. Allahabad
+ D. Hubli
+ (Topic: Transport Geography)
+
+Q.17 Oak and chestnut trees are found in which type of forest in India?
+ A. Mangrove forests
+ B. Thorn forests
+ C. Montane forests
+ D. Tropical deciduous forests
+ (Topic: Forests of India)
+
+Held on: 13-Nov-2024 | Shift: 2
+
+Q.7 According to the census of India 2011, which union territory of India has the highest literacy rate?
+ A. Chandigarh
+ B. Delhi
+ C. Puducherry
+ D. Lakshadweep
+ (Topic: Census of India)
+
+Q.11 Which local storm is also known as 'Kalbaisakhi'?
+ A. Nor Westers
+ B. Loo
+ C. Mango Shower
+ D. Blossom Shower
+ (Topic: Local Winds of India)
+
+Q.14 In which of the following types of regions, is the maximum temperature variation observed between a day and the same night?
+ A. Peninsula
+ B. Desert
+ C. Coastal area
+ D. Island
+ (Topic: Climate of India)
+
+Q.25 Which region in India has the highest concentration of Iron and Steel Industry?
+ A. Deccan Plateau
+ B. Telangana Plateau
+ C. Chotanagpur Plateau
+ D. Aravali Region
+ (Topic: Industrial Geography of India)
+
+Held on: 13-Nov-2024 | Shift: 3
+
+Q.6 The Indus Water Treaty took place in ______ between India and Pakistan.
+ A. 1970
+ B. 1960
+ C. 1955
+ D. 1965
+ (Topic: Indian Geography & Rivers)
+
+Q.15 As per Census 2011, which of the following states has the lowest child sex ratio?
+ A. Rajasthan
+ B. Madhya Pradesh
+ C. Haryana
+ D. Punjab
+ (Topic: Census of India)
+
+Q.20 Tsunami is a natural disaster that originates from the ocean. The cause of Tsunami in the ocean is:
+ A. The movement of tectonic plates under the ocean
+ B. The presence of excessive carbon dioxide in the water
+ C. The alarmingly increasing amount of acid in water
+ D. The accumulation of high amount of radioactive pollutants in the ocean
+ (Topic: Oceanography)
+
+Q.25 Which region in India has the highest concentration of Iron and Steel Industry?
+ A. Deccan Plateau
+ B. Telangana Plateau
+ C. Chotanagpur Plateau
+ D. Aravali Region
+ (Topic: Industrial Geography)
+
+Held on: 14-Nov-2024 | Shift: 2
+
+Q.3 Which of the following is an artificial port in India?
+ A. Chennai port
+ B. Mumbai port
+ C. Deendayal port
+ D. Kolkata port
+ (Topic: Ports of India)
+
+Q.6 Name the Union territory with the lowest density of population as per Census of India 2011.
+ A. Lakshdweep
+ B. New Delhi
+ C. Daman and Diu
+ D. Andaman and Nicobar Islands
+ (Topic: Census of India)
+
+Q.14 According to the census of India 2011, which union territory from the following has the highest sex ratio?
+ A. Puducherry
+ B. Daman and Diu
+ C. Lakshadweep
+ D. Chandigarh
+ (Topic: Census of India)
+
+Q.16 What is the salt measurement in hypersaline lagoons?
+ A. 30 to 35
+ B. Less than 5
+ C. Less than 100
+ D. More than 100
+ (Topic: Lagoons & Salinity)
+
+Q.20 In Maikal hills, which of the following minerals is deposited?
+ A. Copper
+ B. Coal
+ C. Bauxite
+ D. Iron
+ (Topic: Mineral Resources)
+
+Held on: 14-Nov-2024 | Shift: 3
+
+Q.5 As per Census 2011, what is the average female literacy rate in India?
+ A. 82.45%
+ B. 74.34%
+ C. 65.46%
+ D. 60.76%
+ (Topic: Census of India)
+
+Q.9 Identify the tributary of the Brahmaputra River from the following.
+ A. Barakar
+ B. Kali Ganga
+ C. Burhi Dihing
+ D. Hindan
+ (Topic: Rivers of India)
+
+Q.13 The Hugli industrial region is located in which state?
+ A. Gujarat
+ B. Telangana
+ C. Karnataka
+ D. West Bengal
+ (Topic: Industrial Geography)
+
+Q.18 The Mawsynram receives the highest average annual rainfall in the world. It is located in which hills?
+ A. Maikala hills
+ B. Khasi hills
+ C. Jaintia hills
+ D. Garo hills
+ (Topic: Physical Geography of India)
+
+Q.20 In Maikal hills, which of the following minerals is deposited?
+ A. Copper
+ B. Coal
+ C. Bauxite
+ D. Iron
+ (Topic: Mineral Resources)
+                     
+                     @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 01-Sep-2023 | Shift: 1
+
+Q.10 ‘Mandarin’ is the official language of which neighbouring country of India?
+ A. Afghanistan
+ B. Bhutan
+ C. Sri Lanka
+ D. China
+ (Topic: Neighbouring Countries)
+
+Q.13 The East-West corridor, which is a part of the Golden Quadrilateral super highways, links which two cities of India from the following?
+ A. Ahmadnagar and Imphal
+ B. Silchar and Porbandar
+ C. Jaipur and Gangtok
+ D. Gandhinagar and Silchar
+ (Topic: Transport Geography)
+
+Q.23 Which river is also known as Tsangpo?
+ A. Ganga river
+ B. Gandak river
+ C. Kaveri river
+ D. Brahmaputra river
+ (Topic: Rivers of India)
+
+Q.24 What is the destination of the water drained off by the Nile river?
+ A. Lake Victoria
+ B. Indian Ocean
+ C. Mediterranean Sea
+ D. Lake Tanganyika
+ (Topic: World Geography)
+Held on: 01-Sep-2023 | Shift: 2
+
+Q.1 In which of the following states is there hardly any differences in day and night temperatures?
+ A. Rajasthan
+ B. Bihar
+ C. Kerala
+ D. Punjab
+ (Topic: Climate of India)
+
+Q.9 Which of the following is connected with daily atmospheric weather changes?
+ A. Asthenosphere
+ B. Stratopause
+ C. Troposphere
+ D. Lithosphere
+ (Topic: Atmosphere)
+
+Q.10 According to the Census of India 2011, which of the following states has the lowest literacy rate?
+ A. Kerala
+ B. Tripura
+ C. Goa
+ D. Mizoram
+ (Topic: Census of India)
+
+Q.23 Which river is also known as Tsangpo?
+ A. Ganga river
+ B. Gandak river
+ C. Kaveri river
+ D. Brahmaputra river
+ (Topic: Rivers of India)
+
+Q.24 What is the destination of the water drained off by the Nile river?
+ A. Lake Victoria
+ B. Indian Ocean
+ C. Mediterranean Sea
+ D. Lake Tanganyika
+ (Topic: World Geography)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.7 Which of the following locations experiences the lowest amount of rainfall during the monsoon season?
+ A. Kerala
+ B. Assam
+ C. Leh
+ D. Meghalaya
+ (Topic: Climate of India)
+
+Q.13 The holy mountain ‘Kailash’ is located in which neighbouring country of India?
+ A. Pakistan
+ B. Afghanistan
+ C. Bangladesh
+ D. China
+ (Topic: Neighbouring Countries)
+
+Q.14 In which of the following states of India the ‘Loo’ wind does NOT blow during the summer season?
+ A. Punjab
+ B. Rajasthan
+ C. Goa
+ D. Haryana
+ (Topic: Local Winds of India)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.3 In which river has the National Waterways-2 (NW-2) been developed in India?
+ A. Brahmaputra
+ B. Krishna
+ C. Ganga
+ D. Narmada
+ (Topic: National Waterways)
+
+Q.13 Which of the following lakes is a saltwater lake?
+ A. Superior
+ B. Chilika
+ C. Malawi
+ D. Titicaca
+ (Topic: Lakes of India)
+
+Q.17 What type of vegetation is represented by Sundarbans, the world's largest delta located in the Bay of Bengal?
+ A. Tropical Thorn Forests
+ B. Montane Forests
+ C. Mangrove Forests
+ D. Semi Evergreen Forests
+ (Topic: Mangrove Forests)
+
+Q.18 The Mumbai High region in Arabian Sea is known for mining ________.
+ A. uranium
+ B. coal
+ C. copper
+ D. mineral oil
+ (Topic: Mineral Resources)
+
+Q.20 According to the Census of India 2011, identify the correct pair of State and Union Territories which recorded the highest literacy rate.
+ A. Mizoram and Lakshadweep
+ B. Kerala and Chandigarh
+ C. Goa and Puducherry
+ D. Kerala and Lakshadweep
+ (Topic: Census of India)
+
+Held on: 04-Sep-2023 | Shift: 2
+
+Q.1 The Gua and Noamundi mines are located in which state of India?
+ A. Assam
+ B. Haryana
+ C. Rajasthan
+ D. Jharkhand
+ (Topic: Mineral Resources of India)
+
+Q.6 Which of the following is the official language of Afghanistan?
+ A. Sinhala
+ B. Burmese
+ C. Dari
+ D. Dzongkha
+ (Topic: Neighbouring Countries)
+
+Q.8 In which state is Gobind Sagar (Bhakra Nangal Project) located?
+ A. Himachal Pradesh
+ B. Gujarat
+ C. Rajasthan
+ D. Punjab
+ (Topic: Dams & Rivers of India)
+
+Q.13 Which is the oldest Stupa of the Buddhist Period?
+ A. Dhamek Stupa
+ B. Mahabodhi Stupa
+ C. Kesariya Stupa
+ D. Sanchi Stupa
+ (Topic: Historical Geography / Buddhist Sites)
+
+Q.20 According to the Census of India 2011, identify the correct pair of State and Union Territories which recorded the highest literacy rate.
+ A. Mizoram and Lakshadweep
+ B. Kerala and Chandigarh
+ C. Goa and Puducherry
+ D. Kerala and Lakshadweep
+ (Topic: Census of India)
+
+Held on: 04-Sep-2023 | Shift: 3
+
+Q.7 What is the usual term used to describe the climate of India?
+ A. Polar climate
+ B. Tropical monsoon
+ C. Desert climate
+ D. Arid climate
+ (Topic: Climate of India)
+
+Q.12 According to the Census of India 2011, which State/Union Territory has the lowest sex ratio?
+ A. Punjab
+ B. Lakshadweep
+ C. Daman and Diu
+ D. Haryana
+ (Topic: Census of India)
+
+Q.22 The pre-monsoon showers are known as ________ in Kerala and Karnataka.
+ A. tea showers
+ B. grapes showers
+ C. banana showers
+ D. mango showers
+ (Topic: Local Winds & Climate)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.4 In which state o India is shifting cultivation known as Bringa?
+ A. Andhra Pradesh
+ B. Manipur
+ C. Odisha
+ D. Madhya Pradesh
+ (Topic: Shifting Cultivation)
+
+Q.9 In which type of forests are Mahogany, Rosewood and Cinchona trees found in ndia?
+ A. Tropical Evergreen forests
+ B. Tropical Deciduous forests
+ C. Mangrove forests
+ D. Montane forests
+ (Topic: Forests of India)
+
+Q.13 In which state is the Sanchi Stupa situated?
+ A. Bihar
+ B. Uttar Pradesh C. Gujarat
+ D. Madhya Pradesh
+ (Topic: Historical Geography)
+
+Q.16 The South China Sea is a part of which of the following oceans?
+ A. ArcticOcean
+ B. Pacific Ocean
+ C. Southern Ocean
+ D. Indian Ocean
+ (Topic: World Geography)
+
+Q.17 The official language of which neighbouring country of India is ‘Dhivehi'? A. Maldives
+ B. Sri Lanka
+ C. Bhutan
+ D. China
+ (Topic: Neighbouring Countries)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.2 The stretch between Mumbai to Goa of western coast of India is known as ________.
+ A. Coromandel coast
+ B. Konkan coast
+ C. Malabar Coast
+ D. Kannada Plain
+ (Topic: Coastal Plains of India)
+
+Q.4 What does El Niño refer to?
+ A. Hot water current
+ B. Pressure water current
+ C. High air pressure
+ D. Low air pressure
+ (Topic: Climatology)
+
+Q.9 In which city is the Kamakhya temple situated?
+ A. Dehradun
+ B. Bhopal
+ C. Guwahati
+ D. Indore
+ (Topic: Important Places in India)
+
+Q.17 The official language of which neighbouring country of India is ‘Dhivehi'?
+ A. Maldives
+ B. Sri Lanka
+ C. Bhutan
+ D. China
+ (Topic: Neighbouring Countries)
+
+Q.18 The North-South corridor, which is a part of the Golden Quadrilateral super highways, links which two cities of India from the following?
+ A. Delhi and Chennai
+ B. Leh and Chennai
+ C. Jammu and Kanyakumari
+ D. Srinagar and Kanyakumari
+ (Topic: Transport Geography)
+
+Held on: 06-Sep-2023 | Shift: 2
+
+Q.3 What is ‘Mahawat
