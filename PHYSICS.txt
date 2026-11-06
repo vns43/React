@@ -1,0 +1,462 @@
+Q.47 A _______ is a form of energy transfer that propagates through a medium by causing the particles of the medium to vibrate.
+ A. amplitude
+ B. wavelength
+ C. wave
+ D. vibration
+ (Topic: Waves)
+
+Held on: 05-Feb-2026 | Shift: 1
+
+Q.42 What is the force that opposes the motion of an object through a gas or liquid called?
+ A. Thrust
+ B. Viscous force
+ C. Buoyancy
+ D. Tension
+ (Topic: Fluid Mechanics)
+
+Q.54 What is the temperature at which a liquid changes into a gas at atmospheric pressure known as?
+ A. Freezing point
+ B. Condensation point
+ C. Boiling point
+ D. Sublimation point
+ (Topic: Heat & Temperature)
+
+Held on: 05-Feb-2026 | Shift: 2
+
+Q.53 Excluding the Sun, which is the brightest star visible from Earth?
+ A. Canopus
+ B. Alpha Centauri
+ C. Sirius
+ D. Vega
+ (Topic: Astronomy)
+
+Q.59 What is the persistence of sound in an enclosed space due to multiple reflections called?
+ A. Refraction
+ B. Reverberation
+ C. Diffraction
+ D. Rarefaction
+ (Topic: Sound)
+
+Held on: 05-Feb-2026 | Shift: 3
+
+Q.58 Why does food cook faster in a pressure cooker?
+ A. To lower the boiling point of water.
+ B. To help water absorb the heat.
+ C. To utilize high pressure to increase the boiling point of water.
+ D. To increase the temperature of the burner.
+ (Topic: Heat & Pressure)
+
+Held on: 06-Feb-2026 | Shift: 1
+
+Q.43 The Moon completes one revolution around the Earth in approximately ____ days.
+ A. 15
+ B. 27
+ C. 31
+ D. 365
+ (Topic: Moon and Earth)
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Q.52 Why do objects fall towards the Earth?
+ A. Due to the Earth's rotation
+ B. Due to the Earth's magnetic field
+ C. Due to the force of gravity
+ D. Due to air pressure
+ (Topic: Gravitation)
+
+Held on: 12-Feb-2026 | Shift: 3
+
+Q.65 Which of the following is correct regarding fluid friction?
+
+I. When objects move through fluids they lose energy due to it.
+ II. It can be minimised by giving suitable shapes to bodies moving in fluids.
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Fluid Friction)
+
+Held on: 12-Feb-2026 | Shift: 2
+
+Q.78 The rate of motion of an object is to find out the distance travelled by the object in unit time. What is this quantity known as?
+ A. Distance
+ B. Speed
+ C. Displacement
+ D. Velocity
+ (Topic: Motion)
+
+Q.87 Which of the following is an example of the effects of friction?
+
+I. Worn-out shoes
+ II. Worn-out steps of foot bridges at railway stations
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Friction)
+
+Held on: 12-Feb-2026 | Shift: 1
+
+Q.66 Which of the following is an example of non-contact force?
+
+I. Magnetic force
+ II. Gravitational force
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Force and Motion)
+
+Held on: 08-Oct-2024 | Shift: 2
+
+Q.24 Four resistors of equal resistance R each are connected in various possible ways both in series and/or parallel to get different combined resistances. Which of the following values of resistance cannot be achieved by using all the four resistors?
+ A. 1.33 R
+ B. 0.25 R
+ C. 2 R
+ D. 2.5 R
+ (Topic: Electricity - Resistance)
+
+Held on: 08-Oct-2024 | Shift: 3
+
+Q.14 Two masses of 1 kg and 2 kg were dropped from a height of 3.2 metres. Their respective velocities just before touching the ground will be: (Assume acceleration due to gravity g = 10 m/s²)
+ A. 8 m/s for both
+ B. 8 m/s and 4 m/s
+ C. 3.2 m/s for both
+ D. 4 m/s and 8 m/s
+ (Topic: Gravitation)
+
+Held on: 14-Oct-2024 | Shift: 1
+
+Q.25 If four resistances of 4 ohm each are connected in parallel, what will be their effective resistance?
+ A. 16 ohm
+ B. 1 ohm
+ C. 10 ohm
+ D. 4 ohm
+ (Topic: Electricity - Resistance)
+
+Held on: 14-Oct-2024 | Shift: 2
+
+Q.7 Select the INCORRECT statement from the following.
+ A. Evaporation is a surface phenomenon.
+ B. Both boiling and evaporation are bulk phenomena.
+ C. Evaporation causes cooling.
+ D. Boiling is a bulk phenomenon.
+ (Topic: Evaporation and Boiling)
+
+Held on: 15-Oct-2024 | Shift: 1
+
+Q.11 The temperature of −273.15°C is called _________.
+ A. standard temperature
+ B. zero-point energy
+ C. freezing point of water
+ D. absolute zero temperature
+ (Topic: Heat and Temperature)
+
+Held on: 15-Oct-2024 | Shift: 2
+
+Q.18 What is the frequency (f) of a wave with a period of 0.04 seconds?
+ A. 40 Hz
+ B. 25 Hz
+ C. 50 Hz
+ D. 100 Hz
+ (Topic: Waves)
+
+Held on: 17-Oct-2024 | Shift: 1
+
+Q.1 It is observed that a child's heart rate is 135 times per minute. The beat frequency of heart is ______.
+ A. 1.12 Hz
+ B. 8100 Hz
+ C. 2.25 Hz
+ D. 135 Hz
+ (Topic: Frequency)
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Q.4 At what temperature do Celsius and Fahrenheit scales have the same value?
+ A. -40°C
+ B. -32°C
+ C. -40°F
+ D. 0°C
+ (Topic: Heat and Temperature)
+
+Held on: 21-Oct-2024 | Shift: 1
+
+Q.19 What is the charge of an electron?
+ A. Positive
+ B. Neutral
+ C. Variable
+ D. Negative
+ (Topic: Atomic Structure)
+
+Held on: 22-Oct-2024 | Shift: 2
+
+Q.14 In a metro station, it was observed that on an average 20 people per minute were using the escalator to reach at a height of 15 metres. Calculate the power of the escalator assuming the average mass of people to be 50 kg and acceleration due to gravity to be 10 m/s².
+ A. 2.5 kW
+ B. 15 kW
+ C. 150 kW
+ D. 1.25 kW
+ (Topic: Work, Energy and Power)
+
+
+Held on: 11-Nov-2024 | Shift: 2
+
+Q.11 When a sailor jumps out of a rowing boat, the boat moves backwards. This represents:
+ A. Rectilinear motion
+ B. The Third law of motion
+ C. The Second law of motion
+ D. The First law of motion
+ (Topic: Laws of Motion)
+
+Held on: 13-Nov-2024 | Shift: 2
+
+Q.2 Why will a person weigh more at the north or south pole?
+ A. Due to variation in centripetal force of earth with altitude
+ B. Due to Earth's distance from the sun
+ C. Due to variation in centripetal force of earth with latitude
+ D. Due to variation in centrifugal force of earth with latitude
+ (Topic: Gravitation)
+
+Held on: 14-Nov-2024 | Shift: 2
+
+Q.17 Find the acceleration (in m/s²) of a body which accelerates from 5 m/s to 10 m/s in 2 seconds.
+ A. 7.5 m/sec²
+ B. 2.5 m/sec²
+ C. 5 m/sec²
+ D. 10 m/sec²
+ (Topic: Motion)
+
+            @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 01-Sep-2023 | Shift: 2
+
+Q.24 Which is the Gaussian unit of kinematic viscosity?
+ A. Ampere
+ B. Joule
+ C. Stokes
+ D. Darcy
+ (Topic: Units & Measurements)
+
+SCIENCE - PHYSICS (1)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.1 If 7 N force is applied on a brick and it moves through 5 m, then what will be the work done?
+ A. 25 J
+ B. 40 J
+ C. 35 J
+ D. 35 Erg
+ (Topic: Work and Energy)
+
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.11 Among the given options, which one causes an echo?
+ A. When sound is reflected
+ B. When sound waves travel through a solid medium
+ C. When sound waves travel through a liquid medium
+ D. When sound waves travel through a vacuum
+ (Topic: Sound)
+
+Held on: 04-Sep-2023 | Shift: 3
+
+Q.15 Who among the following established a unit of horsepower that is equal to one horse doing 33,000 foot-pounds of work in one minute?
+ A. James Black
+ B. James Croll
+ C. James Watt
+ D. James Dwight Dana
+ (Topic: Work and Energy)
+
+Held on: 08-Sep-2023 | Shift: 3
+
+Q.16 Which physicist's experiment during a lecture in 1820 showed the connection between electricity and magnetism?
+ A. John Cockcroft
+ B. William Gilbert
+ C. Heinrich Hertz
+ D. Hans Christian Oersted
+ (Topic: Electricity & Magnetism)
+
+Held on: 11-Sep-2023 | Shift: 3
+
+Q.8 Who was famous for publishing a formula in 1827 that shows the mathematical relationship between current, resistance and voltage?
+ A. William Gilbert
+ B. William Watson
+ C. Gustav Kirchhoff
+ D. Georg Simon Ohm
+
+(Topic: Electricity & Ohm’s Law)
+
+Held on: 12-Sep-2023 | Shift: 2
+
+Q.8 Who was famous for publishing a formula in 1827 that shows the mathematical relationship between current, resistance and voltage?
+ A. William Gilbert
+ B. William Watson
+ C. Gustav Kirchhoff
+ D. Georg Simon Ohm
+
+(Topic: Ohm's Law)
+
+Held on: 12-Sep-2023 | Shift: 3
+
+Q.8 When one stone is thrown upwards, what type of energy conversion would occur?
+ A. Kinetic energy would change to mechanical energy
+ B. Potential energy would change to gravitational energy
+ C. Mechanical energy would change to kinetic energy
+ D. Kinetic energy would change to gravitational potential energy
+
+(Topic: Energy Conversion)
+
+Held on: 13-Sep-2023 | Shift: 1
+
+Q.19 In optics, which term refers to the opening of the diaphragm of a lens that spatially limits the propagation of light?
+ A. Collimator
+ B. Aperture
+ C. Apostilb
+ D. Meniscus
+ (Topic: Optics)
+
+Held on: 13-Sep-2023 | Shift: 2
+
+Q.19 In optics, which term refers to the opening of the diaphragm of a lens that spatially limits the propagation of light?
+ A. Collimator
+ B. Aperture
+ C. Apostilb
+ D. Meniscus
+ (Topic: Optics)
+
+Held on: 13-Sep-2023 | Shift: 3
+
+Q.8 The forces exerted on a body during a short period are known as:
+ A. Impulse
+ B. Pressure
+ C. Surface tension
+ D. Tensile stress
+ (Topic: Impulse)
+
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.15 Which of the following best describes the process of calorimetry?
+ A. Measuring the amount of compressive strength
+ B. Measuring the amount of force
+ C. Measuring the amount of electricity
+ D. Measuring the amount of heat energy transferred
+ (Topic: Heat & Calorimetry)
+         
+                       @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 05-Jul-2022 | Shift: 3
+
+Q.17 The amount of work done in moving a charge of 4C across two points having a potential difference of 6V is ______.
+ A. 48 J
+ B. 12 J
+ C. 36 J
+ D. 24 J
+ (Topic: Electricity)
+
+Held on: 06-Jul-2022 | Shift: 1
+
+Q.17 The amount of work done in moving a charge of 4C across two points having a potential difference of 6V is ______.
+ A. 48 J
+ B. 12 J
+ C. 36 J
+ D. 24 J
+ (Topic: Electricity)
+
+Held on: 06-Jul-2022 | Shift: 2
+
+Q.5 What is the coil of wire in the electric room heater known as?
+ A. Cell
+ B. Fuse
+ C. Switch
+ D. Element
+ (Topic: Electricity & Heating Effect)
+
+Held on: 06-Jul-2022 | Shift: 3
+
+Q.17 The amount of work done in moving a charge of 4C across two points having a potential difference of 6V is ______.
+ A. 48 J
+ B. 12 J
+ C. 36 J
+ D. 24 J
+ (Topic: Electricity)
+
+Held on: 07-Jul-2022 | Shift: 1
+
+Q.4 If ‘u’ is the object-distance, ‘v’ is the image-distance and ‘f’ is the focal length of a spherical mirror then which of the following is a correct expression for the mirror formula?
+ A. 1/v + 1/u = –1/f
+ B. 1/v – 1/u = 1/f
+ C. 1/v + 1/u = 1/f
+ D. 1/v – 1/u = –1/f
+ (Topic: Optics)
+
+Held on: 07-Jul-2022 | Shift: 2
+
+Q.4 If ‘u’ is the object-distance, ‘v’ is the image-distance and ‘f’ is the focal length of a spherical mirror then which of the following is a correct expression for the mirror formula?
+ A. 1/v + 1/u = –1/f
+ B. 1/v – 1/u = 1/f
+ C. 1/v + 1/u = 1/f
+ D. 1/v – 1/u = –1/f
+ (Topic: Optics)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.3 Which of the following physical quantities has same SI unit as that of work?
+ A. Pressure
+ B. Power
+ C. Force
+ D. Energy
+ (Topic: Work and Energy)
+
+Held on: 08-Jul-2022 | Shift: 1
+
+Q.3 Which of the following physical quantities has same SI unit as that of work?
+ A. Pressure
+ B. Power
+ C. Force
+ D. Energy
+ (Topic: Work and Energy)
+
+Q.13 Which of the following materials are transparent?
+ A. Wood and steel
+ B. Air and glass
+ C. Cardboard and paper
+ D. Brick and stone
+ (Topic: Light)
+
+Held on: 11-Jul-2022 | Shift: 1
+
+Q.2 The SI unit for frequency is ______.
+ A. ohm
+ B. hertz
+ C. volt
+ D. joule
+ (Topic: Units and Measurements)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.2 The SI unit for frequency is ______.
+ A. ohm
+ B. hertz
+ C. volt
+ D. joule
+ (Topic: Frequency)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.134 After a shower of rain, a rainbow is seen:
+ A. Anywhere, irrespective of the position of the sun
+ B. Even in the absence of the sun
+ C. Towards the sun
+ D. Opposite the sun
+ (Topic: Light)
+
+Q.148 Volt × Second is the unit of:
+ A. Inductance
+ B. Resistance
+ C. Capacitance
+ D. Energy
+ (Topic: Electricity)
+
