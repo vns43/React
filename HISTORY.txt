@@ -1,0 +1,3504 @@
+File name: HISTORY.txt
+Language: 
+Held on: 04-Feb-2026 | Shift: 3
+
+Q.43 The Udayagiri and Khandagiri caves, known for their ancient Jain rock-cut architecture, are located in which Indian state?
+A. Odisha
+B. Gujarat
+C. Karnataka
+D. Telangana
+(Topic: Ancient Indian Architecture / Jainism)
+
+Q.45 What does the Sanskrit term 'Aryavarta' refer to in ancient texts?
+A. Land of noble people
+B. Sacred river valley
+C. Mountain kingdom
+D. Land of traders
+(Topic: Vedic Age)
+
+Q.48 The Chausath Yogini Temple at Bhedaghat in Madhya Pradesh was mainly built during the rule of which dynasty?
+A. Chandela Dynasty
+B. Kalachuri Dynasty
+C. Paramara Dynasty
+D. Satavahana Dynasty
+(Topic: Medieval Indian Dynasties & Temple Architecture)
+
+Q.50 The rise of the Mahajanapadas in ancient India is generally dated between
+A. 1500–1200 BCE
+B. 1000–800 BCE
+C. 600–400 BCE
+D. 200–100 BCE
+(Topic: Mahajanapadas)
+
+Q.55 The All India Depressed Classes Conference in 1930 was presided over by
+A. B. R. Ambedkar
+B. Subhas Chandra Bose
+C. Bal Gangadhar Tilak
+D. Gopal Krishna Gokhale
+(Topic: Modern Indian History)
+
+Q.58 Which medieval Bhakti saint was associated with the Varkari tradition in Maharashtra?
+A. Tulsidas
+B. Surdas
+C. Tukaram
+D. Kabir
+(Topic: Bhakti Movement)
+
+Q.65 In which year did Alauddin Khalji ascend the throne of Delhi?
+A. 1280
+B. 1296
+C. 1305
+D. 1316
+(Topic: Delhi Sultanate)
+
+Held on: 05-Feb-2026 | Shift: 1
+
+Q.46 Who is the author of the patriotic poem 'Sarfaroshi Ki Tamanna'?
+ A. Bismillah Khan
+ B. Bismil Azimabadi
+ C. Muhammad Iqbal
+ D. Ram Prasad Bismil
+ (Topic: Modern Indian History)
+
+Q.55 The architectural style of the Taj Mahal is a blend of which traditions?
+ A. Indian and Chinese
+ B. Islamic, Persian, and Indian
+ C. Gothic and Roman
+ D. Greek and Persian
+ (Topic: Mughal Architecture)
+
+Q.57 Which of the following was the only princely state to have its own constitution during the British Raj?
+ A. Hyderabad
+ B. Jammu and Kashmir
+ C. Mysore
+ D. Travancore
+ (Topic: British India / Princely States)
+
+Q.59 The term 'Neolithic' literally refers to the
+ A. Old Stone Age
+ B. Middle Stone Age
+ C. New Stone Age
+ D. Late Stone Age
+ (Topic: Prehistoric India / Stone Age)
+
+Q.61 Who succeeded Bindusara as the ruler of the Maurya Empire around 268 BC?
+ A. Dasaratha
+ B. Ashoka
+ C. Brihadratha
+ D. Samprati
+ (Topic: Maurya Empire)
+
+Held on: 05-Feb-2026 | Shift: 2
+
+Q.49 'Kharaj' was a form of land tax collected primarily during which period of Indian history?
+ A. Mauryan
+ B. Delhi Sultanate
+ C. Gupta
+ D. Maratha
+ (Topic: Delhi Sultanate)
+
+Q.50 Under the Mansabdari system of the Mughal administration, what did the term 'Zat' signify?
+ A. Number of cavalrymen
+ B. Personal status and salary
+ C. Religious rank
+ D. Military expedition leader
+ (Topic: Mughal Administration)
+
+Q.56 In which year was the 'Ryotwari System' of land revenue first introduced in the Madras Presidency?
+ A. 1793
+ B. 1815
+ C. 1820
+ D. 1833
+ (Topic: Land Revenue Systems)
+
+Q.61 Siddhartha Gautama attained 'Enlightenment' (Nirvana) at the age of _____ after years of meditation.
+ A. 29
+ B. 32
+ C. 35
+ D. 40
+ (Topic: Buddhism)
+
+Q.63 'Madurai', located in present-day Tamil Nadu, served as the capital for which ancient dynasty?
+ A. Chola
+ B. Chera
+ C. Pandya
+ D. Satavahana
+ (Topic: Sangam Age)
+
+Q.64 Where was Nana Saheb, a key leader of the 1857 Revolt, believed to have escaped after the fall of Kanpur?
+ A. Rangoon
+ B. Nepal
+ C. Gwalior
+ D. London
+ (Topic: Revolt of 1857)
+
+Q.65 The 'Mahaparinirvana' of Gautama Buddha is associated with which ancient site in Uttar Pradesh?
+ A. Sarnath
+ B. Kushinagar
+ C. Shravasti
+ D. Kaushambi
+ (Topic: Buddhism)
+
+Held on: 05-Feb-2026 | Shift: 3
+
+Q.45 The Delhi Sultanate rulers issued silver coins called
+ A. Tankas
+ B. Dinars
+ C. Pagodas
+ D. Mohurs
+ (Topic: Delhi Sultanate)
+
+Q.52 Which of the following was NOT a characteristic feature of the Indus Valley Civilization?
+ A. Planned drainage systems
+ B. Use of baked bricks
+ C. Citadel and Lower Town structure
+ D. Extensive use of iron tools
+ (Topic: Indus Valley Civilization)
+
+Q.53 What name did ancient Persian inscriptions use for the region around the Indus?
+ A. Meluhha
+ B. Aryavarta
+ C. Hindu
+ D. Tianzhu
+ (Topic: Ancient India)
+
+Held on: 06-Feb-2026 | Shift: 1
+
+Q.45 Deimachus visited the court of Bindusara as an ambassador sent by which ruler?
+ A. Antiochus I
+ B. Seleucus I
+ C. Ptolemy II
+ D. Darius III
+ (Topic: Mauryan Empire)
+
+Q.51 Who built the famous Moti Masjid inside the Red Fort complex in Delhi?
+ A. Akbar
+ B. Jahangir
+ C. Shah Jahan
+ D. Aurangzeb
+ (Topic: Mughal Architecture)
+
+Q.59 Which of the following major movements was launched by Mahatma Gandhi in 1942?
+ A. Non-Cooperation Movement
+ B. Civil Disobedience Movement
+ C. Quit India Movement
+ D. Khilafat Movement
+ (Topic: Indian National Movement)
+
+Q.65 According to the Regulating Act of 1773, which of the following changes were implemented in the British administration in India?
+
+I. Designation of Governor of Bengal as Governor-General of Bengal.
+ II. Establishment of a Supreme Court at Calcutta.
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Constitutional History)
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Q.49 Who was the first Defence Minister of independent India?
+ A. Sardar Vallabhbhai Patel
+ B. Baldev Singh
+ C. C. Rajagopalachari
+ D. Dr. Rajendra Prasad
+ (Topic: Modern Indian History)
+
+Q.54 After which of the following wars was the Peshwa removed and sent to Bithur?
+ A. First Anglo-Maratha War
+ B. Second Anglo-Maratha War
+ C. Third Anglo-Maratha War
+ D. Fourth Anglo-Maratha War
+ (Topic: Anglo-Maratha Wars)
+
+Held on: 12-Feb-2026 | Shift: 3
+
+Q.41 In which of the following places Baba Guru Nanak was born?
+ A. Kashi
+ B. Talwandi
+ C. Ayodhya
+ D. Pandharpur
+ (Topic: Sikhism / Guru Nanak Dev)
+
+Q.57 Which freedom fighter, popularly known as 'Punjab Kesari', played a key role in the Swadeshi Movement?
+ A. Lala Lajpat Rai
+ B. Rani Lakshmibai
+ C. Dayanand Saraswati
+ D. Rabindranath Tagore
+ (Topic: Indian National Movement)
+
+Q.63 By the seventh century, there were big landlords or warrior chiefs in different regions of the subcontinent. Existing kings often acknowledged them as their_____
+ A. Ratans
+ B. Samantas
+ C. Lakras
+ D. Hiravas
+ (Topic: Early Medieval India)
+
+Q.64 Which modern city was known as "Saket" during Chandragupta I's rule?
+ A. Ujjain
+ B. Ayodhya
+ C. Patna
+ D. Nashik
+ (Topic: Gupta Empire)
+
+Held on: 12-Feb-2026 | Shift: 2
+
+Q.66 The Buland Darwaza was built to commemorate Akbar’s victory over _____.
+ A. Bengal
+ B. Punjab
+ C. Gujarat
+ D. Rajasthan
+ (Topic: Mughal Empire)
+
+Q.80 The rivers that supported trade in Magadha were _____.
+ A. Ganga and Son
+ B. Krishna and Kaveri
+ C. Brahmaputra and Narmada
+ D. Yamuna and Saraswati
+ (Topic: Magadha Kingdom)
+
+Q.82 What is the meaning of the term ‘Buddha’?
+ A. The powerful one
+ B. The warrior monk
+ C. The royal seeker
+ D. The awakened one
+ (Topic: Buddhism)
+
+Q.84 Which of the following historian divided Indian history into the Hindu, Muslim, and British periods?
+ A. James Rennel
+ B. R.C. Majumdar
+ C. V.D. Savarkar
+ D. James Mill
+ (Topic: Historiography)
+
+Q.89 The Poona Pact is related to which of the following?
+ A. Mahatma Gandhi and Motilal Nehru
+ B. Mahatma Gandhi and Shaukat Ali
+ C. Motilal Nehru and C.R. Das
+ D. Mahatma Gandhi and B.R. Ambedkar
+ (Topic: Indian National Movement)
+
+Q.41 In which of the following places Baba Guru Nanak was born?
+ A. Kashi
+ B. Talwandi
+ C. Ayodhya
+ D. Pandharpur
+ (Topic: Sikhism / Guru Nanak Dev)
+
+Q.73 In which year was the Treaty of Salbai signed between the British and the Marathas?
+ A. 1782
+ B. 1792
+ C. 1803
+ D. 1817
+ (Topic: Anglo-Maratha Relations)
+
+Q.79 Which of the following inspired Gautam Buddha to renounce worldly life?
+ A. A teacher who explained suffering
+ B. An ascetic, who appeared to be happy and at peace
+ C. A conversation with a king
+ D. Dreams and visions
+ (Topic: Buddhism)
+
+Q.88 The Hawa Mahal is dedicated to which of the following deity?
+ A. Lord Krishna
+ B. Lord Indra
+ C. Lord Buddha
+ D. Lord Shiva
+ (Topic: Rajasthan History & Architecture)
+
+Held on: 11-Feb-2026 | Shift: 3
+
+Q.85 Who were the writers of 'Tawarikh' during the Delhi Sultanate period?
+ I. Administrators
+ II. Poets and courtiers
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Delhi Sultanate)
+
+Q.86 Which Rashtrakuta chief overthrew his Chalukya overlord and founded the Rashtrakuta dynasty?
+ A. Dhruva
+ B. Dantidurga
+ C. Amoghavarsha
+ D. Krishna I
+ (Topic: Rashtrakuta Dynasty)
+
+Q.87 The theory of Anekatavada is related to which of the following?
+ A. Lord Mahavira
+ B. Vishnugupta
+ C. Lord Buddha
+ D. Samudragupta
+ (Topic: Jainism)
+Held on: 30-Sep-2024 | Shift: 1
+
+Q.9 Which of the following dynasties established the Vijayanagara kingdom in fourteenth century?
+ A. Sangama dynasty
+ B. Saluva dynasty
+ C. Tuluva dynasty
+ D. Aravidu dynasty
+ (Topic: Vijayanagara Empire)
+
+Q.23 Who was the founder of the Mauryan dynasty?
+ A. Bindusara
+ B. Ashoka
+ C. Vikramaditya
+ D. Chandragupta Maurya
+ (Topic: Mauryan Empire)
+
+               @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 30-Sep-2024 | Shift: 2
+
+Q.9 Which of the following revolutionaries, who was arrested in Lahore conspiracy case by the British Government of India, was martyred in the hunger strike of 63 days in jail?
+ A. Jatindra Nath Das
+ B. Ram Prasad Bismil
+ C. Rash Behari Bose
+ D. Prafulla Chaki
+ (Topic: Indian National Movement)
+
+Q.21 Who was the court poet of king Harshavardhana?
+ A. Vatsbhatti
+ B. Ravikirti
+ C. Kalidas
+ D. Banabhatta
+ (Topic: Ancient India)
+
+Q.22 Balban’s rule as an absolute despot led to which of the following events?
+ A. Granting Jagirs to Nobles
+ B. Respected common man
+ C. Destruction of the Forty
+ D. Appointed Hindus in administration
+ (Topic: Delhi Sultanate)
+
+Q.25 Which of the following architectural elements is excluded from the construction sites of the Indus Valley Civilisation?
+ A. Baked Bricks
+ B. Mortar of Gypsum
+ C. Iron Slabs
+ D. Sun Dried Bricks
+ (Topic: Indus Valley Civilization)
+
+
+Held on: 30-Sep-2024 | Shift: 3
+
+Q.8 Where was the Hindu College established in the year 1791 to teach ancient Sanskrit texts?
+ A. Calcutta
+ B. Madras
+ C. Agra
+ D. Banaras
+ (Topic: Modern Indian History)
+
+Q.17 The officer known as Diwan belonged to which of the following departments of the Mughal empire during Akbar’s reign?
+ A. Finance
+ B. Judicial
+ C. Foreign affairs
+ D. Military
+ (Topic: Mughal Administration)
+
+Q.20 Jyotiba Phule belonged from which state?
+ A. Gujarat
+ B. Karnataka
+ C. Tamil Nadu
+ D. Maharashtra
+ (Topic: Social Reformers of India)
+
+Q.21 The word ‘Megalith’ comes from two ________ words; ‘megas’ means great and ‘lithas’ means stone.
+ A. Greek
+ B. English
+ C. Latin
+ D. Hebrew
+ (Topic: Prehistoric India / Megalithic Culture)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.1 After which of the following Acts did India come to be governed in the name of the British crown?
+ A. Charter Act of 1833
+ B. Charter Act of 1853
+ C. Government of India Act, 1858
+ D. Government of India Act, 1919
+ (Topic: Constitutional History of India)
+
+Q.10 Who was appointed as the Viceroy of India in place of Lord Wavell in February 1947?
+ A. Lord Irwin
+ B. Lord Linlithgow
+ C. Lord Willingdon
+ D. Lord Mountbatten
+ (Topic: Modern Indian History)
+
+Q.15 Who among the following deciphered the Brahmi Script of the Mauryan period?
+ A. Rakhal Das Banerji
+ B. Herbert Hope Risley
+ C. James Prinsep
+ D. James Mill
+ (Topic: Mauryan History)
+
+Q.22 The Mughal emperor, Babur was a devotee of the ______ Sufi Silsila.
+ A. Qadri
+ B. Chisti
+ C. Suhrawardi
+ D. Naqshbandi
+ (Topic: Mughal History)
+
+Held on: 01-Oct-2024 | Shift: 2
+
+Q.6 When was the All Bengal Students Conference held in the chairmanship of Jawaharlal Nehru?
+ A. 1939
+ B. 1920
+ C. 1934
+ D. 1928
+ (Topic: Indian National Movement)
+
+Q.10 Which of the following statements is/are FALSE for the Harappan town planning?
+
+Most of the towns have citadel in Harappan civilization.
+Every town had a temple in Harappan civilization.
+Every building was made of sandstone in Harappan civilization.
+
+A. Only 1
+ B. Both 2 and 3
+ C. Both 1 and 3
+ D. Both 1 and 2
+ (Topic: Indus Valley Civilization)
+
+Q.11 The Ramoshi Uprising of 1824 took place in which of the following present states of India?
+ A. Tamil Nadu
+ B. Uttar Pradesh
+ C. West Bengal
+ D. Maharashtra
+ (Topic: Tribal & Peasant Uprisings)
+
+Q.16 The Taj Mahal was built by who among the following?
+ A. Shah Jahan
+ B. Akbar
+ C. Babar
+ D. Jahangir
+ (Topic: Mughal Architecture)
+
+Q.17 During which centuries did several Buddhist pilgrims and scholars travel to China on the historic 'Silk Route'?
+ A. Eighth and Ninth centuries AD
+ B. Sixth and Seventh centuries AD
+ C. First, Second and Third centuries AD
+ D. Fourth and Fifth centuries AD
+ (Topic: Buddhism)
+
+Held on: 07-Oct-2024 | Shift: 1
+
+Q.1 The sister of Harshavardhana Rajyashri was married to __________, the king of Maukhari dynasty of Kanyakubja.
+ A. Sasanka
+ B. Devagupta
+ C. Grahavarman
+ D. Isanavarman
+ (Topic: Harshavardhana Period)
+
+Q.8 Who among the following signed a pact with Lord Irwin on March 5, 1931?
+ A. Subhas Chandra Bose
+ B. Mahatma Gandhi
+ C. B R Ambedkar
+ D. Jawaharlal Nehru
+ (Topic: Gandhi-Irwin Pact / Freedom Movement)
+
+Q.18 In which of the following systems was the charge of collecting the revenue and paying it to the Company given to the village headman, rather than the zamindar?
+ A. Ryotwari
+ B. Mahalwari
+ C. Zamindari
+ D. Iqtadari
+ (Topic: Land Revenue Systems)
+
+Q.24 Who was the famous Venetian traveller of the 13th century who visited Kerala?
+ A. Barthema
+ B. Abdur Razzaq
+ C. Nicolo Conti
+ D. Marco Polo
+ (Topic: Foreign Travellers in India)
+
+Held on: 07-Oct-2024 | Shift: 3
+
+Q.2 Who among the following was the chief guest of India's first Republic Day in 1950?
+ A. Rana Abdul Hamid
+ B. Georgy Zhukov
+ C. Queen Elizabeth
+ D. Sukarno
+ (Topic: Modern Indian History)
+
+Q.5 Maitraka dynasty was founded in which part of India?
+ A. Eastern
+ B. Western
+ C. Southern
+ D. Northern
+ (Topic: Ancient Indian History)
+
+Q.10 In which of the following years was the 'Quit India Movement' launched?(Repeated - 2 times)
+ A. 1919
+ B. 1935
+ C. 1942
+ D. 1920
+ (Topic: Indian National Movement)
+
+Q.25 Who among the following founded the Saluva dynasty of Vijayanagara empire?
+ A. Narsimha Deva Raya
+ B. Bukka Raya I
+ C. Rama Deva Raya
+ D. Krishanadeva Raya
+ (Topic: Vijayanagara Empire)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.14 Who were the first foreign rulers of northwest India in the post-Mauryan period?
+ A. Kushanas
+ B. Bactrian Greeks
+ C. Sakas
+ D. Parthians
+ (Topic: Post-Mauryan India)
+
+Q.20 The training academy for Indian Police Service officers has been named after:
+ A. Jawaharlal Nehru
+ B. Lal Bahadur Shastri
+ C. Sardar Vallabhbhai Patel
+ D. Mahatma Gandhi
+ (Topic: Modern Indian History)
+
+Q.21 Which social reformer from South India founded the Self Respect Movement?
+ A. C Iyodhee Pandithar
+ B. Kandukur Veeresalingam
+ C. Chembeti Sridharalu Naidu
+ D. EV Ramaswamy Naicker
+ (Topic: Social Reform Movements)
+
+Held on: 08-Oct-2024 | Shift: 2
+
+Q.10 In which among the following years was Hindu widow remarriage declared legal in India?
+ A. 1899
+ B. 1856
+ C. 1872
+ D. 1893
+ (Topic: Social Reform Movements)
+
+Q.12 The remains of Great Bath have been found from the excavation at which of the following Harappan sites?
+ A. Harappa
+ B. Mohenjodaro
+ C. Lothal
+ D. Kalibangan
+ (Topic: Indus Valley Civilization)
+
+Q.17 Who regarded Vedas as the source of all knowledge and known for the slogan ‘Go back to the Vedas’?
+ A. Swami Vivekananda
+ B. Raja Rammohun Roy
+ C. Keshav Chandra Sen
+ D. Swami Dayanand Saraswati
+ (Topic: Social and Religious Reform Movements)
+
+Q.20 The famous ‘Tripartite struggle’ for supremacy occurred between which of the following powers?
+ A. Gurjar-Pratihara, Rashtrakuta and Palas
+ B. Chalukya, Sen and Pratihars
+ C. Sen, Pala and Rashtrakuta
+ D. Chouhan, Pala and Gurjar
+ (Topic: Early Medieval India)
+
+Held on: 08-Oct-2024 | Shift: 3
+
+Q.4 Which of the following is NOT associated with the Iron Age in India?
+ A. Smelting
+ B. Mehrauli Iron Pillar
+ C. Northern Black Polished Ware
+ D. Painted Grey Ware
+ (Topic: Iron Age India)
+
+Q.7 Who among the following adopted the policy of consolidation in place of expansion by eliminating the rebels?
+ A. Raziya
+ B. Nasiruddin Mahmud
+ C. Ghiyasuddin Balban
+ D. Shamsuddin Iltutmish
+ (Topic: Delhi Sultanate)
+
+Q.8 Which material was largely used to build the stupa at Piprahwa in Uttar Pradesh?
+ A. Granite Stone
+ B. Marble
+ C. Sandstone
+ D. Bricks
+ (Topic: Buddhist Architecture)
+
+Q.9 Which of the following committees was set up to investigate into the infamous Jallianwala Bagh massacre?
+ A. Sadlar Committee
+ B. Hunter Committee
+ C. Butler Committee
+ D. Henry Fowler Committee
+ (Topic: Modern Indian History)
+
+Held on: 09-Oct-2024 | Shift: 1
+
+Q.2 In which of the following religions was agriculture prohibited for its followers?
+ A. Jainism
+ B. Buddhism
+ C. Shaivism
+ D. Vaishnavism
+ (Topic: Jainism)
+
+Q.3 Due to the popularity of Indian clothes in Britain, a law was passed to ban Indian clothes. Which of the following was that law?
+ A. Calico Act
+ B. Textile Act
+ C. Muslin Act
+ D. Calso Act
+ (Topic: Colonial India)
+
+Q.8 Moti Masjid in Agra Fort was constructed by which of the following Mughal Emperors?
+ A. Jahangir
+ B. Akbar
+ C. Aurangzeb
+ D. Shahjahan
+ (Topic: Mughal Architecture)
+
+Q.23 Who was the Viceroy of India when the Indian Arms Act, 1878, was passed?
+ A. Lord Curzon
+ B. Lord Ripon
+ C. Lord Lytton
+ D. Lord Dufferin
+ (Topic: British India)
+
+Held on: 09-Oct-2024 | Shift: 2
+
+Q.2 In the year 1946, a three-tiered confederation for transfer of power to India was proposed by the _________.
+ A. Regulating Act
+ B. Rowlatt Act
+ C. Cabinet Mission
+ D. Simon Commission
+ (Topic: Indian National Movement)
+
+Q.3 Match the army officers of the Mauryan empire in column A with the respective salaries given to them in column B.
+ A. a-iv, b-iii, c-ii, d-i
+ B. a-iii, b-iv, c-i, d-ii
+ C. a-iii, b-i, c-iv, d-ii
+ D. a-i, b-ii, c-iii, d-iv
+ (Topic: Mauryan Empire)
+
+Q.6 Which of the following statements is INCORRECT related to Macaulay?
+ A. He strongly advocated giving English language education to Indians.
+ B. He considered Indian and Arab literature inferior to the Western literature.
+ C. He believed that India is an uncivilised country which needs to be taught the lessons of civilisation.
+ D. Macaulay was an orientalist scholar.
+ (Topic: Colonial Education Policy)
+
+Q.14 Who among the following rulers introduced the ‘jharokha darshan’ in the Mughal dynasty?
+ A. Shahjahan
+ B. Akbar
+ C. Humayun
+ D. Aurangzeb
+ (Topic: Mughal Empire)
+
+Held on: 09-Oct-2024 | Shift: 3
+
+Q.9 Who among the following was the founder of Indian Association in Bengal?
+ A. Surendra Nath Banerjee
+ B. Rash Behari Bose
+ C. P Ananda Charlu
+ D. Chittaranjan Das
+ (Topic: Indian National Movement)
+
+Q.10 Tax, known as bhaga, was levied on which of the following during Mahajanapada period of Ancient India?
+ A. Tax on cattle breeders
+ B. Tax on merchants
+ C. Tax on cultivators
+ D. Tax on artisans
+ (Topic: Mahajanapadas)
+
+Q.14 The Quwwat-ul-Islam Mosque was constructed in around 1197 AD by the sultan of which of the following dynasties of Delhi Sultanate?
+ A. Tughlaq
+ B. Lodhi
+ C. Mamluk
+ D. Khalji
+ (Topic: Delhi Sultanate)
+
+Q.17 Who among the following was sent by Akbar to lead the Mughal army in the Battle of Haldighati which was fought in 1576?
+ A. Raja Man Singh
+ B. Raja Maharana Pratap
+ C. Raja Medini Rai
+ D. Raja Todarmal
+ (Topic: Mughal Empire)
+
+Q.21 Who among the following launched the Home Rule League in September 1916 at Madras?
+ A. Annie Besant
+ B. Rash Behari Bose
+ C. Lokmanya Tilak
+ D. Sucheta Kriplani
+ (Topic: Home Rule Movement)
+
+Held on: 14-Oct-2024 | Shift: 1
+
+Q.5 Who among the following was ‘Senani’ in the Rig Vedic period?
+ A. A tax officer
+ B. A war hero
+ C. A spy
+ D. A priest
+ (Topic: Rig Vedic Period)
+
+Q.8 The Moplah Uprising, an organised opposition of Muslim cultivators, occurred in which modern state of India?
+ A. Kerala
+ B. Bihar
+ C. Punjab
+ D. Tamil Nadu
+ (Topic: Modern Indian History)
+
+Q.11 Which among the following is considered the first experiment of Satyagraha by Gandhiji in India?(Repeated - 2 times)
+ A. Ahmedabad
+ B. Champaran
+ C. Kheda
+ D. Rowlatt Satyagraha
+ (Topic: Indian National Movement)
+
+Q.18 Which of the following statements about Viharas is/are correct?
+
+a) Viharas consist of a verandas, cell and hall around the walls of the hall.
+ b) Ajanta cave and Nashik cave are important parts of Vihara architecture.
+
+A. Neither a nor b
+ B. Only a
+ C. Only b
+ D. Both a and b
+ (Topic: Buddhist Architecture)
+
+Held on: 14-Oct-2024 | Shift: 2
+
+Q.14 Seleucus Nicator was a contemporary of ____________.
+ A. Chanakya
+ B. Kalashoka
+ C. Ashoka
+ D. Kanishka
+ (Topic: Mauryan Empire)
+
+Q.17 Which of the following sultans of Delhi set up three different markets for different commodities in Delhi?(Repeated - 2 times)
+ A. Ghiyasuddin Balban
+ B. Muhammad Bin Tughlaq
+ C. Sikandar Lodi
+ D. Alauddin Khalji
+ (Topic: Delhi Sultanate)
+
+Q.22 The Permanent Settlement introduced by Cornwallis was NOT prevalent in which of the following regions of India?
+ A. Punjab
+ B. Bengal
+ C. Odisha
+ D. Bihar
+ (Topic: British Land Revenue Systems)
+
+Q.25 Which of the two following countries were formed as a result of the partition of India?
+ A. India and Bangladesh
+ B. India and Nepal
+ C. India and Sri Lanka
+ D. India and Pakistan
+ (Topic: Partition of India)
+
+Held on: 14-Oct-2024 | Shift: 3
+
+Q.4 Who among the following social reformers wrote Brahmo Covenant which was a statement of the creed of the Brahmo Samaj?
+ A. Raja Ram Mohan Roy
+ B. Keshab Chandra Sen
+ C. Debendranath Tagore
+ D. Ishwar Chandra Vidyasagar
+ (Topic: Brahmo Samaj)
+
+Q.6 Who among the following Governor Generals of India wrote about the predicament of Indian weavers, “The bones of the cotton weavers are scattered on the plains of India”?
+ A. Lord Amherst
+ B. Sir John Shore
+ C. Lord William Bentinck
+ D. Lord Minto
+ (Topic: British India)
+
+Q.16 The Megalithic site __________ is a site on the river Ghod, a tributary of the Bhima.
+ A. Inamgaon
+ B. Hallur
+ C. Pottru
+ D. Hire benakal
+ (Topic: Megalithic Culture)
+
+Q.22 When was the Lahore Declaration signed between India and Pakistan?
+ A. December 1991
+ B. July 1948
+ C. August 1998
+ D. February 1999
+ (Topic: Modern Indian History)
+
+Q.23 Which of following silver coins was introduced by Sultan Shamsuddin Iltutmish?
+ A. Jittal
+ B. Dinar
+ C. Tanka
+ D. Adali
+ (Topic: Delhi Sultanate)
+
+Held on: 15-Oct-2024 | Shift: 1
+
+Q.1 The last Chalukyan King, defeated by the Rashtrakuta King Dantidurga, was ____________.
+ A. Vikramaditya I
+ B. Kirtivarman II
+ C. Vikramaditya II
+ D. Pulakesin II
+ (Topic: Rashtrakuta Dynasty)
+
+Q.7 In 1836, _______ became the Governor General of India.
+ A. Lord Hastings
+ B. Earl of Auckland
+ C. Lord Curzon
+ D. Robert Clive
+ (Topic: British India)
+
+Q.13 Who is properly known as the ‘Grand Old Lady’ of the Independence Movement?
+ A. Aruna Asaf Ali
+ B. Sarojini Naidu
+ C. Madam Kama
+ D. Usha Mehta
+ (Topic: Indian National Movement)
+
+Q.15 In which of the following cities was the first successful textile mill established in India in the year 1854?
+ A. Bombay
+ B. Bhopal
+ C. Calcutta
+ D. New Delhi
+ (Topic: Colonial Economic History)
+
+Q.21 The Early Vedic economy was primarily based on_________ activity.
+ A. pastoral
+ B. agricultural
+ C. Mining Iron ore
+ D. trading
+ (Topic: Vedic Civilization)
+
+Held on: 15-Oct-2024 | Shift: 2
+
+Q.5 Which of the following wars took place in the year 1761?
+ A. Wandiwash
+ B. Panipat II
+ C. Panipat III
+ D. Buxar
+ (Topic: Modern Indian History)
+
+Q.8 Who was the successor of Vima Kadphises in Kushana dynasty?
+ A. Kujula Kadphises
+ B. Kanishka
+ C. Kharavela
+ D. Menander
+ (Topic: Kushana Dynasty)
+
+Q.12 In 1917, Mahatma Gandhi started his first satyagraha in India against the forced cultivation of indigo by Europeans in which of the following districts of British India?(Repeated - 2 times)
+ A. Champaran
+ B. Buxar
+ C. Ahmedabad
+ D. Kheda
+ (Topic: Indian National Movement)
+
+Q.19 After the _________ of Hakim Mirza, Kabul was annexed by Akbar and given to Raja Man Singh as ‘jagir’.
+ A. marriage
+ B. victory
+ C. death
+ D. capture
+ (Topic: Mughal Empire)
+
+Q.24 In January 2024, Prime Minister Narendra Modi paid tributes to Savitribai Phule on her birth anniversary. In which field did Savitribai Phule make significant contributions?
+ A. Literature and poetry
+ B. Education and social reform
+ C. Politics and government leadership
+ D. Military strategy and warfare
+ (Topic: Social Reform Movements)
+
+Held on: 15-Oct-2024 | Shift: 3
+
+Q.7 Who among the following was one of the founders of the Indian National Congress in 1885?
+ A. Charles Freer Andrews
+ B. Mahatma Gandhi
+ C. Allan Octavian Hume
+ D. Annie Besant
+ (Topic: Indian National Congress)
+
+Q.20 Who among the following was defeated by Babur in the Battle of Khanwa in 1527 CE?
+ A. Hasan Khan
+ B. Medini Rai
+ C. Rana Sanga
+ D. Ibrahim Lodi
+ (Topic: Mughal History)
+
+Q.22 Bal Gangadhar Tilak described _________ as a diamond of India.
+ A. Motilal Nehru
+ B. Mahatma Gandhi
+ C. Baba Saheb Ambedkar
+ D. Gopal Krishna Gokhale
+ (Topic: Indian National Movement)
+
+Q.25 Harshvardhan's ambitions of extending his power to Deccan and South India were stopped by:
+ A. Pulakesin II
+ B. Ashoka
+ C. Rajaraja I
+ D. Vikramaditya
+ (Topic: Early Medieval India)
+
+Held on: 16-Oct-2024 | Shift: 1
+
+Q.13 Who among the following was the first Law and Justice Minister of independent India?
+ A. Jagjivan Ram
+ B. B.R. Ambedkar
+ C. Rajkumari Amrit Kaur
+ D. John Matthai
+ (Topic: Modern Indian History)
+
+Q.15 Which of the following crops that spread to northern India in the early years of the 17th century was NOT mentioned in the Ain-i-Akbari in the lists of crops in northern India?
+ A. Wheat
+ B. Arhar
+ C. Tobacco
+ D. Jowar
+ (Topic: Mughal India)
+
+Q.18 Which of the following was the first subcontinental empire?
+ A. Mauryan Empire
+ B. Gupta Empire
+ C. Satavahana Empire
+ D. Kushan Empire
+ (Topic: Ancient India)
+
+Q.23 The famous Qila-i-Kuhna (mosque of the old fort) was built by:
+ A. Sher Shah
+ B. Alauddin Khilji
+ C. Akbar
+ D. Humayun
+ (Topic: Medieval Indian History)
+
+Q.25 The College of Fort William was established at ______ under British rule.
+ A. Calcutta
+ B. Bombay
+ C. Delhi
+ D. Madras
+ (Topic: British India / Fort William College)
+
+Held on: 16-Oct-2024 | Shift: 2
+
+Q.8 Captain Hawkins visited India during the reign of:
+ A. Shahjahan
+ B. Babur
+ C. Akbar
+ D. Jahangir
+ (Topic: Mughal History)
+
+Q.15 Who among the following was NOT associated with the ‘Prarthana Sabha’?
+ A. Atmaram Pandurang
+ B. RG Bhandarkar
+ C. Govind Ranade
+ D. Mahatma Gandhi
+ (Topic: Social Reform Movements)
+
+Q.16 The Maukharies ruled over ________ in western Uttar Pradesh, which later replaced Pataliputra as the political centre of northern India.
+ A. Agra
+ B. Kanauj
+ C. Mathura
+ D. Jhansi
+ (Topic: Early Medieval India)
+
+Q.20 Mahatma Gandhi Kashi Vidyapith was founded by Shiv Prasad Gupta and Bhagwan Das in the year _______.
+ A. 1920
+ B. 1919
+ C. 1921
+ D. 1922
+ (Topic: Modern Indian History)
+
+Held on: 16-Oct-2024 | Shift: 3
+
+Q.1 The Shuddhi Movement to reconvert to the Hindu fold the converts to other religions, was started by which of the following organisations?
+ A. Arya Samaj
+ B. Satyashodhak Samaj
+ C. Brahmo Samaj
+ D. Dharma Sabha
+ (Topic: Arya Samaj Movement)
+
+Q.5 Which of the following was NOT found in the Harappan excavation sites?
+ A. Dwelling houses
+ B. Public hospital
+ C. Public buildings
+ D. Public bath
+ (Topic: Indus Valley Civilization)
+
+Q.25 Dhamma is the _________ word for the Sanskrit word ‘Dharma’.
+ A. Tamil
+ B. Pali
+ C. Abahatta
+ D. Prakrit
+ (Topic: Buddhism)
+
+Q.15 Muscle cells and muscle fibres are developed from embryonic precursor cells known as:
+ A. myonuclei
+ B. myocyte
+ C. myoblasts
+ D. myofibril
+ (Topic: Ancient Indian Scientific Knowledge / Misc. History)
+
+Held on: 17-Oct-2024 | Shift: 1
+
+Q.13 Who was the first feudatory of Pallavas?
+ A. Harshvardhan
+ B. Vijayalaya
+ C. Ashoka
+ D. Rajendra
+ (Topic: Pallava Dynasty)
+
+Q.15 Who among the following was the Viceroy of India during the announcement of the Partition of Bengal in 1905?
+ A. Lord Dalhousie
+ B. Lord Curzon
+ C. Lord Canning
+ D. Lord Hastings
+ (Topic: Partition of Bengal)
+
+Q.24 Who among the following has written the famous novels (originally in Bangla) ‘Devdas’ and ‘Parineeta’?
+ A. Rabindra Nath Tagore
+ B. Sarat Chandra Chattopadhyay
+ C. Bankim Chandra Chatterjee
+ D. Nabin Chandra Sen
+ (Topic: Literary Personalities of Modern India)
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Q.3 In which year was the first session of the Indian National Congress held?(Repeated - 2 times)
+ A. 1882
+ B. 1886
+ C. 1885
+ D. 1887
+ (Topic: Indian National Congress)
+
+Q.12 The Hathigumpha Inscription was inscribed in which of the following historical regions of India?
+ A. Kalinga
+ B. Vaishali
+ C. Taxila
+ D. Suvarnagiri
+ (Topic: Ancient Indian History)
+
+Q.23 Which of the following events took place in the year 1928?
+ A. Kakori Incident
+ B. Bardoli Satyagraha
+ C. Kheda Satyagraha
+ D. Dandi March
+ (Topic: Indian National Movement)
+
+Q.24 As per the Treaty of Purandar, how many forts were surrendered by Shivaji to Mughals?
+ A. 23
+ B. 18
+ C. 11
+ D. 35
+ (Topic: Maratha History)
+
+Held on: 17-Oct-2024 | Shift: 3
+
+Q.4 The Iron Age site named Tekwada is located in ________.
+ A. Tamil Nadu
+ B. Maharashtra
+ C. Madhya Pradesh
+ D. Andhra Pradesh
+ (Topic: Iron Age India)
+
+Q.8 In Harappan civilisation, cities were planned with the streets generally oriented along the ______ directions.
+ A. incognito
+ B. cardinal
+ C. ordinal
+ D. anonymous
+ (Topic: Indus Valley Civilization)
+
+Q.18 Which of the following Mughal emperors issued silver coins in the honour of his wife Mehrunnisa?
+ A. Jahangir
+ B. Aurangzeb
+ C. Akbar
+ D. Humayun
+ (Topic: Mughal Empire)
+
+Q.20 Who among the following founded the 'Satyashodhak Samaj' in 1873?
+ A. Gopal Ganesh Agarkar
+ B. Jyotiba Phule
+ C. Vinoba Bhave
+ D. Vinayak Damodar Savarkar
+ (Topic: Social Reform Movements)
+
+Q.23 Who among the following founded the Asiatic Society of Bengal?
+ A. Henry Colebrook
+ B. William Jones
+ C. Robert Clive
+ D. Warren Hastings
+ (Topic: Modern Indian History)
+
+Held on: 18-Oct-2024 | Shift: 1
+
+Q.3 At which of the following places was the Indian Civil Service Examination held for the first time in India?
+ A. Allahabad
+ B. Surat
+ C. Delhi
+ D. Calcutta
+ (Topic: British India)
+
+Q.8 In which of the following years was the Child Marriage Restraint Act passed?
+ A. 1929
+ B. 1872
+ C. 1856
+ D. 1902
+ (Topic: Social Reform Movements)
+
+Q.12 The excavated ruins of the Nalanda University indicate that bright red _____ was/were used in its construction.
+ A. bricks
+ B. stone
+ C. marble
+ D. granite
+ (Topic: Ancient Indian Education)
+
+Q.18 The author of ‘Arthashastra’ was a contemporary of which of the following rulers?
+ A. Ashoka
+ B. Samudragupta
+ C. Chandragupta Vikramaditya
+ D. Chandragupta Maurya
+ (Topic: Mauryan Empire)
+
+Q.17 Who among the following scholars gave reference to the history of Kashmir?
+ A. Harsha
+ B. Kalidas
+ C. Banabhatta
+ D. Kalhana
+ (Topic: Ancient Indian History / Rajatarangini)
+
+Held on: 18-Oct-2024 | Shift: 2
+
+Q.5 In which of the places was Arya Samaj founded?
+ A. Calcutta
+ B. Bombay
+ C. Madras
+ D. Lahore
+ (Topic: Arya Samaj)
+
+Q.14 Shuddhi movement was initiated by which of the following organisations?
+ A. Paramhans Mandali
+ B. Arya Samaj
+ C. Satyashodak Samaj
+ D. Ramakrishna Mission
+ (Topic: Social and Religious Reform Movements)
+
+Q.16 In the year of the coronation of Akbar, who among the following was designated as the Wakil of the Mughal kingdom with the title of ‘Khan-i-Khanan’?
+ A. Hakim Mirza
+ B. Munim Khan
+ C. Bairam Khan
+ D. Abdur Rahim
+ (Topic: Mughal Empire)
+
+Held on: 18-Oct-2024 | Shift: 3
+
+Q.4 The founders of Vijayanagar empire, Harihara and Bukka Raya were the ministers of:
+ A. Western Chalukya
+ B. Eastern Ganga
+ C. Kampili
+ D. Kadamba
+ (Topic: Vijayanagara Empire)
+
+Q.9 Which of the following pacts suspended the Civil Disobedience Movement?(Repeated - 2 times)
+ A. Rajah-Moonje Pact
+ B. Sirima-Gandhi Pact
+ C. Liaquat-Nehru Pact
+ D. Gandhi-Irwin Pact
+ (Topic: Indian National Movement)
+
+Q.17 Which of the following was the capital of the Pallava Dynasty?
+ A. Aihole
+ B. Kanchipuram
+ C. Madurai
+ D. Badami
+ (Topic: Pallava Dynasty)
+
+Q.21 Who among the following formed a group of non-violent revolutionaries, the Khudai Khidmatgars (known as Red Shirts)?
+ A. Chakravarti Rajagopalachari
+ B. Khan Abdul Gaffar Khan
+ C. Jawaharlal Nehru
+ D. Abbas Tayabji
+ (Topic: Indian National Movement)
+
+Q.24 Who discovered the Bharhut stupa?
+ A. James Tod
+ B. James Burgess
+ C. James Fergusson
+ D. Alexander Cunningham
+ (Topic: Ancient Indian History)
+
+Held on: 21-Oct-2024 | Shift: 1
+
+Q.3 In 1527, Babur defeated Rana Sanga, the Rajput ruler of Mewar in the Battle of ________.
+ A. Chanderi
+ B. Panipat
+ C. Tarain
+ D. Khanwa
+ (Topic: Mughal Empire)
+
+Q.4 Pushyamitra Sunga's capital was at:
+ A. Nalanda
+ B. Cuttack
+ C. Kalinga
+ D. Pataliputra
+ (Topic: Sunga Dynasty)
+
+Q.15 The ‘Agaria’ community of the 19th century was associated with which of the following industries?
+ A. Cotton textile industry
+ B. Agro Industry
+ C. Wood industry
+ D. Iron industry
+ (Topic: Colonial India / Traditional Industries)
+
+Q.23 The Banaras session of the Indian National Congress in 1905 was presided over by ________.
+ A. Gopal Krishna Gokhale
+ B. Subhas Chandra Bose
+ C. Mahatma Gandhi
+ D. Jawaharlal Nehru
+ (Topic: Indian National Congress)
+
+Q.12 What is the term for a dome-shaped monument that contains sacred relics in Buddhism?
+ A. Chaitya
+ B. Vihar
+ C. Stambha
+ D. Stupa
+ (Topic: Buddhist Architecture)
+
+Held on: 21-Oct-2024 | Shift: 2
+
+Q.8 Who among the following married the Mughal emperor Jahangir in 1611 and received the title ‘Nur Jahan’?
+ A. Mumtaz Mahal
+ B. Hasina Begum Sahiba
+ C. Jahanara Begum
+ D. Mehrunnisa
+ (Topic: Mughal Empire)
+
+Q.9 During the Mauryan society, Megasthenes divided the Indian society into seven distinct groups. In which distinct group were the ‘king’s counsellors’ placed?
+ A. First
+ B. Second
+ C. Fifth
+ D. Seventh
+ (Topic: Mauryan Empire)
+
+Q.19 The Buland Darwaza was the structure built by Akbar at which of the following places in India?
+ A. Lahore
+ B. Agra
+ C. Fatehpur Sikri
+ D. Delhi
+ (Topic: Mughal Architecture)
+
+Q.25 Who among the following freedom fighters was associated with the series of nine articles known as ‘New Lamp for Old’?
+ A. Aurobindo Ghose
+ B. Bhagat Singh
+ C. Sardar Ajit Singh
+ D. Swami Vivekananda
+ (Topic: Indian National Movement)
+
+Held on: 21-Oct-2024 | Shift: 3
+
+Q.16 Who among the following was the first President of Indian National Congress?
+ A. George Yule
+ B. Womesh Chandra Banerjee
+ C. Badruddin Tyabji
+ D. Dadabhai Naoroji
+ (Topic: Indian National Congress)
+
+Q.22 Who among the following was the famous ruler of the Gauda Kingdom?
+ A. Shashanka
+ B. Grahavarman
+ C. Rajyavardhan
+ D. Rudradaman
+ (Topic: Early Medieval India)
+
+Select the INCORRECT statement from the following.
+
+The first cotton textile mill in India was established in Bombay in 1854.
+The development of the cotton textile industry in Britain led to the decline of Indian textile producers.
+Cotton clothes made in England had driven Indian clothes out of the markets of Europe and America in the beginning of the 20th century.
+The Sale and Devang communities of South India were famous for weaving.
+
+(Topic: Colonial India / Indian Textile Industry)
+
+Held on: 22-Oct-2024 | Shift: 1
+
+Q.21 Which of the following statements is/are correct?
+
+A) Balshastri Jambhekar started the first Anglo-Maratha newspaper 'Durpun' in 1832.
+ B) He is remembered as the father of Marathi journalism.
+ C) Balshastri Jambhekar published the first Marathi monthly magazine 'Digdarshan' in 1840.
+
+A. Only B
+ B. Both A and B
+ C. Only A
+ D. A, B and C
+ (Topic: Modern Indian History)
+
+Q.23 What is the collection of Vedic hymns or ‘mantras’ called?
+ A. Samhita
+ B. Smriti
+ C. Upanishad
+ D. Shruti
+ (Topic: Vedic Literature)
+
+Q.18 Rani ki Vav is a UNESCO World Heritage monument, situated in which of the following states?
+ A. Maharashtra
+ B. Karnataka
+ C. Haryana
+ D. Gujarat
+ (Topic: Historical Monuments of India)
+
+Held on: 22-Oct-2024 | Shift: 2
+
+Q.1 Who among the following was the pioneer of 'Bhoodan Movement'?
+ A. Acharya Vinoba Bhave
+ B. Vallabhbhai Patel
+ C. Bhimrao Ambedkar
+ D. Jawaharlal Nehru
+ (Topic: Bhoodan Movement)
+
+Q.3 The rock-cut temple of Shiva built by Krishna I is found at which of the following places?
+ A. Kannauj
+ B. Mahabalipuram
+ C. Ellora
+ D. Manyakhet
+ (Topic: Rashtrakuta Architecture)
+
+Q.8 In Dholavira, which of the following materials is extensively used as a building material?
+ A. Bricks
+ B. Granite
+ C. Cement
+ D. Stone
+ (Topic: Indus Valley Civilization)
+
+Q.11 Consider the following statements in the context of the Vedas.
+
+The Vedas are called Shruti.
+The Rigveda consists of ten Mandalas.
+
+A. Both 1 and 2
+ B. Only 1
+ C. Neither 1 nor 2
+ D. Only 2
+ (Topic: Vedic Literature)
+
+Q.23 Who among the following Governor-Generals declared 'Sati' practice as illegal?
+ A. Lord Lytton
+ B. Lord Canning
+ C. Lord Dalhousie
+ D. Lord William Bentinck
+ (Topic: Social Reform Movements)
+
+Held on: 22-Oct-2024 | Shift: 3
+
+Q.1 Tirot Sing was the leader of which of the following revolts?
+ A. Sanyasi Revolt
+ B. Poligars’ Revolt
+ C. Khasi Uprising
+ D. Singpho’s Rebellion
+ (Topic: Tribal Revolts)
+
+Q.3 In which of the following years did Lord Curzon announce the partition of Bengal?
+ A. 1900
+ B. 1909
+ C. 1905
+ D. 1914
+ (Topic: Partition of Bengal)
+
+Q.8 Which of the following dynasties of the Delhi Sultanate finally annexed Jaunpur into the empire of Delhi Sultanate?
+ A. Lodi dynasty
+ B. Sayyid dynasty
+ C. Khalji dynasty
+ D. Tughlaq dynasty
+ (Topic: Delhi Sultanate)
+
+Q.5 In which language was 'Mudraraksha' play written by Vishakhadatta?
+ A. Tamil
+ B. Sanskrit
+ C. Hindi
+ D. Telugu
+ (Topic: Ancient Indian Literature)
+
+Q.23 What does M stand for in BHIM-UPI?
+ A. Monetary
+ B. Mobile
+ C. Money
+ D. Monthly
+ (Topic: Modern Indian Digital Initiatives)
+
+Held on: 23-Oct-2024 | Shift: 1
+
+Q.7 Which of the following Acts provided for a system of tribunals and a ban on strikes?
+ A. Government of India Act, 1912
+ B. The Trade Disputes Act, 1929
+ C. Age of Consent Act, 1891
+ D. Indian Partnership Act, 1932
+ (Topic: Modern Indian History)
+
+Q.10 Which chronicler of the medieval age recognised that Raziyya was more able and qualified than all her brothers?
+ A. Minhaj-i-Siraj
+ B. Taj-ud-din
+ C. Muhammad Junaidi
+ D. Fakhrul-Mulk-Isami
+ (Topic: Delhi Sultanate)
+
+Q.17 In which of the following years did Alexander invade Punjab and in which of the following years did he die?
+ A. 326 BC and 323 BC
+ B. 323 BC and 328 BC
+ C. 320 BC and 323 BC
+ D. 326 BC and 327 BC
+ (Topic: Ancient Indian History)
+
+Q.25 Who excavated the Chira Tope stupa at Taxila?
+ A. James Mill
+ B. James Prinsep
+ C. John Marshall
+ D. Alexander Cunningham
+ (Topic: Ancient Indian History / Archaeology)
+
+Held on: 23-Oct-2024 | Shift: 2
+
+Q.12 Who among the following social reformers established the ‘Prarthana Samaj’ in Bombay in 1876?
+ A. Bal Gangadhar Tilak
+ B. Ganesh Agarkar
+ C. Atmaram Pandurang
+ D. Gopal Hari Deshmukh
+ (Topic: Social Reform Movements)
+
+Q.17 Who among the following Portuguese travellers visited the Vijayanagar empire during the reign of Krishnadevaraya?
+ A. Athanasius Nikitin
+ B. Ludovico de Varthema
+ C. Nicolo de Conti
+ D. Domingo Paes
+ (Topic: Vijayanagara Empire)
+
+Q.18 In 1905, Hindus and Muslims tied ‘Rakhi’ on each other’s hands to show their unity and their protest against the ________.
+ A. Morley-Minto Reforms
+ B. Rowlatt Act
+ C. Partition of Bengal
+ D. Partition of Punjab
+ (Topic: Swadeshi Movement)
+
+Held on: 23-Oct-2024 | Shift: 3
+
+Q.3 Which of the following statements is/are true about the Iron Age?
+
+The establishment of large cities took place on the basis of sizeable surplus.
+The ceramic associated with this age was Painted Grey Ware.
+The Indus Valley Civilization flourished during the Iron Age.
+
+A. Only 1
+ B. Only 2 and 3
+ C. All 1, 2 and 3
+ D. Only 1 and 2
+ (Topic: Iron Age India)
+
+Q.7 The All-India Kisan Sabha was founded in Lucknow in April ______ with Swami Sahjanand Saraswati as the president.
+ A. 1937
+ B. 1934
+ C. 1936
+ D. 1935
+ (Topic: Indian National Movement)
+
+Q.16 Which of the following leaders died after being hit by sticks while protesting against the Simon Commission?
+ A. Bal Gangadhar Tilak
+ B. Lala Lajpat Rai
+ C. Bhagat Singh
+ D. Chandra Shekhar Azad
+ (Topic: Indian National Movement)
+
+Q.21 The founder of Bahmani kingdom who assumed the title of ‘Alauddin Hasan Bahman Shah’ was ________.
+ A. Hasan Gangu
+ B. Feroz Shah Bahmani
+ C. Muhammad Shah
+ D. Ahmad Shah
+ (Topic: Bahmani Kingdom)
+
+Held on: 28-Oct-2024 | Shift: 1
+
+Q.8 Who among the following wrote a book called ‘Indica’ based on his travels and experiences in Mauryan India?(Repeated - 2 times)
+ A. Diodorus
+ B. Megasthenes
+ C. Pliny
+ D. Strabo
+ (Topic: Mauryan Empire)
+
+Q.9 Who among the following was the founder of 'Bhoodan Yajna' in India?(Repeated - 2 times)
+ A. Vinoba Bhave
+ B. Vallabhbhai Patel
+ C. Mahatma Gandhi
+ D. Subhas Chandra Bose
+ (Topic: Bhoodan Movement)
+
+Q.20 Who among the following founded a suburban township near Vijayanagara, called Nagalapuram, after his mother?
+ A. Sadasiva Raya
+ B. Achyuta Deva Raya
+ C. Krishna Deva Raya
+ D. Rama Raya
+ (Topic: Vijayanagara Empire)
+
+Q.22 Who among the following was a leader of Garam Dal, a group of radical nationalists?
+ A. Gopal Krishna Gokhale
+ B. Bipin Chandra Pal
+ C. Dadabhai Naoroji
+ D. Surendranath Banerjee
+ (Topic: Indian National Movement)
+
+Held on: 28-Oct-2024 | Shift: 2
+
+Q.4 Which of the following personalities had the key role in fighting against the British East India Company in the Battle of Porto Novo?
+ A. Gopala Nayaker
+ B. Alamgir-II
+ C. Hyder Ali
+ D. Maharaja Ranjit Singh
+ (Topic: Anglo-Mysore Wars)
+
+Q.6 The construction of Humayun's tomb was completed by:
+ A. Rahmat Banu Begum
+ B. Zeenat Mahal
+ C. Mah Chuchak Begum
+ D. Biga Begum
+ (Topic: Mughal Architecture)
+
+Q.8 Who built Sudarshan Lake in Junagarh?
+ A. Chandragupta
+ B. Skandagupta
+ C. Pushyagupta
+ D. Bhanugupta
+ (Topic: Ancient Indian History)
+
+Q.11 Consider the following statements in the context of the Mughal Rule.
+
+The Mansabdari System was introduced by Akbar in 1571.
+The Second Battle of Panipat was fought in 1556.
+Maharana Pratap Singh of Mewar was a contemporary of Babur.
+
+A. Both 2 and 3
+ B. Both 1 and 2
+ C. Only 2
+ D. 1, 2 and 3
+ (Topic: Mughal History)
+
+Q.23 Which of following organisations sought to revive Vedic learning and combine it with modern education in the sciences?
+ A. Arya Samaj
+ B. Satyashodhak Samaj
+ C. Brahmo Samaj
+ D. Prarthana Samaj
+ (Topic: Social and Religious Reform Movements)
+
+Held on: 28-Oct-2024 | Shift: 3
+
+Q.1 When was the first Round Table Conference started by the British Government in London?
+ A. November 1930
+ B. December 1931
+ C. December 1929
+ D. November 1932
+ (Topic: Round Table Conferences)
+
+Q.5 'Rajatarangini', a vivid account of the kings of Kashmir, was composed by Kalhana in the ______ language.
+ A. Urdu
+ B. Sanskrit
+ C. Arabic
+ D. Persian
+ (Topic: Ancient Indian Literature / Kashmir History)
+
+Q.7 The East India Company lost all its administrative powers with the enforcement of ________.
+ A. The Indian Councils Act, 1892
+ B. The Government of India Act, 1858
+ C. The Charter Act of 1853
+ D. The Regulating Act, 1773
+ (Topic: British Administration in India)
+
+Q.15 Sultan Ghari tomb, situated west of the Qutub in Delhi, is like a fortress within a walled enclosure with bastions on the corners, with its ______ grave chamber underground.
+ A. rectangular
+ B. pentagonal
+ C. octagonal
+ D. squarish
+ (Topic: Delhi Sultanate Architecture)
+
+Q.22 Fa-Hsien, a Chinese Buddhist Pilgrim, began his journey back home (China) from ______.
+ A. Bengal
+ B. Taxila
+ C. Prayag
+ D. Arikamedu
+ (Topic: Foreign Travellers in India)
+
+Held on: 29-Oct-2024 | Shift: 1
+
+Q.8 In 1927, where was the conference against colonial oppression and imperialism, in which Jawaharlal Nehru participated on behalf of Indian National Congress, held?
+ A. Antwerp
+ B. Leuven
+ C. Brussels
+ D. Bruges
+ (Topic: Indian National Movement)
+
+Q.14 The Ashokan inscriptions of Afghanistan are written in Aramaic and _________ scripts.
+ A. Greek
+ B. Sharda
+ C. Devanagari
+ D. Ol Chiki
+ (Topic: Mauryan Empire)
+
+Q.21 Which bonding material was mainly used to join the stones or bricks of 'The Great Bath' of the Harappan Civilisation?
+ A. Gauged Mortar
+ B. Mud Mortar
+ C. Lime Mortar
+ D. Gypsum Mortar
+ (Topic: Indus Valley Civilization)
+
+Q.25 Which reform was initiated by Lord Ripon for the welfare of labourers?
+ A. The Vernacular Press Act
+ B. The Educational Reforms
+ C. The Factory Act
+ D. The Financial Decentralisation
+ (Topic: British India Reforms)
+
+Held on: 29-Oct-2024 | Shift: 2
+
+Q.6 When did Bindusara ascend the Maurya throne?
+ A. 301 BCE
+ B. 297 BCE
+ C. 321 BCE
+ D. 299 BCE
+ (Topic: Mauryan Empire)
+
+Q.9 In which of the following years did the Battle of Plassey take place?
+ A. 1757
+ B. 1787
+ C. 1776
+ D. 1796
+ (Topic: Modern Indian History)
+
+Q.20 Sanchi Stupa was rediscovered in the year ______ by General Henry Taylor.
+ A. 1817
+ B. 1819
+ C. 1818
+ D. 1816
+ (Topic: Buddhist Architecture & History)
+
+Q.23 In which of the following cities was the headquarters of Theosophical Society established in British India?
+ A. Adyar
+ B. Ashok Nagar
+ C. Alandur
+ D. Ayanavaram
+ (Topic: Modern Indian History)
+
+Held on: 29-Oct-2024 | Shift: 3
+
+Q.1 Who built an elegant two-storey ‘ship palace’ between two reservoirs named Jahaaz Mahal?
+ A. Sultan Alaud-Din Khalji
+ B. Sultan Muhammad Bin Tughlaq
+ C. Sultan Ghiyasuddin Khilji
+ D. Sultan Ghiyasuddin Tughlaq
+ (Topic: Medieval Indian Architecture / Malwa Sultanate)
+
+Q.3 Name the social reformer of Bengal who played crucial role in the enactment of the Hindu Widows' Remarriage Act 1856.
+ A. Ishwarchandra Vidyasagar
+ B. Rabindranath Tagore
+ C. Swami Vivekananda
+ D. Satyendra Nath Bose
+ (Topic: Social Reform Movements)
+
+Q.10 Which ruler succeeded Chandragupta Maurya in 297 BCE?(Repeated - 2 times)
+ A. Kanishka
+ B. Bindusara
+ C. Ashoka
+ D. Kumaragupta
+ (Topic: Mauryan Empire)
+
+Q.17 Who among the following was the Sultan of Delhi when Bahmani kingdom was founded in 1347 CE?
+ A. Muhammad bin Tughlaq
+ B. Bahlul Lodi
+ C. Mubarak Shah Khalji
+ D. Ghiyasuddin Tughlaq
+ (Topic: Delhi Sultanate)
+
+Q.23 Among the following Para athletes, which athlete is associated with the High Jump event?
+ A. Avani Lekhara
+ B. Mariyappan Thangavelu
+ C. Deepa Malik
+ D. Ajeet Singh Yadav
+ (Topic: Sports Personalities / Static GK)
+
+Held on: 30-Oct-2024 | Shift: 1
+
+Q.13 Most of the Harappan sites are primarily divided into ________ parts.
+ A. Eight
+ B. Two
+ C. Six
+ D. Four
+ (Topic: Indus Valley Civilization)
+
+Q.15 With which of the following organisations was Henry Louis Vivian Derozio, a teacher of Hindu College of Calcutta, associated?
+ A. Paramahansa Mandali
+ B. Young Bengal Movement
+ C. Sree Narayana Dharma Paripalana Yogam
+ D. Rahnumai Mazdayasnan Sabha
+ (Topic: Young Bengal Movement)
+
+Q.17 With reference to provinces under Mauryan dynasty, which of the following pairs is correct?
+ A. Prachyapatha (East) - Toshali
+ B. Dakshinapatha (South) - Ujjain
+ C. Uttarapatha (North) - Suvarnagiri
+ D. Avantiratha (West) - Taxila
+ (Topic: Mauryan Administration)
+
+Q.18 As a part of the Non-Cooperation Movement in 1922, the angry peasants had set ablaze the police station of which place?(Repeated - 2 times)
+ A. Dandi
+ B. Chauri Chaura
+ C. Kakori
+ D. Dhaka
+ (Topic: Indian National Movement)
+
+Held on: 30-Oct-2024 | Shift: 2
+
+Q.1 Which of the following statements is/are INCORRECT?
+
+A) 1833 Charter Act changed the designation of Governor-General of Bengal to Governor-General of India.
+ B) Lord William Bentinck was the first Governor-General of India.
+
+A. Only B
+ B. Both A and B
+ C. Neither A nor B
+ D. Only A
+
+(Topic: Charter Act, 1833 & British Administration)
+
+Q.8 Harappa, one of the sites of the Harappan culture, was found in which of the following states of pre-independent India?
+
+A. Punjab
+ B. Sindh
+ C. United Province
+ D. Balochistan
+
+(Topic: Indus Valley Civilization)
+
+Q.12 The Indian reformer Jyotirao Phule was primarily critical of which social evil of the Indian society?
+
+A. Caste Discrimination
+ B. Child Marriage
+ C. Sati System
+ D. Poverty
+
+(Topic: Social Reform Movements)
+
+Held on: 30-Oct-2024 | Shift: 3
+
+Q.2 Megasthenes was an ambassador who was sent to the court of which Indian ruler by the Greek ruler, Seleucus Nicator?(Repeated - 2 times)
+ A. Chandragupta
+ B. Pushyamitra Shunga
+ C. Ashoka
+ D. Bindusara
+ (Topic: Mauryan Empire)
+
+Q.7 Who among the following founded the Servants of India Society in 1905 with the help of MG Ranade?
+ A. Jawaharlal Nehru
+ B. Mahatma Gandhi
+ C. Gopal Krishna Gokhale
+ D. Bal Gangadhar Tilak
+ (Topic: Indian National Movement)
+
+Q.9 Who among the following started the Khilafat Movement against the British government?
+ A. Shaukat Ali and Mohammad Ali
+ B. Syed Raza Ali and Muhammad Ali Jinnah
+ C. Maulana Mazharul Haque and Mian Abdul Aziz
+ D. Syed Nabiullah and MA Ansari
+ (Topic: Khilafat Movement)
+
+Q.21 Who was sent as an envoy to China during the time of Muhammad bin Tughluq?
+ A. Hasan Nizami
+ B. Al-Biruni
+ C. Ziauddin Barani
+ D. Ibn Battuta
+ (Topic: Delhi Sultanate)
+
+Held on: 04-Nov-2024 | Shift: 1
+
+Q.3 To which position in the Mughal administration under Akbar does Diwan-i-Ala refer?
+ A. Defence Minister
+ B. Court Writer
+ C. Prime Minister
+ D. Finance Minister
+ (Topic: Mughal Administration)
+
+Q.7 What is the year of foundation of the Women’s Indian Association (WIA)?
+ A. 1917
+ B. 1937
+ C. 1927
+ D. 1907
+ (Topic: Modern Indian History)
+
+Q.10 In the Vedic period, education was begun with which of the following?
+ A. Niyoga
+ B. Upanayana
+ C. Vanaprastha
+ D. Grihastha
+ (Topic: Vedic Period)
+
+Q.16 Which of the following Harappan cities was found without a citadel?
+ A. Kalibangan
+ B. Chanhudaro
+ C. Banawali
+ D. Lothal
+ (Topic: Indus Valley Civilization)
+
+Q.18 Which of the following Acts was the first intervention by the British government in the East India Company’s territorial affairs?
+ A. The Charter Act of 1813
+ B. The Pitt’s India Act, 1784
+ C. The Regulating Act, 1773
+ D. The Charter Act of 1793
+ (Topic: British Administration in India)
+
+Held on: 04-Nov-2024 | Shift: 2
+
+Q.1 At which of the following places is the tomb of Sher Shah Suri situated?
+ A. Bargaon
+ B. Rajgir
+ C. Sasaram
+ D. Sultanpur
+ (Topic: Medieval Indian History)
+
+Q.2 After the decisive battle of Plassey of 1757, who among the following was declared as the Nawab of Bengal by the British?
+ A. Murshid Quli Khan
+ B. Mansur Ali Khan
+ C. Mir Qasim
+ D. Mir Jafar Ali Khan
+ (Topic: Battle of Plassey)
+
+Q.10 In the year 1930, the Salt Satyagraha was led by who among the following?(Repeated - 2 times)
+ A. Subhas Chandra Bose
+ B. Mahatma Gandhi
+ C. Sardar Vallabhbhai Patel
+ D. Jawaharlal Nehru
+ (Topic: Indian National Movement)
+
+Q.11 Akbar’s first expedition towards Deccan was sent to Ahmednagar under the leadership of Prince Murad and _____________.
+ A. Adham Khan
+ B. Man Singh
+ C. Birbal
+ D. Abdul Rahim Khan-i-Khanan
+ (Topic: Mughal Empire)
+
+Q.12 Which Rigvedic God is considered an intermediary between God and men?
+ A. Varuna
+ B. Indra
+ C. Agni
+ D. Yama
+ (Topic: Vedic Period)
+
+Held on: 04-Nov-2024 | Shift: 3
+
+Q.4 To control the prices, which Sultan of Delhi set up three different markets for different commodities in Delhi?(Repeated - 2 times)
+ A. Shamsuddin Iltutmish
+ B. Alauddin Khalji
+ C. Muhammad bin Tughlaq
+ D. Ghiyasuddin Balban
+ (Topic: Delhi Sultanate)
+
+Q.7 The partition of __________ was annulled in 1911.
+ A. Burma
+ B. Punjab
+ C. Bengal
+ D. United Provinces
+ (Topic: Partition of Bengal)
+
+Q.19 Who among the following formed an organisation to support widow remarriage in Madras Presidency?
+ A. Veereshlingam Pantulu
+ B. V Chidambaram Pillai
+ C. C Rajagopalachari
+ D. Ishwar Chandra Vidyasagar
+ (Topic: Social Reform Movements)
+
+Q.24 Which of the following statements is correct?
+ A. At burials in Harappan sites the dead were generally laid in pits.
+ B. Harappan culture spread only to Sindh and Punjab.
+ C. Harappan script has been deciphered.
+ D. Granaries were found only in Harappa.
+ (Topic: Indus Valley Civilization)
+
+Q.12 Which Rigvedic God is considered an intermediary between God and men?
+ A. Varuna
+ B. Indra
+ C. Agni
+ D. Yama
+ (Topic: Rigvedic Period)
+
+Q.3 Who was appointed as the governor of Bengal by Sultan Balban after the revolt and subsequent death of Tughril Beg?
+ A. Zafar Khan
+ B. Mahmud Khan
+ C. Bughra Khan
+ D. Khizr Khan
+ (Topic: Delhi Sultanate)
+
+Q.6 Which of the following languages was used by the Sangam poets for composing the texts?
+ A. Malayalam
+ B. Tamil
+ C. Telugu
+ D. Kannada
+ (Topic: Sangam Age)
+
+Q.9 Which of the following organisations was established in Bombay by Atmaram Pandurang?(Repeated - 2 times)
+ A. Veda Samaj
+ B. Prarthana Samaj
+ C. Satya Sodhak Samaj
+ D. Poona Sarvajanik Sabha
+ (Topic: Social Reform Movements)
+
+Q.24 Where was the India House established to work for India’s liberation from British possession?
+ A. London
+ B. Kabul
+ C. Berlin
+ D. San Francisco
+ (Topic: Indian National Movement)
+
+Held on: 05-Nov-2024 | Shift: 2
+
+Q.2 Babur described formal gardens divided into four quarters by artificial channels. These gardens are known as:
+ A. Panch Bagh
+ B. Saat Bagh
+ C. Teen Bagh
+ D. Chahar Bagh
+ (Topic: Mughal Architecture)
+
+Q.3 Which volume of the 'Akbar-Nama' is known as Ain-i-Akbari and deals with Akbar’s administration, household, army and revenues?
+ A. Second
+ B. Fourth
+ C. Fifth
+ D. Third
+ (Topic: Mughal Administration)
+
+Q.7 Brahmo Samaj was founded by Raja Ram Mohan Roy in the year:
+ A. 1856
+ B. 1879
+ C. 1828
+ D. 1839
+ (Topic: Social Reform Movements)
+
+Q.9 Which of the following was contemporary of Buddha but is not regarded as the first founder of Jainism?
+ A. Mahavira Swami
+ B. Rishabhnath
+ C. Arishtanemi
+ D. Parshvanath
+ (Topic: Jainism & Buddhism)
+
+Q.13 Swaraj Party was formed for entering legislative councils to obstruct colonial administration under the programme of:
+ A. Independent Labour Party
+ B. All India Muslim League
+ C. Indian National Congress
+ D. Unionist Party
+ (Topic: Indian National Movement)
+
+Held on: 05-Nov-2024 | Shift: 3
+
+Q.3 The Muhammadan Anglo-Oriental College in Aligarh was founded by ______.
+ A. Mohammad Ali Jinnah
+ B. Maulana Abul Kalam Azad
+ C. Sir Syed Ahmed Khan
+ D. Muzaffar Ahmed
+ (Topic: Modern Indian History)
+
+Q.16 Which dynasty defeated the Kanva Dynasty?
+ A. Satavahana Dynasty
+ B. Sakas Dynasty
+ C. Kushan Dynasty
+ D. Sunga Dynasty
+ (Topic: Ancient Indian History)
+
+Q.18 Panch Mahal, a palace in Fatehpur Sikri, was built by Mughal Emperor ______.
+ A. Babar
+ B. Akbar
+ C. Jahangir
+ D. Shah Jahan
+ (Topic: Mughal Empire)
+
+Q.24 Against which of the following were ‘Swadeshi’ and ‘Boycott’ used as means of protest for the first time in India?
+ A. Partition of Bengal
+ B. Rowlatt Act
+ C. Simon Commission
+ D. Jallianwala Bagh Massacre
+ (Topic: Swadeshi Movement)
+
+Q.15 Consider the following pairs:
+
+Rajatarangini - Kalhan
+Gita Govinda - Chandbardai
+Vikramarjuna Vijaya - Pampa
+
+Which pairs are correctly matched?
+
+A. Both 1 and 3
+ B. Both 1 and 2
+ C. Only 2
+ D. Only 3
+
+(Topic: Ancient Indian Literature)
+
+Held on: 11-Nov-2024 | Shift: 1
+
+Q.1 Drains exiting from Mohenjo-Daro had ________ doors that were probably closed at night to prevent vagrants or negative elements from entering the city through that access.
+ A. mud
+ B. iron
+ C. sandstone
+ D. wooden
+ (Topic: Indus Valley Civilization)
+
+Q.2 Which of the following was the capital of Vatsa Mahajanapada?
+ A. Ujjayini
+ B. Kausambi
+ C. Ahichchatra
+ D. Vaishali
+ (Topic: Mahajanapadas)
+
+Q.21 Who among the following was the first Sultan of Delhi Sultanate to visit the Ajmer shrine of Khwaja Muinuddin Chishti?
+ A. Muhammad bin Tughlaq
+ B. Jalaluddin Khalji
+ C. Ghiyasuddin Balban
+ D. Khizr Khan
+ (Topic: Delhi Sultanate)
+
+Q.22 Where was the Hindustan Socialist Republican Association established in the year 1928?
+ A. Kanpur
+ B. Delhi
+ C. Agra
+ D. Lahore
+ (Topic: Indian National Movement)
+
+Held on: 11-Nov-2024 | Shift: 2
+
+Q.4 In which of the following years was the state of Golconda finally annexed into the Mughal empire?
+ A. 1697
+ B. 1690
+ C. 1685
+ D. 1687
+ (Topic: Mughal Empire)
+
+Q.7 Who among the following was the founder of 'Satnami Movement' in Central India?
+ A. Saint Haridas
+ B. Ghasidas
+ C. Jyotirao Phule
+ D. Narayan Guru
+ (Topic: Social & Religious Movements)
+
+Q.9 The Great Granary was one of the largest granaries in the ____________.
+ A. Harappan Civilization
+ B. Mesopotamian Civilization
+ C. Mayan Civilization
+ D. Egyptian Civilization
+ (Topic: Indus Valley Civilization)
+
+Q.12 Forward Bloc was founded in 1939-40 by which of the following leaders?
+ A. Subhash Chandra Bose
+ B. Jawaharlal Nehru
+ C. Chittaranjan Das
+ D. Rash Behari Bose
+ (Topic: Indian National Movement)
+
+Q.25 Palkigundu Minor Rock Edicts of Ashoka are located in __________.
+ A. Maharashtra
+ B. Telangana
+ C. Karnataka
+ D. Tamil Nadu
+ (Topic: Mauryan Empire)
+
+Held on: 11-Nov-2024 | Shift: 3
+
+Q.8 The village servants or functionaries, who constituted of groups of families in Vijayanagar empire, were called ______.
+ A. Nayakas
+ B. Vellalars
+ C. Ayagars
+ D. Amaranayakas
+ (Topic: Vijayanagara Empire)
+
+Q.9 The Fourth Anglo-Mysore War was fought in the year ______.
+ A. 1799
+ B. 1796
+ C. 1800
+ D. 1797
+ (Topic: Anglo-Mysore Wars)
+
+Q.12 Forward Bloc was founded in 1939-40 by which of the following leaders?
+ A. Subhash Chandra Bose
+ B. Jawaharlal Nehru
+ C. Chittaranjan Das
+ D. Rash Behari Bose
+ (Topic: Indian National Movement)
+
+Q.14 At which of the following places was the first Singh Sabha founded in 1873?
+ A. Lahore
+ B. Multan
+ C. Jullundur
+ D. Amritsar
+ (Topic: Sikh Reform Movement)
+
+Q.22 Literal meaning of 'megalith' is ______.
+ A. a cave
+ B. a big stone
+ C. a mortuary
+ D. a huge shelter
+ (Topic: Megalithic Culture)
+
+Held on: 12-Nov-2024 | Shift: 1
+
+Q.5 Who became the Nawab of Bengal after the death of Alivardi Khan in the year 1756?
+ A. Wazir Ali
+ B. Saadat Ali Khan
+ C. Siraj-Ud-Daulah
+ D. Shuja-Ud-Daulah
+ (Topic: Modern Indian History)
+
+Q.9 Kharavela was an important ruler of which dynasty?
+ A. Vardhan Dynasty
+ B. Chedi Dynasty
+ C. Sunga Dynasty
+ D. Gupta Dynasty
+ (Topic: Ancient Indian History)
+
+Q.13 With reference to medieval history, consider the following statements.
+
+The founder of the Chola dynasty called the Imperial Cholas was Vijayalaya.
+Gurjara-Pratiharas ruled in northern India.
+Palas ruled western India and Rashtrakutas ruled southern India.
+
+A. 1 only
+ B. 1 and 2 only
+ C. 2 only
+ D. 1 and 3 only
+ (Topic: Medieval Indian History)
+
+Q.22 Who is the author of the historical fiction novel ‘The Mauryan: The Legend of Ashoka’?
+ A. Sanjeev Sanyal
+ B. Amish Tripathi
+ C. Chetan Bhagat
+ D. Komal Bhanver
+ (Topic: Ancient Indian History / Mauryan Empire)
+
+Held on: 12-Nov-2024 | Shift: 2
+
+Q.13 Who among the following Indian leaders was the first member to be elected to the British Parliament?
+ A. Lala Hardayal
+ B. Dadabhai Naoroji
+ C. Motilal Nehru
+ D. Bhikaji Cama
+ (Topic: Modern Indian History)
+
+Q.15 At which of the following places were the written teachings of Jainism, in the form presently available, compiled about 1500 years ago?
+ A. Mathura
+ B. Valabhi
+ C. Shravanabelagola
+ D. Pataliputra
+ (Topic: Jainism)
+
+Q.16 The title of ‘Chief of the Merchants’ or ‘Malikut-Tujjar’ was conferred on Mahmud Gawan by which of the following Bahamani kings?
+ A. Humayun Shah
+ B. Mohammad Shah
+ C. Nizamuddin Ahmad III
+ D. Bahman Shah
+ (Topic: Bahmani Kingdom)
+
+Q.18 Who among the following signed the Treaty of Allahabad in August 1765 with the Nawab of Awadh and Shah Alam II, the Mughal Emperor?
+ A. William Bentinck
+ B. Robert Clive
+ C. Earl Mountbatten
+ D. Warren Hastings
+ (Topic: British India)
+
+Held on: 12-Nov-2024 | Shift: 3
+
+Q.1 The rock-cut caves in Karnataka, mainly at Badami and Aihole, were built under the patronage of the ______.
+ A. Cholas
+ B. Guptas
+ C. Chalukyas
+ D. Mauryas
+ (Topic: Chalukya Dynasty)
+
+Q.9 How many Pillar Edicts or Major Pillar Edicts (PEs) of Ashoka are found?
+ A. Two
+ B. Seven
+ C. Fourteen
+ D. Nine
+ (Topic: Mauryan Empire)
+
+Q.12 Who among the following is the author of the book, 'A History of British India'?
+ A. Bentham
+ B. James Mill
+ C. Renley
+ D. Grenville Austin
+ (Topic: Colonial History)
+
+Q.18 In which of the following sessions of Congress did the Party issue a call to celebrate 26th January as ‘Purna Swaraj Day’?
+ A. Delhi 1923
+ B. Karachi 1931
+ C. Lahore 1929
+ D. Madras 1927
+ (Topic: Indian National Movement)
+
+Q.22 The last Mughal emperor of India was:
+ A. Aurangzeb
+ B. Shah Jahan
+ C. Bahadur Shah II
+ D. Akbar II
+ (Topic: Mughal Empire)
+
+Held on: 13-Nov-2024 | Shift: 2
+
+Q.4 Which of the following statements is/are true about the Cholas?
+
+The capital of the Chola kingdom was Tanjore.
+Vikram Chola had in his veins the blood of the Cholas and Eastern Chalukyas.
+Rajendra I Chola is known as Gangaikonda Chola.
+
+A. Only 2 and 3
+ B. Only 1 and 3
+ C. Only 1 and 2
+ D. All 1, 2 and 3
+ (Topic: Chola Dynasty)
+
+Q.12 Which poet composed the Allahabad Prashasti of Samudragupta?
+ A. Harisena
+ B. Vatsbhatti
+ C. Banabhatta
+ D. Vasul
+ (Topic: Gupta Empire)
+
+Q.13 Which of the following sessions of the Indian National Congress was headed by Sarojini Naidu?
+ A. Karachi, 1931
+ B. Lahore, 1929
+ C. Madras, 1927
+ D. Kanpur, 1925
+ (Topic: Indian National Congress)
+
+Q.20 Who appointed the ‘Hunter Commission’ for Educational Reforms in 1882?
+ A. Lord Ripon
+ B. John Lawrence
+ C. Lord Ellenborough
+ D. Robert Lytton
+ (Topic: British India)
+
+Held on: 13-Nov-2024 | Shift: 3
+
+Q.1 Anuradhapura, the old capital of Sri Lanka, was destroyed by which of the following dynasties of South India in the 10th century AD?
+ A. Rashtrakuta
+ B. Chalukyas of Vengi
+ C. Chola
+ D. Chalukyas of Badami
+ (Topic: Chola Dynasty)
+
+Q.3 When was the Jallianwala Bagh massacre brought into action by the Britishers in Amritsar?
+ A. 23 April, 1918
+ B. 13 March, 1919
+ C. 13 April, 1918
+ D. 13 April, 1919
+ (Topic: Indian National Movement)
+
+Q.7 The planned large-scale disruption of rail communications and the seizure of arms in Bengal were undertaken under the leadership of ________.
+ A. Aurobindo Ghose
+ B. Chittaranjan Das
+ C. Jatin Mukherjee
+ D. Surendranath Banerjee
+ (Topic: Revolutionary Movement)
+
+Q.12 Which poet composed the Allahabad Prashasti of Samudragupta?
+ A. Harisena
+ B. Vatsbhatti
+ C. Banabhatta
+ D. Vasul
+ (Topic: Gupta Empire)
+
+Q.22 Which of the following periods in India is also associated with the Iron Age?
+ A. Palaeolithic Age
+ B. Later Vedic Age
+ C. Harappan Age
+ D. Neolithic Age
+ (Topic: Later Vedic Age)
+
+Held on: 14-Nov-2024 | Shift: 2
+
+Q.8 The ‘Servants of India Society’ was founded by which of the following freedom fighters?(Repeated - 2 times)
+ A. Chittaranjan Das
+ B. Motilal Nehru
+ C. Mahatma Gandhi
+ D. Gopal Krishna Gokhale
+ (Topic: Indian National Movement)
+
+Q.10 Which of the following Commissions was set up to investigate the incident of Jallianwala Bagh in 1919?
+ A. Peel Commission
+ B. Sadler Commission
+ C. Simon Commission
+ D. Hunter Commission
+ (Topic: Modern Indian History)
+
+Q.19 Pulakeshin II was the famous ruler of which of the following dynasties?
+ A. Maitraka
+ B. Vakataka
+ C. Chalukya
+ D. Gauda
+ (Topic: Chalukya Dynasty)
+
+Q.22 The Home Rule League Movement of Bal Gangadhar Tilak had its base across Karnataka and Maharashtra, but excluding which of the following?
+ A. Nagpur
+ B. Berar
+ C. Bombay
+ D. Poona
+ (Topic: Home Rule Movement)
+
+Held on: 14-Nov-2024 | Shift: 3
+
+Q.10 Jallianwala Bagh is located in which city?
+ A. Amritsar
+ B. Chandigarh
+ C. Ludhiana
+ D. Ambala
+ (Topic: Indian National Movement)
+
+Q.14 Who among the following social reformers ruled out the practice of Sati on the basis of Hindu religious texts?
+ A. Ishwar Chandra Vidyasagar
+ B. Raja Ram Mohan Roy
+ C. Swami Vivekanand
+ D. Jyotiba Phule
+ (Topic: Social Reform Movements)
+
+Q.18 Which among the following dynasties originated from the Yueh-chih tribe of China?
+ A. Satavahanas
+ B. Parthians
+ C. Guptas
+ D. Kushanas
+ (Topic: Ancient Indian History)
+
+Q.20 The First Battle of Panipat (1526) marked the beginning of:
+ A. Sultanat's rule in India
+ B. French East India Company's rule in India
+ C. British East India Company's rule in India
+ D. Mughal's Rule in India
+ (Topic: Mughal Empire)
+                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 01-Sep-2023 | Shift: 1
+
+Q.8 Which of the following movements was founded in Bengal?
+ A. Ramakrishna Mission
+ B. Arya Samaj
+ C. Satyashodhak Samaj
+ D. Prarthana Samaj
+ (Topic: Religious & Social Reform Movements)
+
+Q.9 On 15 August 1947, the first Prime Minister of India, Jawaharlal Nehru, raised the Indian National Flag above the ____________ of Red Fort in Delhi.
+ A. Delhi Gate
+ B. Kashmiri Gate
+ C. Ajmeri Gate
+ D. Lahori Gate
+ (Topic: Modern Indian History)
+
+Q.17 Which of the following institutes was founded by MG Ranade and GV Joshi?
+ A. Abhinav Bharat
+ B. The Indian National Congress
+ C. The Bombay Presidency Association
+ D. Poona Sarvajanik Sabha
+ (Topic: Social Reform Movements)
+
+Q.20 The First Battle of Panipat (1526) marked the beginning of:
+ A. Sultanat's rule in India
+ B. French East India Company's rule in India
+ C. British East India Company's rule in India
+ D. Mughal's Rule in India
+ (Topic: Mughal Empire)
+
+
+Held on: 01-Sep-2023 | Shift: 2
+
+Q.17 Who among the following is the author of the book ‘Red Earth and Pouring Rain: A Novel’?
+ A. Vikram Chandra
+ B. Shashi Tharoor
+ C. Ashwin Sanghi
+ D. Ruskin Bond
+ (Topic: Modern Indian Literature)
+
+Q.21 In April 2023, Tamil Nadu passed a bill banning which of the following?
+ A. Gutka
+ B. Online Gambling
+ C. Lottery
+ D. Liquor
+ (Topic: Modern Governance History)
+
+Q.23 ‘Mitra Mela’ was a revolutionary organisation founded by:
+ A. Bhupendra Nath Bose
+ B. Khudiram Bose
+ C. Vinayak Savarkar
+ D. Sisir Kumar Bose
+ (Topic: Revolutionary Movement)
+
+Q.25 Who among the following freedom fighter lawyers from Bengal is known as Deshbandhu?
+ A. Chittaranjan Das
+ B. Durga Mohan Das
+ C. Bipin Chandra Pal
+ D. Satish Ranjan Das
+ (Topic: Freedom Movement)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.18 Who was the founder of Naujawan Bharat Sabha?
+ A. Chandra Shekhar Azad
+ B. Ajeet Singh
+ C. Lala Lajpat Rai
+ D. Bhagat Singh
+ (Topic: Revolutionary Movement)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.19 In which of the following years was the Child Marriage Restraint Act passed?
+ A. 1949
+ B. 1939
+ C. 1950
+ D. 1929
+ (Topic: Social Reform Movements)
+
+Q.25 On 8th April 1929, who among the following two revolutionists threw a bomb in the Central Legislative Assembly?
+ A. Bhagat Singh and Rajguru
+ B. Bhagat Singh and Ram Prasad Bismil
+ C. Bhagat Singh and Batukeshwar Dutt
+ D. Bhagat Singh and Sukhdev
+ (Topic: Revolutionary Movement)
+
+Held on: 04-Sep-2023 | Shift: 2
+
+Q.7 Who started the temple entry movement in 1927?
+ A. Mahadev Govind Ranade
+ B. Bhimrao Ambedkar
+ C. Mahatma Gandhi
+ D. Annie Besant
+ (Topic: Social Reform Movements)
+
+Q.15 The third battle of Panipat was fought in which of the following years?
+ A. 1761
+ B. 1707
+ C. 1786
+ D. 1751
+ (Topic: Modern Indian History)
+
+Q.25 Which vitamin is needed for a healthy immune system, low-light vision, and healthy skin?
+ A. Vitamin K
+ B. Vitamin B2
+ C. Vitamin B9
+ D. Vitamin A
+ (Topic: Question not History; classified elsewhere, not counted here)
+
+Held on: 04-Sep-2023 | Shift: 3
+
+Q.2 Where is the Mahabodhi temple situated?
+ A. Varanasi
+ B. Bodh Gaya
+ C. Patna
+ D. Agra
+ (Topic: Buddhist History & Heritage)
+
+Q.7 Who started the temple entry movement in 1927?
+ A. Mahadev Govind Ranade
+ B. Bhimrao Ambedkar
+ C. Mahatma Gandhi
+ D. Annie Besant
+ (Topic: Social Reform Movements)
+
+Q.15 The third battle of Panipat was fought in which of the following years?
+ A. 1761
+ B. 1707
+ C. 1786
+ D. 1751
+ (Topic: Modern Indian History)
+
+Q.17 Who among the following leaders led the Revolt of 1857 in Bihar?
+ A. Rajendra Prasad
+ B. Devi Singh
+ C. Rajkumar Shukla
+ D. Kunwar Singh
+ (Topic: Revolt of 1857)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.6 Who had founded th first Women’s University in India?
+ A. Dhondo Keshav Karve
+ B. Ashutosh Mukherjee
+ C. William Hunter
+ D. Sayed Ahmed Khan
+ (Topic: Modern Indian History)
+
+Q.19 Who was the Iranian ruler who attacked the city of Delhi and took away an imense amount of wealth in 1739?
+ A. Ahmad Shah Qajar
+ B. Nadir Shah
+ C. Ahmad Shah Abdali
+ D. Abbas I
+ (Topic: Medieval Indian History)
+
+Q.20 Pandit Bhimsen Joshi belonged to the _______ Gharana.
+ A. Banaras
+ B. Kirna
+ C. Agra
+ D. Dilli
+ (Topic: Modern Indian Personalities)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.14 Where was the Hindustan Socialist Republican Association founded in 1928?
+ A. Kanpur
+ B. Amritsar
+ C. Lucknow
+ D. Delhi
+ (Topic: Revolutionary Movement)
+
+Q.19 For which community was a journal Rast Goftar started for the purpose of social-religious reforms?
+ A. Sikhs
+ B. Muslim
+ C. Parsis
+ D. Hindu
+ (Topic: Social Reform Movements)
+
+Held on: 06-Sep-2023 | Shift: 2
+
+Q.18 Who among the following reformers initially set up a school for girls in Calcutta?
+ A. Narayana Guru
+ B. Mahatma Phule
+ C. Swami Dayanand Saraswati
+ D. Ishwar Chandra Vidyasagar
+ (Topic: Social Reform Movements)
+
+Q.19 Bharhut Stupa is located in which of the following states?
+ A. Punjab
+ B. Madhya Pradesh
+ C. Uttar Pradesh
+ D. Bihar
+ (Topic: Buddhist History)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.11 When did the British East India Company start the ‘permanent settlement system’?
+ A. 1793 CE
+ B. 1773 CE
+ C. 1799 CE
+ D. 1780 CE
+ (Topic: British India)
+
+Q.12 The word ‘Swaraj’ was first used by Dadabhai Naoroji in the Congress session held in which place?
+ A. Madras
+ B. Surat
+ C. Calcutta
+ D. Lucknow
+ (Topic: Indian National Congress)
+
+Q.18 Who among the following reformers initially set up a school for girls in Calcutta?
+ A. Narayana Guru
+ B. Mahatma Phule
+ C. Swami Dayanand Saraswati
+ D. Ishwar Chandra Vidyasagar
+ (Topic: Social Reform Movements)
+
+Q.19 Bharhut Stupa is located in which of the following states?
+ A. Punjab
+ B. Madhya Pradesh
+ C. Uttar Pradesh
+ D. Bihar
+ (Topic: Buddhist History)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.1 Which Indian Mass Movement began with the famous ‘Dandi March’ of Mahatma Gandhi?
+ A. Civil Disobedience Movement
+ B. Non-Cooperation Movement
+ C. Quit India Movement
+ D. Kheda Movement
+ (Topic: Civil Disobedience Movement)
+
+Q.9 Who founded the Hindu reform organisation Brahmo Samaj?
+ A. Ramkrishna Paramhans
+ B. Rabindranath Tagore
+ C. Atmaram Pandurang
+ D. Raja Ram Mohan Roy
+ (Topic: Social Reform Movements)
+
+Q.11 When did the British East India Company start the ‘permanent settlement system’?
+ A. 1793 CE
+ B. 1773 CE
+ C. 1799 CE
+ D. 1780 CE
+ (Topic: British India)
+
+Q.12 The word ‘Swaraj’ was first used by Dadabhai Naoroji in the Congress session held in which place?
+ A. Madras
+ B. Surat
+ C. Calcutta
+ D. Lucknow
+ (Topic: Indian National Congress)
+
+Held on: 08-Sep-2023 | Shift: 2
+
+Q.3 In which year were the Arms Act and Vernacular Press Act passed?
+ A. 1878
+ B. 1879
+ C. 1877
+ D. 1876
+ (Topic: British India)
+
+Q.9 Who founded the Hindu reform organisation Brahmo Samaj?
+ A. Ramkrishna Paramhans
+ B. Rabindranath Tagore
+ C. Atmaram Pandurang
+ D. Raja Ram Mohan Roy
+ (Topic: Social Reform Movements)
+
+Q.15 The foundation of Sanchi Stupa was laid by which of the following Kings?
+ A. Samudragupta
+ B. Bimbisara
+ C. Ashoka
+ D. Chandragupta Maurya
+ (Topic: Mauryan Empire)
+
+Held on: 08-Sep-2023 | Shift: 3
+
+Q.18 Who among the following was the founder of the Khudai Khidmatgars, a powerful non-violent movement among the Pathans of North-West Frontier Province?
+ A. Khan Abdul Ghaffar Khan
+ B. Abdul Qayyum Khan Kashmiri
+ C. Mohammad Ali Jinnah
+ D. Khan Abdul Jabbar Khan
+ (Topic: Freedom Movement)
+
+Q.21 Ajmer Sharif is the shrine of which of the following Sufi saints?
+ A. Mohammad Ghori
+ B. Mohammad Bin Tughlaq
+ C. Khwaja Moinuddin Chishti
+ D. Bhaktiyar Khilji
+ (Topic: Medieval Indian History)
+
+Held on: 11-Sep-2023 | Shift: 2
+
+Q.5 Who is credited with the establishment of Servants of India Society?(Repeated - 2 times)
+ A. Lala Lajpat Rai
+ B. Gopal Krishna Gokhale
+ C. MG Ranade
+ D. CR Das
+ (Topic: Indian National Movement)
+
+Q.10 Who among the following was the viceroy of India at the time of India’s independence from colonial rule on 15 August 1947?
+ A. Lord Wavell
+ B. Lord Willingdon
+ C. Lord Mountbatten
+ D. Lord Linlithgow
+ (Topic: Modern Indian History)
+
+Q.15 In which of the following years was the Child Marriage Restraint Act passed?
+ A. 1856
+ B. 1947
+ C. 1878
+ D. 1929
+ (Topic: Social Reform Movements)
+
+Q.22 Which of the following statements about Mahatma Gandhi is INCORRECT?
+ A. Mahatma Gandhi was born in 1869 in Porbandar.
+ B. In 1942, he launched the Quit India Movement.
+ C. He led the Champaran Satyagraha in 1910.
+ D. He led the Dandi Salt March in 1930.
+ (Topic: Indian National Movement)
+
+Held on: 11-Sep-2023 | Shift: 1
+
+Q.1 In which year did the ‘Battle of Buxar’ take place?
+ A. 1764 CE
+ B. 1769 CE
+ C. 1757 CE
+ D. 1761 CE
+ (Topic: Battle of Buxar)
+
+Q.12 Who led the Congress in the second round table conference held in London?
+ A. Annie Besant
+ B. Sarojini Naidu
+ C. Jawahar Lal Nehru
+ D. Mahatma Gandhi
+ (Topic: Indian National Movement)
+
+Q.17 When was the first general election for Lok Sabha held in India?
+ A. 1950-51
+ B. 1949-50
+ C. 1948-49
+ D. 1951-52
+ (Topic: Post-Independence India)
+
+Q.20 Which famous Indian danseuse became the first woman to be nominated as a member of Rajya Sabha?
+ A. Rukmini Devi Arundale
+ B. Kamala Kumari
+ C. Sitara Devi
+ D. Mrinalini Sarabhai
+ (Topic: Modern Indian Personalities)
+
+Held on: 11-Sep-2023 | Shift: 3
+
+Q.12 Who led the Congress in the second Round Table Conference held in London?
+ A. Annie Besant
+ B. Sarojini Naidu
+ C. Jawahar Lal Nehru
+ D. Mahatma Gandhi
+
+(Topic: Indian National Movement)
+
+Q.18 Who received the title Pandita from the faculty of Calcutta University for her knowledge of Sanskrit?
+ A. Rokaya Sakhawat Hossain
+ B. Ramabai Sarasvati
+ C. Sarojini Naidu
+ D. Rash Sundari Devi
+
+(Topic: Social Reform Movements)
+
+Q.22 The mausoleum of the Taj Mahal was designed by _____________.
+ A. Bhaktiyar Lahori
+ B. Mohammad Isha
+ C. Shah Jahan
+ D. Ustad Ahmad Lahori
+
+(Topic: Mughal Architecture)
+
+Q.23 What was the Swadeshi Movement called in the state of Andhra Pradesh?
+ A. Gadar Movement
+ B. Quit India Movement
+ C. Khilafat Movement
+ D. Vande Mataram Movement
+
+(Topic: Swadeshi Movement)
+
+
+
+Held on: 12-Sep-2023 | Shift: 3
+
+Q.5 The Taj Mahal was built by:
+ A. Humayun
+ B. Jahangir
+ C. Akbar
+ D. Shah Jahan
+
+(Topic: Mughal Architecture)
+
+Q.11 Indian Industrialists reacted against colonial policies that restricted business activities and formed an organisation in 1927. What was it called?
+ A. Indian Industrial and Commercial Congress (IICC)
+ B. Organization of Industries of India (OII)
+ C. Federation of the Indian Chamber of Commerce and Industries (FICCI)
+ D. Confederation of Indian Industries (CII)
+
+(Topic: Colonial India)
+
+Q.12 Who founded the All-India Forward Bloc Party?
+ A. Chandra Shekar Azad
+ B. Bhagat Singh
+ C. Rasbehari Bose
+ D. Subhas Chandra Bose
+
+(Topic: Indian National Movement)
+
+Q.20 What is the name of the mascot for the 37th National Games?
+ A. Jelly
+ B. Pandi
+ C. Olly
+ D. Moga
+
+(Topic: Historic Sports Event GK)
+
+Held on: 13-Sep-2023 | Shift: 1
+
+Q.15 In the context of the Revolt of 1857, Mangal Pandey belonged to which Bengal Native Infantry?
+ A. 34
+ B. 52
+ C. 70
+ D. 64
+ (Topic: Revolt of 1857)
+
+Q.23 In the 1939 Tripuri Congress Presidential Election, Pattabhi Sitaramayya was defeated by:
+ A. Mahatma Gandhi
+ B. Rajendra Prasad
+ C. Subhas Chandra Bose
+ D. Jawaharlal Nehru
+ (Topic: Indian National Congress)
+
+Held on: 13-Sep-2023 | Shift: 2
+
+Q.12 Consider the following statements about Abhinav Bharat Society.
+
+The society was a community of socialists believed in an armed revolution.
+The society was founded by Jaya Prakash Narayan.
+Mitra Mela, a revolutionary secret society was renamed Abhinav Bharat in 1904.
+
+Select the correct statement(s) using the codes given below.
+
+A. Both 1 and 2
+ B. 1, 2 and 3
+ C. Both 2 and 3
+ D. Both 1 and 3
+
+(Topic: Revolutionary Movement)
+
+Q.15 In the context of the Revolt of 1857, Mangal Pandey belonged to which Bengal Native Infantry?
+ A. 34
+ B. 52
+ C. 70
+ D. 64
+ (Topic: Revolt of 1857)
+
+Q.19 Which of the following was the first major and decisive victory for the East India Company on the soil of India?
+ A. Battle of Sindhuli
+ B. First Anglo-Maratha War
+ C. Battle of Plassey
+ D. Battle of Tiruvannamalai
+ (Topic: Modern Indian History)
+
+Q.23 In the 1939 Tripuri Congress Presidential Election, Pattabhi Sitaramayya was defeated by:
+ A. Mahatma Gandhi
+ B. Rajendra Prasad
+ C. Subhas Chandra Bose
+ D. Jawaharlal Nehru
+ (Topic: Indian National Congress)
+
+Held on: 13-Sep-2023 | Shift: 3
+
+Q.12 Consider the following statements about Abhinav Bharat Society.
+
+The society was a community of socialists believed in an armed revolution.
+The society was founded by Jaya Prakash Narayan.
+Mitra Mela, a revolutionary secret society was renamed Abhinav Bharat in 1904.
+
+Select the correct statement(s) using the codes given below.
+
+A. Both 1 and 2
+ B. 1, 2 and 3
+ C. Both 2 and 3
+ D. Both 1 and 3
+ (Topic: Revolutionary Movement)
+
+Q.19 Which of the following was the first major and decisive victory for the East India Company on the soil of India?
+ A. Battle of Sindhuli
+ B. First Anglo-Maratha War
+ C. Battle of Plassey
+ D. Battle of Tiruvannamalai
+ (Topic: Modern Indian History)
+
+Q.21 Paryushana Parva is a festival of which of the following communities?
+ A. Jain
+ B. Christian
+ C. Parsi
+ D. Hindu
+ (Topic: Jain History & Culture)
+
+Held on: 14-Sep-2023 | Shift: 1
+
+Q.6 Under which Act was the rule of British Crown established over India?
+ A. Government of India Act 1833
+ B. Charter Act of 1813
+ C. Regulating Act of 1773
+ D. Government of India Act 1858
+ (Topic: British India)
+
+Q.12 Which of the following was the first Satyagraha Movement led by Mahatma Gandhi in British India?
+ A. Champaran Satyagraha
+ B. Kheda Satyagraha
+ C. Rowlatt Satyagraha
+ D. Bardoli Satyagraha
+ (Topic: Indian National Movement)
+
+Q.22 On whose advice did Gandhiji spend a year travelling around British India to know the people of India?
+ A. Krishnashankar Pandya
+ B. Mohammad Ali Jinnah
+ C. Shrimad Rajchandra
+ D. Gopal Krishna Gokhale
+ (Topic: Mahatma Gandhi)
+
+Held on: 14-Sep-2023 | Shift: 2
+
+Q.1 Swami Dayanand Saraswati founded a reform organisation in 1875 that attempted to reform Hinduism. What was it called?
+ A. Arya Samaj
+ B. Prarthna Samaj
+ C. Satyashodhak Samaj
+ D. Brahmo Samaj
+ (Topic: Social Reform Movements)
+
+Q.2 The Brihadeswara Temple at Tanjavur built by:
+ A. Rajaraja II
+ B. Samudragupta
+ C. Rajendra Chola
+ D. Rajaraja I
+ (Topic: Chola Dynasty)
+
+Q.6 Under which Act was the rule of British Crown established over India?
+ A. Government of India Act 1833
+ B. Charter Act of 1813
+ C. Regulating Act of 1773
+ D. Government of India Act 1858
+ (Topic: British India)
+
+Q.17 निम्नलिखित में से कौन-सी घटना 1919 में घटित हुई थी?
+ A. चार्टर एक्ट का नवीनीकरण
+ B. जनप्रतिनिधित्व अधिनियम पारित किया गया
+ C. ठगी एवं डकैती दमन अधिनियम पारित किया गया
+ D. रौलेट एक्ट के विरुद्ध सत्याग्रह
+ (Topic: Indian National Movement)
+
+Q.22 On whose advice did Gandhiji spend a year travelling around British India to know the people of India?
+ A. Krishnashankar Pandya
+ B. Mohammad Ali Jinnah
+ C. Shrimad Rajchandra
+ D. Gopal Krishna Gokhale
+ (Topic: Mahatma Gandhi)
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.1 Swami Dayanand Saraswati founded a reform organisation in 1875 that attempted to reform Hinduism. What was it called?
+ A. Arya Samaj
+ B. Prarthna Samaj
+ C. Satyashodhak Samaj
+ D. Brahmo Samaj
+ (Topic: Social Reform Movements)
+
+Q.2 The Brihadeswara Temple at Tanjavur built by:
+ A. Rajaraja II
+ B. Samudragupta
+ C. Rajendra Chola
+ D. Rajaraja I
+ (Topic: Chola Dynasty)
+
+Q.6 Where was All India Muslim League formed in 1906?
+ A. Agra
+ B. Dhaka
+ C. Lahore
+ D. Delhi
+ (Topic: Modern Indian History)
+
+Q.17 निम्नलिखित में से कौन-सी घटना 1919 में घटी थी?
+ A. चार्टर एक्ट का नवीनीकरण
+ B. जन प्रतिनिधित्व अधिनियम पारित किया गया
+ C. ठगी एवं डकैती दमन अधिनियम पारित किया गया
+ D. रौलेट एक्ट के विरुद्ध सत्याग्रह
+ (Topic: Indian National Movement)
+
+                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.1 Twenty five percent of the land revenue collected by Marathas in the Deccan was called ________.
+ A. Bhoga
+ B. Sardeshmukhi
+ C. Chauth
+ D. Bhaga
+ (Topic: Maratha Administration)
+
+Q.10 According to the Ashokan inscription which of the following was NOT a provincial centre in Mauryan Empire?
+ A. Tosali
+ B. Ujjayini
+ C. Taxila
+ D. Indraprastha
+ (Topic: Mauryan Empire)
+
+Q.15 In the 18th century, the development of cotton industries in Britain resulted in ______.
+ A. Increase in demand of Indian textile in Britain
+ B. Decline of textiles production in India
+ C. Increase in demand of Indian textile in India
+ D. Decline of British textiles industries in India
+ (Topic: Colonial India)
+
+Q.18 The Temple at Khajuraho were built during which dynasty?
+ A. Maurya dynasty
+ B. Chandella dynasty
+ C. Nanda dynasty
+ D. Vijayanagara dynasty
+ (Topic: Medieval Indian History)
+
+Q.25 First session of Indian National Congress held in ________.(Repeated - 2 times)
+ A. Calcutta
+ B. Bombay
+ C. Surat
+ D. Lahore
+ (Topic: Indian National Congress)
+
+
+
+Held on: 05-Jul-2022 | Shift: 1
+
+Q.9 Aihole was the capital of the ________.
+ A. Chalukyas
+ B. Pallavas
+ C. Pandayas
+ D. Cholas
+ (Topic: Ancient Indian History)
+
+Q.10 Who among the following devised the policy ‘Doctrine of Lapse’?
+ A. Lord Dalhousie
+ B. Lord Mountbatten
+ C. Lord Cornwallis
+ D. Lord Canning
+ (Topic: British India)
+
+Q.16 At which Buddhist site of India did Gautama Buddha first preach the Dharma?
+ A. Kushinagar
+ B. Barabar Caves
+ C. Bodh Gaya
+ D. Sarnath
+ (Topic: Buddhism)
+
+Q.17 The Treaty of Lahore was signed in 1846 between the British empire and ________.
+ A. Maharaja Kharak Singh
+ B. Maharani Chand Kaur
+ C. Maharaja Ranjit Singh
+ D. Maharaja Duleep Singh
+ (Topic: Sikh History)
+
+Q.24 Ghiyasuddin Balban (1265-1286 AD), ruler of the Slave dynasty, took up the title of ________.
+ A. Nur-al-Din (light of the faith)
+ B. NurMahal (light of the palace)
+ C. Zil-i-Ilahi (shadow of God)
+ D. JahanPanah (protector of the world)
+ (Topic: Delhi Sultanate)
+
+Held on: 05-Jul-2022 | Shift: 2
+
+Q.9 Who among the following was NOT a ruler of the Tughlaq dynasty?
+ A. Muhammad-Bin-Tughlaq
+ B. Rukunuddin Tughlaq
+ C. Ghiyasuddin Tughlaq
+ D. Firuz Shah Tughlaq
+ (Topic: Delhi Sultanate)
+
+Q.12 What was the pedestrian path for devotees to walk in homage to Stupa called in Buddhist architecture?
+ A. Medhi
+ B. Torana
+ C. Anda
+ D. Chattra
+ (Topic: Buddhist Architecture)
+
+Q.16 Who among the following Mauryan rulers fought the Kalinga War in 261 BC?
+ A. Ashoka
+ B. Bindusara
+ C. Brihadratha
+ D. Chandragupta Maurya
+ (Topic: Mauryan Empire)
+
+Q.22 In a drama, Naresh spoke, “Swaraj is my birth right and I shall have it.” Who among the following Indian freedom fighters said this slogan?
+ A. Ambika Charan Majumdar
+ B. Lokmanya Bal Gangadhar Tilak
+ C. Mahatma Gandhi
+ D. Bhagat Singh
+ (Topic: Indian National Movement)
+
+Held on: 05-Jul-2022 | Shift: 3
+
+Q.9 चोलों के शासनकाल में, किसी विद्यालय के रखरखाव के लिए दी गई भूमि को _________ के रूप में जाना जाता था।
+ A. ब्रह्मदेय
+ B. शालाभोग
+ C. वेलानवगाई
+ D. देवदान
+ (Topic: Chola Administration)
+
+Q.11 Consider the following statements about a fort:
+
+It was originally known as Mankal.
+It was built on a hilltop in the year 1143.
+
+In above mentioned statements, which fort is being talked about?
+
+A. Chitradurg Fort
+ B. Daulatabad Fort
+ C. Fort Aguada
+ D. Golconda Fort
+ (Topic: Medieval Indian History)
+
+Q.12 Who among the following persuaded Mahatma Gandhi to allow women to join the Salt Satyagraha movement?
+ A. Kamaladevi Chattopadhyay
+ B. Annie Besant
+ C. Ashalata Sen
+ D. Ambabai
+ (Topic: Indian National Movement)
+
+Q.13 Rulers of Mahajanapadas in ancient India collected taxes on crops at the rate of ______ of what was produced.
+ A. 1/3rd
+ B. 1/5th
+ C. 1/6th
+ D. 1/4th
+ (Topic: Mahajanapadas)
+
+Held on: 06-Jul-2022 | Shift: 1
+
+Q.1 Alluri Sitaram Raju was a tribal freedom fighter from which state of India?
+ A. Bihar
+ B. Maharashtra
+ C. Andhra Pradesh
+ D. Gujarat
+ (Topic: Tribal Freedom Movement)
+
+Q.6 In which type of Megalith (grave/memorial) were the stone pieces set in a circular shape around the grave?
+ A. Cairn circle
+ B. Dolmen
+ C. Rock cut cave
+ D. Menhir
+ (Topic: Megalithic Culture)
+
+Q.7 Who among the following was Akbar’s revenue minister?
+ A. Tansen
+ B. Todar Mal
+ C. Raja Man Singh
+ D. Birbal
+ (Topic: Mughal Administration)
+
+Q.9 चोलों के शासनकाल में, किसी विद्यालय के रखरखाव के लिए दी गई भूमि को _________ के रूप में जाना जाता था।
+ A. ब्रह्मदेय
+ B. शालाभोग
+ C. वेलानवगाई
+ D. देवदान
+ (Topic: Chola Administration)
+
+Q.16 Who among the following freedom fighters of India revived the Indian National Army ‘Azad Hind Fauj’ (which was formed in 1942 by Rash Behari Bose and Captain-General Mohan Singh) in the year 1943?
+ A. Mahatma Gandhi
+ B. Jawaharlal Nehru
+ C. Bhagat Singh
+ D. Subhas Chandra Bose
+ (Topic: Indian National Movement)
+
+Held on: 06-Jul-2022 | Shift: 2
+
+Q.8 In which of the following sites of Indus Valley Civilisation was ‘The Great Bath’ found?
+ A. Kalibangan
+ B. Dholavira
+ C. Lothal
+ D. Mohenjo-Daro
+ (Topic: Indus Valley Civilization)
+
+Q.14 In which year was the Child Marriage Restraint Act passed in India?
+ A. 1929
+ B. 1931
+ C. 1935
+ D. 1933
+ (Topic: Social Reform Movements)
+
+Q.18 __________ founded Satyashodhak Samaj, which campaigned against idolatry and the caste system.
+ A. Keshab Chandra Sen
+ B. Raja Ram Mohan Roy
+ C. Debendranath Tagore
+ D. Jyotirao Govindrao Phule
+ (Topic: Social Reform Movements)
+
+Q.24 Which of the following is the correct chronological order of the rulers of the Tughluq dynasty who ruled over Delhi from the year 1320 to 1414?
+ A. Ghiyasuddin Tughluq, Firuz Shah Tughluq, Muhammad Tughluq
+ B. Firuz Shah Tughluq, Muhammad Tughluq, Ghiyasuddin Tughluq
+ C. Ghiyasuddin Tughluq, Muhammad Tughluq, Firuz Shah Tughluq
+ D. Muhammad Tughluq, Firuz Shah Tughluq, Ghiyasuddin Tughluq
+ (Topic: Delhi Sultanate)
+
+Held on: 06-Jul-2022 | Shift: 3
+
+Q.3 Who among the following took the title of ‘Ghazi’ after defeating Rana Sanga in the Battle of Khanwa in 1527?
+ A. Babur
+ B. Daulat Khan Lodhi
+ C. Humayun
+ D. Mahmud Shah I
+ (Topic: Mughal Empire)
+
+Q.7 Which Mauryan ruler was called ‘Amitrochates’ by the Greeks?
+ A. Samudragupta
+ B. Chandragupta I
+ C. Bindusara
+ D. Kanishka
+ (Topic: Mauryan Empire)
+
+Q.16 Which of the following was a revolutionary organisation formed outside India in 1913?
+ A. Bharatiya Janata Party
+ B. Simon Commission
+ C. Ghadar Party
+ D. Indian National Congress
+ (Topic: Revolutionary Movement)
+
+Q.21 Which of the following socio religious communities was founded by Raja Ram Mohan Roy?
+ A. Akali Dal
+ B. Prarthana Samaj
+ C. Arya Samaj
+ D. Brahmo Samaj
+ (Topic: Social Reform Movements)
+
+Held on: 07-Jul-2022 | Shift: 1
+
+Q.2 In which year did Bhagat Singh and BK Dutt throw a bomb in the Central Legislative Assembly?
+ A. 1928
+ B. 1929
+ C. 1930
+ D. 1931
+ (Topic: Indian National Movement)
+
+Q.3 Who among the following took the title of ‘Ghazi’ after defeating Rana Sanga in the Battle of Khanwa in 1527?
+ A. Babur
+ B. Daulat Khan Lodhi
+ C. Humayun
+ D. Mahmud Shah I
+ (Topic: Mughal Empire)
+
+Q.7 Which Mauryan ruler was called ‘Amitrochates’ by the Greeks?
+ A. Samudragupta
+ B. Chandragupta I
+ C. Bindusara
+ D. Kanishka
+ (Topic: Mauryan Empire)
+
+Q.13 Manuscripts were usually written on:
+ A. marbles
+ B. palm leaf
+ C. tulsi leaves
+ D. iron
+ (Topic: Ancient India)
+
+Q.18 Rajaraja I, the most powerful Chola ruler, became king in ______ C.E.
+ A. 985
+ B. 970
+ C. 977
+ D. 995
+ (Topic: Chola Dynasty)
+
+Held on: 07-Jul-2022 | Shift: 2
+
+Q.4 Harishena was a court poet of ______.
+ A. Bindusara
+ B. Samudragupta
+ C. Bimbisara
+ D. Ashoka
+ (Topic: Gupta Empire)
+
+Q.8 Which of the following is the largest stupa in India?
+ A. Kesariya
+ B. Dhamekh
+ C. Amaravati
+ D. Bharhut
+ (Topic: Buddhist History)
+
+Q.16 Which of the given statements is correct?
+ I. When Alivardi Khan died in 1756, Siraj-ud-daulah became the nawab of Bengal.
+ II. In 1757, Robert Clive led the company’s army against Siraj-ud-daulah at Plassey.
+
+A. Only II
+ B. Neither I nor II
+ C. Only I
+ D. Both I and II
+ (Topic: Modern Indian History)
+
+Q.18 Hojagiri is a folk dance of which state of India?
+ A. Goa
+ B. Karnataka
+ C. Tripura
+ D. Uttar Pradesh
+ (Topic: Indian Heritage & History)
+
+Q.23 Raziya Sultan was the daughter of ______.
+ A. Babur
+ B. Qutubuddin Aibak
+ C. Iltutmish
+ D. Akbar
+ (Topic: Delhi Sultanate)
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.4 Harishena was a court poet of _______.
+ A. Bindusara
+ B. Samudragupta
+ C. Bimbisara
+ D. Ashoka
+ (Topic: Gupta Empire)
+
+Q.7 In which year did the Mongols under Genghis Khan invade Transoxiana in North-East Iran?
+ A. 1219
+ B. 1208
+ C. 1213
+ D. 1205
+ (Topic: Medieval World History)
+
+Q.14 The Begums of Bhopal founded a primary school for girls in the early twentieth century at ______.
+ A. Lahore
+ B. Bombay
+ C. Aligarh
+ D. Pune
+ (Topic: Modern Indian History)
+
+Q.16 Which of the given statements is correct?
+ I. When Alivardi Khan died in 1756, Siraj-ud-daulah became the nawab of Bengal.
+ II. In 1757, Robert Clive led the company’s army against Siraj-ud-daulah at Plassey.
+
+A. Only II
+ B. Neither I nor II
+ C. Only I
+ D. Both I and II
+ (Topic: Modern Indian History)
+
+Q.23 Raziya Sultan was the daughter of ______.
+ A. Babur
+ B. Qutubuddin Aibak
+ C. Iltutmish
+ D. Akbar
+ (Topic: Delhi Sultanate)
+
+Held on: 08-Jul-2022 | Shift: 1
+
+Q.7 In which year did the Mongols under Genghis Khan invade Transoxiana in North-East Iran?
+ A. 1219
+ B. 1208
+ C. 1213
+ D. 1205
+ (Topic: Medieval History)
+
+Q.14 The Begums of Bhopal founded a primary school for girls in the early twentieth century at ______.
+ A. Lahore
+ B. Bombay
+ C. Aligarh
+ D. Pune
+ (Topic: Modern Indian History)
+
+Q.17 In the 18th century, the British fought ______ wars with the Mysore rulers.
+ A. Two
+ B. Six
+ C. Three
+ D. Four
+ (Topic: Anglo-Mysore Wars)
+
+Q.21 Who, with the help of Kautilya, overthrew Dhanananda, the last Nanda ruler, in 322 BC?
+ A. Ashoka
+ B. Chandragupta Maurya
+ C. Akbar
+ D. Kalashoka
+ (Topic: Mauryan Empire)
+
+Held on: 08-Jul-2022 | Shift: 3
+
+Q.5 Which of the following is the earliest form of Veda?
+ A. Atharva Veda
+ B. Sama Veda
+ C. Yajur Veda
+ D. Rig Veda
+ (Topic: Vedic Period)
+
+Q.14 Who among the following began the Suddhi Movement, which enabled the Hindus who had accepted Islam or Christianity to return to Hinduism, their original faith?
+ A. Ramakrishna Paramhamsa
+ B. Keshab Chandra Sen
+ C. Narendra Nath Dutta
+ D. Dayanand Saraswati
+ (Topic: Arya Samaj Movement)
+
+Q.16 Who among the following was the first Muslim woman ruler of medieval India from 1236 to 1240 AD?
+ A. Razia Sultana
+ B. Sultana Chand Bibi
+ C. Rani Mangammal
+ D. Begum Samru
+ (Topic: Delhi Sultanate)
+
+Q.23 Which of the following statements is correct?
+ I. Robert Clive had come to Madras from England in 1743 at the age of 18.
+ II. After the battle of Buxar, the East India Company appointed Residents in Indian states.
+
+A. Only I
+ B. Neither I nor II
+ C. Only II
+ D. Both I and II
+ (Topic: British India)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.5 Which of the following is the earliest form of Veda?
+ A. Atharva Veda
+ B. Sama Veda
+ C. Yajur Veda
+ D. Rig Veda
+ (Topic: Vedic Period)
+
+Q.14 Who among the following began the Suddhi Movement, which enabled the Hindus who had accepted Islam or Christianity to return to Hinduism, their original faith?
+ A. Ramakrishna Paramhamsa
+ B. Keshab Chandra Sen
+ C. Narendra Nath Dutta
+ D. Dayanand Saraswati
+ (Topic: Arya Samaj Movement)
+
+Q.16 Who among the following was the first Muslim woman ruler of medieval India from 1236 to 1240 AD?
+ A. Razia Sultana
+ B. Sultana Chand Bibi
+ C. Rani Mangammal
+ D. Begum Samru
+ (Topic: Delhi Sultanate)
+
+Q.23 Which of the following statements is correct?
+ I. Robert Clive had come to Madras from England in 1743 at the age of 18.
+ II. After the battle of Buxar, the East India Company appointed Residents in Indian states.
+
+A. Only I
+ B. Neither I nor II
+ C. Only II
+ D. Both I and II
+ (Topic: British India)
+
+Held on: 11-Jul-2022 | Shift: 1
+
+Q.5 Who was the first ruler of Ilbari dynasty (Delhi Sultanate)?
+ A. Qutubuddin Aibak
+ B. Ghiyasuddin Tughlaq
+ C. Iltutmish
+ D. Raziya Sultan
+ (Topic: Delhi Sultanate)
+
+Q.8 Which of the following was the capital of Mahajanapada Gandhara in 6th century BC?
+ A. Hastinapur
+ B. Mathura
+ C. Taxila
+ D. Varanasi
+ (Topic: Mahajanapadas)
+
+Q.11 What was the main reason for the defeat of Sirajuddaulah at the Battle of Plassey?
+ A. Britishers cut the food supplies of Sirajuddaulah forces compelling them to surrender.
+ B. Forces led by commander Mir Jafar never fought the battle.
+ C. Sirajuddaulah’s prime minister misinformed the location of Britishers.
+ D. Britishers knew the secret way to enter Sirajuddaulah’s palace.
+ (Topic: Battle of Plassey)
+
+Q.12 Who was the Viceroy of India when Morley-Minto Reforms were introduced?
+ A. Lord Linlithgow
+ B. Lord Attlee
+ C. Lord Minto
+ D. Lord Wavell
+ (Topic: British India)
+
+Q.20 In which year was Sri Lanka discovered by the Portuguese?
+ A. 1545
+ B. 1678
+ C. 1505
+ D. 1670
+ (Topic: World History Linkages)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.3 In which year did the British Government announce Morley-Minto Reforms in India?
+ A. 1905
+ B. 1919
+ C. 1932
+ D. 1909
+ (Topic: Morley-Minto Reforms)
+
+Q.20 In which year was Sri Lanka discovered by the Portuguese?
+ A. 1545
+ B. 1678
+ C. 1505
+ D. 1670
+ (Topic: World History)
+
+Q.22 In which of the following years did the Congress Party led by Indira Gandhi give the slogan of 'Garibi Hatao' ('Remove poverty') in the Lok Sabha elections?
+ A. 1957
+ B. 1962
+ C. 1977
+ D. 1971
+ (Topic: Indian Political History)
+
+Q.25 In which year was the office of the first Accountant General established in India?
+ A. 1858
+ B. 1845
+ C. 1890
+ D. 1867
+ (Topic: British Administration in India)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.121 Sun Yat Sen was the leader of:
+ A. Taiping Rebellion
+ B. Boxer Revolt
+ C. CPC Party
+ D. KMT Party
+ (Topic: World History)
+
+Q.126 Pillared halls where the Buddhist monks worshipped were known as:
+ A. Chaityas
+ B. Mathas
+ C. Viharas
+ D. Stupas
+ (Topic: Buddhist History)
+
+Q.132 Who among the following built the Golden Temple at Amritsar?
+ A. Guru Gobind Singh
+ B. Guru Teg Bahadur
+ C. Guru Nanak
+ D. Guru Arjun Dev
+ (Topic: Sikh History)
+
+Q.147 The title of 'Gangai Kondan' was adopted by the following Chola King:
+ A. Vijayalaya
+ B. Karikala
+ C. Rajaraja I
+ D. Rajendra I
+ (Topic: Chola Dynasty)
