@@ -1,0 +1,1972 @@
+File name: SPORTS.txt
+Language: 
+Held on: 06-Feb-2026 | Shift: 1
+
+Q.54 Which of the following players in a sports match typically does NOT wear gloves as part of their standard equipment?
+ A. A Football Goalkeeper
+ B. A Boxing Athlete
+ C. A Basketball Player
+ D. A Cricket Wicketkeeper
+ (Topic: Sports Equipment)
+
+Q.55 The term “Powerplay” in cricket is related to which part of the game?
+ A. Batting strategy restrictions
+ B. Fielding restrictions
+ C. Bowling speed limits
+ D. Umpiring decisions
+ (Topic: Cricket)
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Q.50 Thomas Cup, a Badminton Championship, was first held in _____.
+ A. 1966
+ B. 1944
+ C. 1948
+ D. 1952
+ (Topic: Badminton)
+
+Q.55 Duration of a handball game is _____ minutes.
+ A. 50
+ B. 40
+ C. 60
+ D. 70
+ (Topic: Handball)
+
+Held on: 12-Feb-2026 | Shift: 3
+
+Q.42 The term "Ippon" is related to which of the following sports?
+ A. Badminton
+ B. Kabaddi
+ C. Judo
+ D. Kho-Kho
+ (Topic: Judo)
+
+Q.55 Which of the following is NOT a Jumping event in sports?
+ I. Pole Vault
+ II. Discus Throw
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Athletics)
+
+Held on: 12-Feb-2026 | Shift: 2
+
+Q.68 In February _____, the International Olympic Committee (IOC) convened the First World Conference on Doping in Sport in Switzerland.
+ A. 1999
+ B. 2002
+ C. 2005
+ D. 2009
+ (Topic: Olympics & Doping)
+
+Q.71 Who among the following has won the Dronacharya Award 2024 for Hockey?
+ A. Sandeep Sangwan
+ B. Sucha Singh
+ C. Sajan Prakash
+ D. Manisha Ramadass
+ (Topic: Sports Awards)
+
+Q.75 Penalty line and free throw line are the terms related to which of the following sports?
+ A. Lawn Tennis
+ B. Handball
+ C. Cricket
+ D. Badminton
+ (Topic: Handball)
+
+Held on: 12-Feb-2026 | Shift: 1
+
+Q.71 In competition of wrestling, the refereeing for each bout shall consist which of the following?
+
+I. Mat Chairman
+ II. Referee
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Wrestling)
+
+Q.78 In which year, was the first National Judo Championship held in India?
+ A. 1966
+ B. 1988
+ C. 1976
+ D. 1956
+ (Topic: Judo)
+
+Held on: 11-Feb-2026 | Shift: 3
+
+Q.73 Which of the following sports event does NOT use a stick?
+ A. Javelin Throw
+ B. Hockey
+ C. Pole Vault
+ D. Shot Put
+ (Topic: Sports)
+
+Q.78 Which of the following is a specific exercise of warm-up for a Kho-Kho match?
+
+I. Frog jump
+ II. Zig-Zag running
+
+A. Only I
+ B. Only II
+ C. Both I and II
+ D. Neither I nor II
+ (Topic: Kho-Kho)
+
+Held on: 30-Sep-2024 | Shift: 1
+
+Q.2 Who was the captain of Royal Challengers Bangalore in the Women's Premier League event 2023?
+ A. Harmanpreet Kaur
+ B. Shafali Verma
+ C. Deepti Sharma
+ D. Smriti Mandhana
+ (Topic: Cricket / Women's Premier League)
+
+Q.10 With which sport is Sanjana Bathula associated?
+ A. Roller skating
+ B. Shooting
+ C. Squash
+ D. Badminton
+ (Topic: Sports Personalities
+
+                 @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 30-Sep-2024 | Shift: 2
+
+Q.10 The term 'foot fault' is associated with which of the following games?
+ A. Basketball
+ B. Hockey
+ C. Tennis
+ D. Archery
+ (Topic: Tennis)
+
+Q.15 In which of the following events did India get its first individual Olympic gold medal?
+ A. Boxing
+ B. Weightlifting
+ C. Wrestling
+ D. Shooting
+ (Topic: Olympics)
+
+Held on: 30-Sep-2024 | Shift: 3
+
+Q.2 The first post-independence National Games were hosted by which of the following cities?
+ A. Lucknow
+ B. Madras
+ C. Jabalpur
+ D. Delhi
+ (Topic: National Games)
+
+Q.23 Which country won the 4th Asian Kho-Kho Championship 2023 event in the Men's category?
+ A. Iran
+ B. India
+ C. South Korea
+ D. Indonesia
+ (Topic: Kho-Kho)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.2 Who was the Indian match referee in the ICC - T20 World Cup 2021 tournament?
+ A. Venkatesh Prasad
+ B. Sunil Gavaskar
+ C. Rahul Dravid
+ D. Javagal Srinath
+ (Topic: Cricket)
+
+Q.9 In which stadium did Indian cricketer Saurav Ganguly take off and wave his t-shirt?
+ A. The Melbourne Cricket Ground, Australia
+ B. Cape Town Stadium, South Africa
+ C. Perth Stadium, Australia
+ D. Lord’s Stadium, England
+ (Topic: Cricket)
+
+Held on: 01-Oct-2024 | Shift: 1
+
+Q.2 Who was the Indian match referee in the ICC - T20 World Cup 2021 tournament?
+ A. Venkatesh Prasad
+ B. Sunil Gavaskar
+ C. Rahul Dravid
+ D. Javagal Srinath
+ (Topic: Cricket)
+
+Q.9 In which stadium did Indian cricketer Saurav Ganguly take off and wave his t-shirt?
+ A. The Melbourne Cricket Ground, Australia
+ B. Cape Town Stadium, South Africa
+ C. Perth Stadium, Australia
+ D. Lord’s Stadium, England
+ (Topic: Cricket)
+
+Held on: 01-Oct-2024 | Shift: 2
+
+Q.3 Which edition of the Intercontinental Cup event was played in India in 2023?
+ A. 5th
+ B. 10th
+ C. 1st
+ D. 3rd
+ (Topic: Football)
+
+Q.9 What is the name of Formula E’s first ever race in India, which was hosted in collaboration with the Telangana government?
+ A. The 2023 Greenko Hyderabad E-Prix
+ B. The 2023 Greenko Buddha Circuit E-Prix
+ C. The 2023 Mahindra Bangalore E-Prix
+ D. The 2023 Mahindra Mumbai E-Prix
+ (Topic: Motorsports)
+
+Held on: 07-Oct-2024 | Shift: 1
+
+Q.12 In the inaugural year of the Nehru Cup event for football in 1982, which team emerged as the winner of the first edition?
+ A. Australia
+ B. Poland
+ C. Ghana
+ D. Uruguay
+ (Topic: Football)
+
+Q.15 Which team won the Women's Asian Hockey Champions Trophy in 2023?
+ A. South Korea
+ B. Japan
+ C. India
+ D. Malaysia
+ (Topic: Hockey)
+
+Held on: 07-Oct-2024 | Shift: 3
+
+Q.17 Which team won the Ultimate Kho-Kho League Season 2 event?
+ A. Mumbai Khiladis
+ B. Chennai Quick Guns
+ C. Gujarat Giants
+ D. Telugu Yoddhas
+ (Topic: Kho-Kho)
+
+Q.20 Who among the following was the first Indian representative in modern Olympics?
+ A. Nilima Ghose
+ B. Milkha Singh
+ C. KD Jadhav
+ D. Norman Pritchard
+ (Topic: Olympics)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.5 In cycling, what is a 'peloton'?
+ A. A cycling technique for climbing hills
+ B. The finish line of a race
+ C. The starting line of a race
+ D. A group of riders in a tight pack during a race
+ (Topic: Cycling)
+
+Q.12 Who among the following was India's first cricket team captain?
+ A. Sunil Gavaskar
+ B. K Srikant
+ C. Navab Pataudi
+ D. CK Nayudu
+ (Topic: Cricket)
+
+Held on: 08-Oct-2024 | Shift: 1
+
+Q.5 In cycling, what is a 'peloton'?
+ A. A cycling technique for climbing hills
+ B. The finish line of a race
+ C. The starting line of a race
+ D. A group of riders in a tight pack during a race
+ (Topic: Cycling)
+
+Q.12 Who among the following was India's first cricket team captain?
+ A. Sunil Gavaskar
+ B. K Srikant
+ C. Navab Pataudi
+ D. CK Nayudu
+ (Topic: Cricket)
+
+Held on: 08-Oct-2024 | Shift: 2
+
+Q.4 India won its first Olympic gold in hockey in which of the following years?
+ A. 1936
+ B. 1928
+ C. 1932
+ D. 1940
+ (Topic: Hockey / Olympics)
+
+Q.15 What is the length of the men's kabaddi court?
+ A. 13 m
+ B. 17 m
+ C. 11 m
+ D. 15 m
+ (Topic: Kabaddi)
+
+Held on: 08-Oct-2024 | Shift: 3
+
+Q.11 Which edition of the Pro Kabaddi League was started in December 2023?
+ A. 10th
+ B. 11th
+ C. 12th
+ D. 8th
+ (Topic: Kabaddi)
+
+Q.13 A ______ happens in chess when a player gives up material during the initiation to seek some kind of compensation.
+ A. Gambit
+ B. Blockade
+ C. Nick
+ D. Castling
+ (Topic: Chess)
+
+Held on: 09-Oct-2024 | Shift: 1
+
+Q.1 Who among the following was the top run-scorer for India at the 1983 Cricket World Cup final with 38 runs?
+ A. Mohinder Amarnath
+ B. Kapil Dev
+ C. Krishnamachari Srikkanth
+ D. Sandeep Patil
+ (Topic: Cricket World Cup)
+
+Q.22 Where was the Intercontinental Football Cup 2023 organised?
+ A. Chandigarh
+ B. Jalpaiguri
+ C. Dispur
+ D. Bhubaneswar
+ (Topic: Football)
+
+Held on: 09-Oct-2024 | Shift: 2
+
+Q.15 The duration of bouts in each round of the International Boxing Association (AIBA Open Boxing) match for Elite and Youth Men’s and Women’s Competitions should be ________.
+ A. 5 minutes
+ B. 4 minutes
+ C. 2 minutes
+ D. 3 minutes
+ (Topic: Boxing)
+
+Q.16 India played its first test match cricket against which of the following countries?
+ A. West Indies
+ B. England
+ C. New Zealand
+ D. Australia
+ (Topic: Cricket)
+
+Held on: 09-Oct-2024 | Shift: 3
+
+Q.4 The Irani Cup is a first-class cricket competition played between the winner of the Ranji Trophy and which other team?
+ A. Board President's XI
+ B. Rest of India
+ C. India B
+ D. India A
+ (Topic: Cricket)
+
+Q.8 Which state finished second in the first edition of the Khelo India Para Games?
+ A. Rajasthan
+ B. Uttar Pradesh
+ C. Haryana
+ D. Madhya Pradesh
+ (Topic: Khelo India Games)
+
+Q.13 Usain Bolt shared the journey of his life in which of the following autobiographies?
+ A. Faster Than Lightning
+ B. Let Your Mind Run
+ C. Race of My Life
+ D. Running for My Life
+ (Topic: Sports Personalities)
+
+Held on: 14-Oct-2024 | Shift: 1
+
+Q.7 In weight lifting, when an athlete misses all three attempts in the snatch or the clean and jerk, failing to post a total, it is known as ________.
+ A. Bombing-out
+ B. Take-off
+ C. Attempt
+ D. Delivery
+ (Topic: Weightlifting)
+
+Q.16 Which of the following is a traditional game of India?
+ A. Basketball
+ B. Football
+ C. Kabaddi
+ D. Volleyball
+ (Topic: Traditional Sports)
+
+Held on: 14-Oct-2024 | Shift: 2
+
+Q.15 Neville Steven Joseph D'Souza is associated with which game?
+ A. Football
+ B. Tennis
+ C. Kabaddi
+ D. Wrestling
+ (Topic: Sports Personalities)
+
+Q.20 What is the stump height of a cricket wicket as per international standards?
+ A. 31 inches
+ B. 30 inches
+ C. 29 inches
+ D. 28 inches
+ (Topic: Cricket)
+
+Held on: 14-Oct-2024 | Shift: 3
+
+Q.7 Who became the first woman to win two gold medals in a single Para Asian Games event in 2023?
+ A. Sheetal Devi
+ B. Disha Dhayal
+ C. Neema Rani
+ D. Sarita Devi
+ (Topic: Para Asian Games)
+
+Q.14 Which state received the Sportstar ACES Best State for the Promotion of Sport award in 2024?
+ A. Odisha
+ B. Punjab
+ C. Haryana
+ D. Tamil Nadu
+ (Topic: Sports Awards)
+
+Held on: 15-Oct-2024 | Shift: 1
+
+Q.8 In which year was the first Senior Women's National Football Championship held in India?
+ A. 2000
+ B. 1995
+ C. 1992
+ D. 1950
+ (Topic: Football)
+
+Q.9 The GV Raja Memorial Trophy, Sir Ashutosh Mukherjee Trophy and Santosh Trophy are related to which of the following sports in India?
+ A. Hockey
+ B. Cricket
+ C. Tennis
+ D. Football
+ (Topic: Football)
+
+Held on: 15-Oct-2024 | Shift: 2
+
+Q.11 Minor points called 'Yuko' are part of which of the following sports?
+ A. Judo
+ B. Skating
+ C. Lawn bowls
+ D. Boxing
+ (Topic: Judo)
+
+Q.21 At which sports event in India is the Raja Bhalindra Singh Trophy awarded?
+ A. SGFI Games
+ B. Senior National Kabaddi Championship
+ C. National Games of India
+ D. Khelo India Youth Games
+ (Topic: National Games)
+
+Held on: 15-Oct-2024 | Shift: 3
+
+Q.1 Where was the inaugural match of the first edition of the Women's Premier League (WPL) organised in the year 2023?
+ A. Gujarat
+ B. Dharamshala
+ C. Mumbai
+ D. Bengaluru
+ (Topic: Women's Premier League)
+
+Q.11 Who was the highest run scorer in Men’s World Cup cricket - 2019?
+ A. Virat Kohli
+ B. Shikhar Dhawan
+ C. Rohit Sharma
+ D. DA Warner
+ (Topic: Cricket World Cup)
+
+Held on: 16-Oct-2024 | Shift: 1
+
+Q.14 Which city hosted the XXII Commonwealth Games 2022?
+ A. Birmingham
+ B. Gold Coast
+ C. Glasgow
+ D. Delhi
+ (Topic: Commonwealth Games)
+
+
+Q.17 In tennis, what is a 'love' score?
+ A. The highest possible score in a game
+ B. The score when the game is tied
+ C. The score when a player wins the first point in a game
+ D. The score when a player has zero points
+ (Topic: Sports Terminology)
+
+Held on: 16-Oct-2024 | Shift: 2
+
+Q.5 Who among the following became the first Indian to win a gold medal at the World Athletics Championships event?
+ A. Neeraj Chopra
+ B. Murli Shree Sankar
+ C. Milkha Singh
+ D. Duti Chand
+ (Topic: Athletics)
+
+Q.10 The first ICC Women's T20 Cricket World Cup was hosted by ________.
+ A. South Africa
+ B. Australia
+ C. England
+ D. India
+ (Topic: Cricket)
+
+Held on: 16-Oct-2024 | Shift: 3
+
+Q.9 Squash player Anahat Singh belongs to which city in India?
+ A. Haryana
+ B. Mumbai
+ C. Bengaluru
+ D. Delhi
+ (Topic: Sports Personalities)
+
+Q.23 To which state does Indian shooter Abhinav Bindra belong?
+ A. Rajasthan
+ B. Madhya Pradesh
+ C. Punjab
+ D. Uttarakhand
+ (Topic: Sports Personalities)
+
+Held on: 17-Oct-2024 | Shift: 1
+
+Q.20 What is the standard length of an Olympic-size swimming pool?
+ A. 40 metres
+ B. 60 metres
+ C. 50 metres
+ D. 70 metres
+ (Topic: Swimming)
+
+Q.21 Who among the following was the captain of the Indian cricket team during the 1983 Cricket World Cup event?(Repeated - 2 times)
+ A. Kapil Dev
+ B. Sachin Tendulkar
+ C. Mohinder Amarnath
+ D. Sandeep Patil
+ (Topic: Cricket World Cup)
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Q.15 Sachin Tendulkar scored his 100th international century against which country?
+ A. Australia
+ B. England
+ C. Bangladesh
+ D. Pakistan
+ (Topic: Cricket)
+
+Q.16 Which of the following para athletes is associated with the javelin throw event?
+ A. Sharad Kumar
+ B. Devendra Jhajharia
+ C. Pramod Bhagat
+ D. Karamjyoti Dalal
+ (Topic: Para Sports)
+
+Held on: 17-Oct-2024 | Shift: 3
+
+Q.7 How many chances does a high jumper get for overcoming a certain height?
+ A. Six chances
+ B. Three chances
+ C. Two chances
+ D. Four chances
+ (Topic: Athletics)
+
+Q.24 Ujjwala was the mascot of which national sports event held in 2023?
+ A. Khelo India University Games 2022
+ B. Khelo India Youth Games 2023
+ C. National Games 2023
+ D. Khelo India Para Games 2023
+ (Topic: Khelo India Games)
+
+Held on: 18-Oct-2024 | Shift: 1
+
+Q.7 Sunil Chhetri made history by becoming the first Indian to score a hat-trick in the Hero ISL, which came in the ________ edition.
+ A. 2016
+ B. 2013
+ C. 2014
+ D. 2015
+ (Topic: Football)
+
+Q.10 Which of the following is the first event in a triathlon?
+ A. Putting the shot
+ B. Running
+ C. Swimming
+ D. Cycling
+ (Topic: Triathlon)
+
+Held on: 18-Oct-2024 | Shift: 2
+
+Q.11 What is the standard length of a cricket pitch?
+ A. 20 yards
+ B. 18 yards
+ C. 22 yards
+ D. 24 yards
+ (Topic: Cricket)
+
+Q.12 Which of the following is an example of anaerobic activity?
+ A. Jumping
+ B. Skipping
+ C. Swimming
+ D. Walking
+ (Topic: Sports Science)
+
+Q.20 Which edition of the ODI Cricket World Cup was held in India in 2023?
+ A. 14th
+ B. 16th
+ C. 15th
+ D. 13th
+ (Topic: Cricket World Cup)
+
+Held on: 18-Oct-2024 | Shift: 3
+
+Q.1 Which edition of the Santosh Trophy event did Karnataka win in the 2022-23 season?
+ A. 76th
+ B. 73rd
+ C. 78th
+ D. 75th
+ (Topic: Football - Santosh Trophy)
+
+Q.12 ICC Women's T-20 Cricket World Cup is a/an _______ event.
+ A. triennial
+ B. annual
+ C. biennial
+ D. quarterly
+ (Topic: Cricket)
+
+Held on: 21-Oct-2024 | Shift: 1
+
+Q.21 The Border-Gavaskar Trophy is played between ________.
+ A. India and Pakistan
+ B. India and England
+ C. India and New Zealand
+ D. India and Australia
+ (Topic: Cricket)
+
+Q.25 Anahat Singh is associated with which of the following sports events?
+ A. Squash
+ B. Wrestling
+ C. Chess
+ D. Badminton
+ (Topic: Sports Personalities)
+
+Held on: 21-Oct-2024 | Shift: 2
+
+Q.13 Deodhar Trophy is given in ________.
+ A. Tennis
+ B. Hockey
+ C. Football
+ D. Cricket
+ (Topic: Cricket)
+
+Q.14 Which state topped the medal tally at the 37th National Games event held in Goa?
+ A. Maharashtra
+ B. Haryana
+ C. Kerala
+ D. Punjab
+ (Topic: National Games)
+
+Held on: 21-Oct-2024 | Shift: 3
+
+Q.15 Which of the following countries hosted the ACC Under-19 Asia Cup cricket in the year 2023?
+ A. Pakistan
+ B. Sri Lanka
+ C. India
+ D. UAE
+ (Topic: Cricket)
+
+Q.18 In the year 2010, Commonwealth Games was hosted by which of the following countries?
+ A. Canada
+ B. England
+ C. Australia
+ D. India
+ (Topic: Commonwealth Games)
+
+Held on: 22-Oct-2024 | Shift: 1
+
+Q.3 In which of the following years India hosted the Women's Asia Cup ODI Cricket?
+ A. 2006
+ B. 2005
+ C. 2007
+ D. 2004
+ (Topic: Cricket)
+
+Q.14 In which of the following Indian states is the M.A. Chidambaram Stadium located?
+ A. Karnataka
+ B. West Bengal
+ C. Tamil Nadu
+ D. Kerala
+ (Topic: Cricket Stadiums)
+
+Held on: 22-Oct-2024 | Shift: 2
+
+Q.10 In which of the following year did India win the ICC T20 Men's Cricket World Cup?
+ A. 2010
+ B. 2012
+ C. 2007
+ D. 2009
+ (Topic: Cricket)
+
+Q.19 How many titles did West Bengal win in the Santosh Trophy events up to the 2022-23 season?
+ A. 15
+ B. 30
+ C. 29
+ D. 32
+ (Topic: Football - Santosh Trophy)
+
+Held on: 22-Oct-2024 | Shift: 3
+
+Q.14 To which state does the Indian tennis player Sumit Nagal belong?
+ A. Maharashtra
+ B. Odisha
+ C. Haryana
+ D. Karnataka
+ (Topic: Sports Personalities)
+
+Q.16 Which of the following events and their hosts is correctly matched?
+ A. ICC World Cup Men Cricket 2015 – India, Sri Lanka, Bangladesh
+ B. ICC World Cup Men Cricket 2019 – England and Wales
+ C. ICC World Cup Men Cricket 2007 – England
+ D. ICC World Cup Men Cricket 2011 – Australia and New Zealand
+ (Topic: Cricket World Cup)
+
+Q.15 Which Indian Member of Parliament was given the 'India UK Outstanding Achievers Honour' in January 2023?
+ A. Hemant Shriram Patil
+ B. Haji Fazlur Rehman
+ C. Hanuman Beniwal
+ D. Raghav Chadha
+ (Topic: Sports & Public Recognition)
+
+Held on: 23-Oct-2024 | Shift: 1
+
+Q.4 Which of the following countries won the maximum number of T20 Women's Cricket World Cup titles?
+ A. West Indies
+ B. England
+ C. India
+ D. Australia
+ (Topic: Cricket)
+
+Q.13 Which track and field event has a water jump?
+ A. Hurdles running
+ B. Steeplechase
+ C. Decathlon
+ D. Cross country running
+ (Topic: Athletics)
+
+Held on: 23-Oct-2024 | Shift: 2
+
+Q.2 In the final match of the Asian Games ______ held in Jakarta, Indonesia, India secured gold by defeating South Korea with a score of 2-1 in football.
+ A. 1966
+ B. 1970
+ C. 1958
+ D. 1962
+ (Topic: Football / Asian Games)
+
+Q.5 In badminton, how high above the ground is the net positioned at the centre?
+ A. 5 feet
+ B. 4 feet
+ C. 6 feet
+ D. 5.5 feet
+ (Topic: Badminton)
+
+Held on: 23-Oct-2024 | Shift: 3
+
+Q.8 In badminton, how high above the ground is the net positioned at the edges?
+ A. 5.1 feet
+ B. 5.2 feet
+ C. 5.3 feet
+ D. 5.4 feet
+ (Topic: Badminton)
+
+Q.18 In which of the following years was India the host of Women's T20 World Cup Cricket?
+ A. 2016
+ B. 2010
+ C. 2012
+ D. 2014
+ (Topic: Cricket)
+
+Held on: 28-Oct-2024 | Shift: 1
+
+Q.15 In which of the following years did India NOT win an Olympic gold medal in hockey?
+ A. 1948
+ B. 1952
+ C. 1960
+ D. 1956
+ (Topic: Hockey)
+
+Q.19 In which sport is the term 'Dolphin Kick' commonly used?
+ A. Long Jump
+ B. Swimming
+ C. High Jump
+ D. Javelin Throw
+ (Topic: Swimming)
+
+Held on: 28-Oct-2024 | Shift: 2
+
+Q.18 Which country hosted the Football World Cup, 2022?
+ A. France
+ B. Argentina
+ C. Qatar
+ D. UAE
+ (Topic: FIFA World Cup)
+
+Held on: 28-Oct-2024 | Shift: 3
+
+Q.21 A three-time Olympian, PT Usha broke the Asian Games record in four events (200 m, 400 m, 400 m hurdles and 4 × 400 m relay) in ______.
+ A. Beijing, 1990
+ B. Seoul, 1986
+ C. New Delhi, 1982
+ D. Hiroshima, 1994
+ (Topic: Athletics / Asian Games)
+
+Q.24 At which Olympic Games did India receive its first Olympic medal in a shooting event?
+ A. London 2012
+ B. Beijing 2008
+ C. Tokyo 2022
+ D. Athens 2004
+ (Topic: Olympics / Shooting)
+
+Held on: 29-Oct-2024 | Shift: 1
+
+Q.9 Who became the first Indian woman to be inducted into the ICC Hall of Fame?
+ A. Diana Edulji
+ B. Jhulan Goswami
+ C. Mithali Raj
+ D. Purnima Rau
+ (Topic: Cricket)
+
+Q.19 How many gold medals did Maharashtra win to top the medal tally at the 37th National Games event held in Goa?
+ A. 80
+ B. 79
+ C. 72
+ D. 69
+ (Topic: National Games)
+
+Held on: 29-Oct-2024 | Shift: 2
+
+Q.18 ______ was/were the mascot(s) of the Women’s Asian Hockey Champions Trophy in 2023.
+ A. Juhi
+ B. Hansa
+ C. Blaze and Tonk
+ D. Yashi
+ (Topic: Hockey)
+
+Q.21 If the server manages to land a legal serve and the receiver is unable to return the ball, it is known as an ace and the server gets the point. Which of the following sport is referred here?
+ A. Wrestling
+ B. Shooting
+ C. Boxing
+ D. Tennis
+ (Topic: Tennis)
+
+Held on: 29-Oct-2024 | Shift: 3
+
+Q.4 Chip, Condor, Duff and Driver are some of the terms used in ________.
+ A. Swimming
+ B. Chess
+ C. Golf
+ D. Horse Polo
+ (Topic: Golf)
+
+Held on: 30-Oct-2024 | Shift: 1
+
+Q.9 Scissor style and Western Roll are the techniques used in:
+ A. High Jump
+ B. Long Jump
+ C. Pole Vault
+ D. Triple Jump
+ (Topic: Athletics)
+
+Q.24 In basketball, how many points are awarded when a basket is scored from outside the 6.25-metre line?
+ A. Six points
+ B. Five points
+ C. Two points
+ D. Three points
+ (Topic: Basketball)
+
+Held on: 30-Oct-2024 | Shift: 2
+
+Q.9 What is the term used for the line that a raider must cross to score points in Kabaddi?
+
+A. Baulk line
+ B. Bonus line
+ C. Half line
+ D. Centre line
+
+(Topic: Kabaddi)
+
+Q.15 In which year did Rohan Bopanna become World Number One in the Men's Doubles category of Lawn Tennis?
+
+A. 2017
+ B. 2023
+ C. 2015
+ D. 2024
+
+(Topic: Tennis)
+
+Held on: 30-Oct-2024 | Shift: 3
+
+Q.6 In which game are terms like break, cannons, cue, potting, and kissed commonly used?
+ A. Polo
+ B. Chess
+ C. Billiards
+ D. Golf
+ (Topic: Billiards)
+
+Q.22 Which Indian city hosted the Women's Asian Hockey Champions Trophy event in 2023?
+ A. New Delhi
+ B. Bhopal
+ C. Ranchi
+ D. Bhubaneshwar
+ (Topic: Hockey)
+
+
+Held on: 04-Nov-2024 | Shift: 1
+
+Q.1 When did the Hockey wizard Major Dhyan Chand make his Olympic debut?
+ A. 1936, Berlin
+ B. 1928, Amsterdam
+ C. 1932, Los Angeles
+ D. 1924, Paris
+ (Topic: Hockey)
+
+Q.14 Australia won the Men’s T20 World Cup Cricket in 2021 defeating New Zealand by _______.
+ A. 8 runs
+ B. 10 runs
+ C. 8 wickets
+ D. 10 wickets
+ (Topic: Cricket)
+
+
+Held on: 04-Nov-2024 | Shift: 2
+
+Q.3 Which of the following countries won its 8th Men's Asia Cup cricket title in 2023?
+ A. Sri Lanka
+ B. Bangladesh
+ C. Pakistan
+ D. India
+ (Topic: Cricket)
+
+Q.7 What does the term 'deuce' signify in tennis?
+ A. A fault in serving
+ B. The final point in a game
+ C. A tied score at 40-40
+ D. A let
+ (Topic: Tennis)
+
+Held on: 04-Nov-2024 | Shift: 3
+
+Q.8 Who became the first female armless archer to win a medal at the Para World Championship 2023?
+ A. Shikha Devi
+ B. Shreya Devi
+ C. Sheetal Devi
+ D. Seema Devi
+ (Topic: Para Sports)
+
+Q.21 What was the name of the official torch for the Khelo India University Games 2022?
+ A. Ujala
+ B. Mitra
+ C. Samarth
+ D. Shakti
+ (Topic: Khelo India Games)
+
+Held on: 05-Nov-2024 | Shift: 1
+
+Q.4 In which year did Roshan Mistry become the first Indian woman to win an Asian Games medal when she took silver in the 100-m sprint?
+ A. 1954 Asian Games
+ B. 1958 Asian Games
+ C. 1951 Asian Games
+ D. 1962 Asian Games
+ (Topic: Athletics)
+
+Q.22 What is the meaning of the term 'drop shot' in tennis?
+ A. A shot played softly and close to the net
+ B. A shot that hits the lines on the court
+ C. A powerful service
+ D. A powerful overhead shot
+ (Topic: Tennis)
+
+Held on: 05-Nov-2024 | Shift: 2
+
+Q.4 In which athletics event did Eldhose Paul win a gold medal at the Commonwealth Games 2022?
+ A. Javelin Throw
+ B. Triple Jump
+ C. Long Jump
+ D. Shot Put
+ (Topic: Athletics)
+
+Q.22 What is the meaning of the term 'drop shot' in tennis?
+ A. A shot played softly and close to the net
+ B. A shot that hits the line
+ C. A powerful service
+ D. A powerful overhead shot
+ (Topic: Tennis)
+
+Held on: 05-Nov-2024 | Shift: 3
+
+Q.1 A hockey ground is rectangular in shape, measuring 91.4 m in length and ______ in width.
+ A. 60 m
+ B. 50 m
+ C. 70 m
+ D. 55 m
+ (Topic: Hockey)
+
+Q.5 Where was the inaugural season of Ultimate Kho-Kho League held in 2022?
+ A. Thane
+ B. Bhusawal
+ C. Pune
+ D. Amravati
+ (Topic: Kho-Kho)
+
+Q.22 Shotgun (in shooting sport) is a ______ gauge whose calibre is 18.5 mm.
+ A. 15
+ B. 18
+ C. 12
+ D. 10
+ (Topic: Shooting Sports)
+
+Held on: 11-Nov-2024 | Shift: 1
+
+Q.12 In which weight category did Nitu Ghanghas win the IBA Women's World Boxing Championship event, 2023?
+ A. 50 kg
+ B. 48 kg
+ C. 81 kg
+ D. 75 kg
+ (Topic: Boxing)
+
+Q.18 What is the title of Sania Mirza's autobiography?(Repeated - 2 times)
+ A. Wings of Fire
+ B. Changing India
+ C. The Test of My Life
+ D. Ace Against Odds
+ (Topic: Sports Personalities)
+Held on: 11-Nov-2024 | Shift: 2
+
+Q.2 In the year 1940, the National Games were hosted by which of the following cities?
+ A. Patiala
+ B. Lahore
+ C. Lucknow
+ D. Bombay
+ (Topic: National Games)
+
+Q.21 Who among the following athletes was conferred with the Arjuna Award, 2021 by President Ram Nath Kovind?
+ A. Tajinder Pal Singh Toor
+ B. Arpinder Singh
+ C. Swapna Barman
+ D. Dutee Chand
+ (Topic: Athletics / Arjuna Award)
+
+Held on: 11-Nov-2024 | Shift: 3
+
+Q.12 Which team won the first edition of the Women's Premier League (WPL) event in the year 2023?
+ A. Gujarat Giants
+ B. Mumbai Indians
+ C. Delhi Capitals
+ D. Royal Challengers Bangalore
+ (Topic: Cricket)
+
+Q.24 In which season of the Ultimate Kho-Kho League tournament was Ramji Kashyap awarded the Player of the Tournament?
+ A. Season 4
+ B. Season 3
+ C. Season 2
+ D. Season 1
+ (Topic: Kho-Kho)
+
+Held on: 12-Nov-2024 | Shift: 1
+
+Q.7 What is a 'double fault' in tennis?
+ A. A serve that hits the net and goes into the correct service box
+ B. A serve that goes out of bounds
+ C. A fault called by the linesman
+ D. Serving two faults in a row
+ (Topic: Tennis)
+
+Q.21 Which state in India hosted the 77th edition of the Santosh Trophy?
+ A. Uttar Pradesh
+ B. Madhya Pradesh
+ C. Himachal Pradesh
+ D. Arunachal Pradesh
+ (Topic: Football / Santosh Trophy)
+
+Held on: 12-Nov-2024 | Shift: 2
+
+Q.3 In which Indian city is the DY Patil Cricket Stadium located?
+ A. Pune
+ B. Nashik
+ C. Navi Mumbai
+ D. Aurangabad
+ (Topic: Cricket Stadiums)
+
+Q.5 In which city was the 141st session of the International Olympic Committee (IOC) inaugurated in India?
+ A. Chennai
+ B. Mumbai
+ C. Prayagraj
+ D. Delhi
+ (Topic: Olympics)
+
+Held on: 12-Nov-2024 | Shift: 3
+
+Q.4 What is the term 'ace' commonly associated within sports?
+ A. A perfect shot in golf
+ B. A high jump technique in athletics
+ C. A fast serve in tennis
+ D. Scoring a goal in soccer
+ (Topic: Tennis)
+
+Q.11 At the ______, Neeraj Chopra became the first Indian to win a gold medal in javelin throw.
+ A. Asian Games, 2022
+ B. Asian Games, 2010
+ C. Asian Games, 2018
+ D. Asian Games, 2014
+ (Topic: Athletics)
+
+Held on: 13-Nov-2024 | Shift: 2
+
+Q.9 Major Dhyan Chand Khel Ratna Award is given for the spectacular and most outstanding performance in the field of sports by a sportsperson over a period of the previous four years. In 2021, the awardee for para shooting was:
+ A. Avani Lekhara
+ B. Anju Bobby George
+ C. Neeraj Chopra
+ D. Chanu Saikhom Mirabai
+ (Topic: Sports Awards)
+
+Q.10 In which year did India host the FIFA U-17 Women's Football World Cup?
+ A. 2022
+ B. 2021
+ C. 2019
+ D. 2020
+ (Topic: Football)
+
+Held on: 13-Nov-2024 | Shift: 3
+
+Q.11 Which of the following Indian cities was the host of the ICC Men's World Cup final cricket match in 2023?
+ A. New Delhi
+ B. Ahmedabad
+ C. Mumbai
+ D. Chennai
+ (Topic: Cricket World Cup)
+
+Q.13 The 9th Asian Games was hosted by which of the following countries?
+ A. China
+ B. South Korea
+ C. Japan
+ D. India
+ (Topic: Asian Games)
+
+Held on: 14-Nov-2024 | Shift: 2
+
+Q.16 From which state in India did the legendary volleyball player Jimmy George hail?
+ A. Kerala
+ B. Telangana
+ C. Maharashtra
+ D. Odisha
+ (Topic: Volleyball)
+
+Q.21 The ______ Polo Club is the home of the Ezra Cup event, the world’s oldest polo tournament, started in 1880.
+ A. Hyderabad
+ B. Calcutta
+ C. Jaipur
+ D. Delhi
+ (Topic: Polo)
+
+Held on: 14-Nov-2024 | Shift: 3
+
+Q.7 Which state hosted the 6th edition of Khelo India Youth Games in 2024?
+ A. Tamil Nadu
+ B. Telangana
+ C. Karnataka
+ D. Kerala
+ (Topic: Khelo India Games)
+
+Q.16 Which of the following was the mascot of the 37th National Games?
+ A. Savaj
+ B. Moga
+ C. Ammu
+ D. Chhaua
+ (Topic: National Games)
+
+                    @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+Held on: 01-Sep-2023 | Shift: 1
+
+Q.1 FIFA U-17 Women's World Cup 2022 matches were NOT held in which state?
+ A. Maharashtra
+ B. Odisha
+ C. Goa
+ D. Gujarat
+ (Topic: Football)
+
+Q.4 In October 2022, Virat Kohli became the first Indian to complete how many runs in T20 cricket history?
+ A. 11000
+ B. 9000
+ C. 5000
+ D. 15000
+ (Topic: Cricket Records)
+
+Q.12 Which of the following is NOT related to the sport of swimming?
+ A. Breaststroke
+ B. Back stroke
+ C. Freestyle
+ D. Penalty Corner
+ (Topic: Swimming)
+
+Held on: 01-Sep-2023 | Shift: 2
+
+Q.4 Which of the following states won the Santosh Trophy in Riyadh in March 2023 after a gap of 54 years?
+ A. Karnataka
+ B. Tamil Nadu
+ C. Maharashtra
+ D. Andhra Pradesh
+ (Topic: Football)
+
+Q.19 Which country is hosting the ICC 2023 ODI Cricket World Cup?
+ A. Pakistan
+ B. South Africa
+ C. India
+ D. Australia
+ (Topic: Cricket)
+
+Q.22 In which stadium was the final match of ODI Cricket World Cup 2011 played?
+ A. Eden Gardens
+ B. Wankhede Stadium
+ C. Feroz Shah Kotla Stadium
+ D. D Y Patil Stadium
+ (Topic: Cricket)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.24 Which of the following institutions bagged the maximum medals at the third edition of Khelo India University Games?
+ A. Panjab University
+ B. University of Kerala
+ C. Guru Nanak Dev University
+ D. Jain University
+ (Topic: Khelo India University Games)
+
+Held on: 01-Sep-2023 | Shift: 3
+
+Q.6 Which of the following States will host the 37th National Games?
+ A. Odisha
+ B. Andhra Pradesh
+ C. Goa
+ D. Karnataka
+ (Topic: National Games)
+
+Q.8 How many countries will participate in ICC 2023 ODI Cricket World Cup?
+ A. 12
+ B. 10
+ C. 6
+ D. 8
+ (Topic: Cricket World Cup)
+
+Q.22 Geto Sora won the Arena Junior (Boys) International Badminton Championship. He belongs to which state?
+ A. Arunachal Pradesh
+ B. Mizoram
+ C. Sikkim
+ D. Meghalaya
+ (Topic: Badminton)
+
+Held on: 04-Sep-2023 | Shift: 2
+
+Q.18 Birsa Munda hockey stadium is one of the India’s largest hockey stadium. In which state is this stadium situated?
+ A. Madhya Pradesh
+ B. Bihar
+ C. Odisha
+ D. Chhattisgarh
+ (Topic: Hockey)
+
+Q.20 Which of the following countries did India defeat to clinch its maiden Women's Junior Hockey Asia Cup title?
+ A. Japan
+ B. Chinese Taipei
+ C. Malaysia
+ D. South Korea
+ (Topic: Hockey)
+
+Q.24 What is the weight of the ball in handball for men?
+ A. 425 to 475 gm
+ B. 325 to 375 gm
+ C. 525 to 575 gm
+ D. 225 to 275 gm
+ (Topic: Handball)
+
+Held on: 04-Sep-2023 | Shift: 3
+
+Q.9 How many gold medals did India win at the ISSF Junior World Cup 2023?
+ A. 7
+ B. 8
+ C. 5
+ D. 6
+ (Topic: Shooting)
+
+Q.13 Which of the following is an autobiography of the famous cricketer Sourav Ganguly?
+ A. A Shot at History
+ B. The Dream of Revolution
+ C. A Century is not enough
+ D. Memories of My Life and Times
+ (Topic: Cricket)
+
+Q.21 Narendra Modi Cricket Stadium is one of the premier stadiums in India located at ________.
+ A. Ahmedabad
+ B. New Delhi
+ C. Baroda
+ D. Surat
+ (Topic: Cricket Stadiums)
+
+Q.24 Team Rest of India won Irani Cup in 2023. Irani Cup was hosted in which state?
+ A. Madhya Pradesh
+ B. West Bengal
+ C. Bihar
+ D. Uttar Pradesh
+ (Topic: Cricket)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.2 In which of the folowing States was the third edition of Khelo India University Games held?
+ A. Jharkhand
+ B. Uttar Pradesh
+ C. New Delhi
+ D. Punjab
+ (Topic: Khelo India University Games)
+
+Q.3 Which country did India beat in the final to win the 2023 Intercontinental Cp Football championship?
+ A. Thailand
+ B. Lebanon
+ C. Mongolia
+ D. Vanuatu
+ (Topic: Football)
+
+Q.7 Devendra Jhajharia won which medal/place in World Para Athletics Grand Prix? A. Bronze
+ B. Gold
+ C. Silver
+ D. Fourth
+ (Topic: Para Athletics)
+
+Held on: 05-Sep-2023 | Shift: 3
+
+Q.3 Which of the following autobiographies is NOT correctly matched with the concerned cricketer?
+ A. Playing it My Way – VVS Laxman
+ B. The Test of My Life: From Cricket to Cancer and Back – Yuvraj Singh
+ C. Straight from the Heart – Kapil Dev
+ D. Cricket Delightful – Mushtaq Ali
+ (Topic: Cricket)
+
+Q.5 Where was the 13th Hockey India senior women’s national hockey championship held?
+ A. Andhra Pradesh
+ B. New Delhi
+ C. Punjab
+ D. Karnataka
+ (Topic: Hockey)
+
+Q.17 In which year did Pakistan win the Kabaddi (Circle style) World Cup?
+ A. 2016
+ B. 2014
+ C. 2020
+ D. 2013
+ (Topic: Kabaddi)
+
+Held on: 06-Sep-2023 | Shift: 2
+
+Q.1 Who inaugurated the 2023 World Squash Championships that was held in India?
+ A. KN Nehru
+ B. K Ponmudi
+ C. EV Velu
+ D. Udhayanidhi Stalin
+ (Topic: Squash)
+
+Q.8 Women's World Boxing Championship 2023 was held in which city in India?
+ A. Goa
+ B. Punjab
+ C. New Delhi
+ D. Gujarat
+ (Topic: Boxing)
+
+Q.23 The former captain of the Indian women’s hockey team ______ was conferred with the BBC Lifetime Achievement Award for her contribution to Indian sports and inspiring generations of players.
+ A. Rani Rampal
+ B. Vandana Katariya
+ C. Savita Punia
+ D. Pritam Siwach
+ (Topic: Hockey)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.1 Which of the following countries did India beat to win the Men's Hockey Junior Asia Cup 2023?
+ A. South Korea
+ B. Thailand
+ C. Pakistan
+ D. Japan
+ (Topic: Hockey)
+
+Q.7 When was the Asian Games organised in India for the second time?
+ A. 1994
+ B. 1986
+ C. 1982
+ D. 1998
+ (Topic: Asian Games)
+
+Q.23 The former captain of the Indian women’s hockey team ______ was conferred with the BBC Lifetime Achievement Award for her contribution to Indian sports and inspiring generations of players.
+ A. Rani Rampal
+ B. Vandana Katariya
+ C. Savita Punia
+ D. Pritam Siwach
+ (Topic: Hockey)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.7 When was the Asian Games organised in India for the second time?
+ A. 1994
+ B. 1986
+ C. 1982
+ D. 1998
+ (Topic: Asian Games)
+
+Q.21 Rohit Sharma became the first ever Indian to play how many T20 cricket matches in October 2022?
+ A. 300
+ B. 100
+ C. 200
+ D. 400
+ (Topic: Cricket)
+
+Held on: 08-Sep-2023 | Shift: 2
+
+Q.10 In which event at the 2023 ISSF Junior World Cup Championships did Amanpreet Singh win a gold medal for India?
+ A. Men’s 10 m air rifle
+ B. Men’s 10 m air pistol team
+ C. Men’s 25 m pistol
+ D. Men’s 25 m rapid fire pistol
+ (Topic: Shooting)
+
+Q.11 In which of the following States was the 2023 World Squash Championship held?
+ A. Kerala
+ B. Tamil Nadu
+ C. Odisha
+ D. Karnataka
+ (Topic: Squash)
+
+Q.12 Mumtaz Khan was named ‘FIH Women’s Rising Star of the Year’ in 2022. She plays which of the following sports?
+ A. Hockey
+ B. Fencing
+ C. Football
+ D. High Jump
+ (Topic: Hockey)
+
+Held on: 08-Sep-2023 | Shift: 3
+
+Q.2 In 1951, the first Asian Games was held in which city?
+ A. Jaipur
+ B. Pune
+ C. Mumbai
+ D. New Delhi
+ (Topic: Asian Games)
+
+Q.10 In which event at the 2023 ISSF Junior World Cup Championships did Amanpreet Singh win a gold medal for India?
+ A. Men’s 10 m air rifle
+ B. Men’s 10 m air pistol team
+ C. Men’s 25 m pistol
+ D. Men’s 25 m rapid fire pistol
+ (Topic: Shooting)
+
+Q.11 In which of the following States was the 2023 World Squash Championship held?
+ A. Kerala
+ B. Tamil Nadu
+ C. Odisha
+ D. Karnataka
+ (Topic: Squash)
+
+Q.12 Mumtaz Khan was named ‘FIH Women’s Rising Star of the Year’ in 2022. She plays which of the following sports?
+ A. Hockey
+ B. Fencing
+ C. Football
+ D. High Jump
+ (Topic: Hockey)
+
+Held on: 06-Sep-2023 | Shift: 3
+
+Q.1 Which of the following countries did India beat to win the Men's Hockey Junior Asia Cup 2023?
+ A. South Korea
+ B. Thailand
+ C. Pakistan
+ D. Japan
+ (Topic: Hockey)
+
+Q.7 When was the Asian Games organised in India for the second time?
+ A. 1994
+ B. 1986
+ C. 1982
+ D. 1998
+ (Topic: Asian Games)
+
+Q.23 The former captain of the Indian women’s hockey team ______ was conferred with the BBC Lifetime Achievement Award for her contribution to Indian sports and inspiring generations of players.
+ A. Rani Rampal
+ B. Vandana Katariya
+ C. Savita Punia
+ D. Pritam Siwach
+ (Topic: Hockey)
+
+
+Held on: 11-Sep-2023 | Shift: 2
+
+Q.7 In which of the following States was the first Janjatiya Khel Mahotsav held?
+ A. Odisha
+ B. Chhattisgarh
+ C. Jharkhand
+ D. Andhra Pradesh
+ (Topic: Tribal Sports Events)
+
+Q.17 The second edition of Khelo India Youth Games, 2019 was organised in which city?
+ A. Pune
+ B. Guwahati
+ C. New Delhi
+ D. Mumbai
+ (Topic: Khelo India Games)
+
+Q.18 In April 2023, Satwiksairaj Rankireddy and Chirag Shetty made history, becoming the first Indian men’s doubles pair to win a gold medal at the Badminton Asia Championships. Where was this championship held?
+ A. Singapore
+ B. Dubai
+ C. Qatar
+ D. Malaysia
+ (Topic: Badminton)
+
+Held on: 11-Sep-2023 | Shift: 1
+
+Q.22 India played in the finals of the 2023 World Test Championship against Australia. Where was this match conducted?
+ A. Dubai
+ B. London
+ C. Kolkata
+ D. Sydney
+ (Topic: Cricket)
+
+Q.23 D Gukesh was awarded player of the year award in March 2023. He plays which sport?
+ A. Snooker
+ B. Boxing
+ C. Badminton
+ D. Chess
+ (Topic: Chess)
+
+Held on: 11-Sep-2023 | Shift: 3
+
+Q.12 Which state hosted the 36th National Games of India?
+ A. Maharashtra
+ B. Karnataka
+ C. Gujarat
+ D. Punjab
+
+(Topic: National Games)
+
+Q.22 India played in the finals of the 2023 World Test Championship against Australia. Where was this match conducted?
+ A. Dubai
+ B. London
+ C. Kolkata
+ D. Sydney
+
+(Topic: Cricket)
+
+Held on: 12-Sep-2023 | Shift: 2
+
+Q.12 Which state hosted the 36th National Games of India?
+ A. Maharashtra
+ B. Karnataka
+ C. Gujarat
+ D. Punjab
+
+(Topic: National Games)
+
+Q.14 Tamil Nadu’s __________ marked a national record in men’s long jump in the second AFI National Jumps Competition in March 2023.
+ A. Suresh Babu
+ B. Anees Yahiya
+ C. Murali Sreeshankar
+ D. Jeswin Aldrin
+
+(Topic: Athletics)
+
+Q.25 Renowned __________ folk dance artist Domar Singh Kunwar, who has dedicated his life to preserving the tradition of the dance for over five decades, was awarded the Padma Shri 2023.
+ A. Pandwani
+ B. Raut Nacha
+ C. Natya Nacha
+ D. Soowa
+
+(Topic: Folk Sports & Culture)
+
+Held on: 12-Sep-2023 | Shift: 3
+
+Q.22 Manika Batra won bronze medal in Asian Cup tournament. She is related to which sport?
+ A. Judo
+ B. Chess
+ C. Table Tennis
+ D. Gymnastic
+
+(Topic: Table Tennis)
+
+Q.24 FIFA U-17 Women's World Cup 2022 final was held in which city?
+ A. Margao
+ B. Navi Mumbai
+ C. Bhubaneswar
+ D. Ahmedabad
+
+(Topic: Football)
+
+Held on: 13-Sep-2023 | Shift: 1
+
+Q.14 The Men's Junior Hockey Asia Cup 2023, which was won by India, was held at __________.
+ A. Saudi Arabia
+ B. Oman
+ C. Dubai
+ D. Qatar
+ (Topic: Hockey)
+
+Q.16 Which of the following countries did India beat in the final to win the 2021 SAFF Championship?
+ A. Nepal
+ B. Lebanon
+ C. Maldives
+ D. Kuwait
+ (Topic: Football)
+
+Q.17 Vinesh Phogat became the first Indian woman wrestler to win how many medals at World Championships?
+ A. 6
+ B. 5
+ C. 2
+ D. 3
+ (Topic: Wrestling)
+
+Held on: 13-Sep-2023 | Shift: 2
+
+Q.2 Which of the following terms best describes the average number of runs a batter makes per 100 deliveries in cricket?
+ A. Economy rate
+ B. Batting average
+ C. Strike rate
+ D. Batting rate
+ (Topic: Cricket)
+
+Q.3 Yuki Bhambri and Saketh Myneni won the Bangkok Open Challenger title 2023. They are related to which sport?
+ A. Badminton
+ B. Squash
+ C. Tennis
+ D. Table Tennis
+ (Topic: Tennis)
+
+Q.10 FIH Men's Hockey World Cup 2023 was held in which Indian state/UT?
+ A. Maharashtra
+ B. New Delhi
+ C. Odisha
+ D. Gujarat
+ (Topic: Hockey)
+
+Held on: 13-Sep-2023 | Shift: 3
+
+Q.9 India played the final of ODI Cricket World Cup 2011 against which country?
+ A. Australia
+ B. Sri Lanka
+ C. England
+ D. Pakistan
+ (Topic: Cricket)
+
+Q.17 Ruturaj Gaikwad became the first batsman in List-A cricket to hit how many sixes in an over?
+ A. 4
+ B. 5
+ C. 6
+ D. 7
+ (Topic: Cricket)
+
+Q.24 Which of the following States became the overall champions in both the men’s and women’s categories in the 2023 Janjatiya Khel Mahotsav?
+ A. Chhattisgarh
+ B. Karnataka
+ C. Jharkhand
+ D. Odisha
+ (Topic: Sports Events)
+
+Held on: 14-Sep-2023 | Shift: 1
+
+Q.9 In Fencing, a contest between the two fencers is known as:
+ A. bout
+ B. remise
+ C. parry
+ D. riposte
+ (Topic: Fencing)
+
+Q.10 In which year has the Government of India instituted Arjuna Award to recognise outstanding achievement in national sports events?
+ A. 1961
+ B. 1963
+ C. 1964
+ D. 1962
+ (Topic: Arjuna Award)
+
+Q.12 PT Usha was elected as the president of which association in December 2022?
+ A. Indian Olympic Association
+ B. Haryana Olympic Association
+ C. National Rifle Association of India
+ D. Badminton Association of India
+ (Topic: Olympics & Sports Administration)
+
+Held on: 14-Sep-2023 | Shift: 2
+
+Q.9 In Fencing, a contest between the two fencers is known as:
+ A. bout
+ B. remise
+ C. parry
+ D. riposte
+ (Topic: Fencing)
+
+Q.12 PT Usha was elected as the president of which association in December 2022?
+ A. Indian Olympic Association
+ B. Haryana Olympic Association
+ C. National Rifle Association of India
+ D. Badminton Association of India
+ (Topic: Sports Administration)
+
+Q.20 In which of the following cities was the final match of the 2022 Vijay Hazare Trophy held?
+ A. Ahmedabad
+ B. Raipur
+ C. Lucknow
+ D. Ranchi
+ (Topic: Cricket)
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.8 In 2023, a three-day All-India Taekwondo Championship was organized in __________ to mark 50 years of Korea-India diplomatic relations.
+ A. Kolkata
+ B. Bengaluru
+ C. Mizoram
+ D. New Delhi
+ (Topic: Taekwondo)
+
+Q.20 In which of the following cities was the final match of the 2022 Vijay Hazare Trophy held?
+ A. Ahmedabad
+ B. Raipur
+ C. Lucknow
+ D. Ranchi
+ (Topic: Cricket)
+
+Q.22 Aman Sehrawat became the first Indian to win a gold medal in World Wrestling Championship in which category?
+ A. U-15
+ B. U-20
+ C. U-23
+ D. U-25
+ (Topic: Wrestling)
+
+              @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 14-Sep-2023 | Shift: 3
+
+Q.12 ‘Magnus Carlsen’ is associated with which of the following games?
+ A. Boxing
+ B. Golf
+ C. Chess
+ D. Table Tennis
+ (Topic: Chess)
+
+Q.14 Which country hosted the 1982 edition of the Asian Games?
+ A. India
+ B. China
+ C. Qatar
+ D. Pakistan
+ (Topic: Asian Games)
+
+Held on: 05-Jul-2022 | Shift: 1
+
+Q.1 Which of the following states of India will host the 2023 Men's Hockey World Cup?
+ A. Maharashtra
+ B. Odisha
+ C. Karnataka
+ D. Uttar Pradesh
+ (Topic: Hockey)
+
+Q.7 Which country won the 2018 FIH Men’s Hockey World Cup?
+ A. Belgium
+ B. Australia
+ C. The Netherlands
+ D. Spain
+ (Topic: Hockey)
+
+Held on: 05-Jul-2022 | Shift: 3
+
+Q.4 Which of the following teams scored the highest runs in an innings in IPL till 2021?
+ A. Chennai Super Kings
+ B. Mumbai Indians
+ C. Kolkata Knight Riders
+ D. Royal Challengers Bangalore
+ (Topic: Cricket)
+
+Q.5 Which Indian boxer won a bronze medal in the middleweight division in boxing at the 2008 Beijing Olympics?
+ A. Vijender Singh
+ B. Mary Kom
+ C. Akhil Kumar
+ D. Jitender Kumar
+ (Topic: Boxing)
+
+Held on: 06-Jul-2022 | Shift: 1
+
+Q.2 Which country will host the FIFA World Cup 2022?
+ A. China
+ B. South Africa
+ C. Qatar
+ D. England
+ (Topic: Football)
+
+Q.5 Who won a gold medal for India in the javelin throw event at Tokyo Olympics 2020?
+ A. Sumit Antil
+ B. Shivpal Singh
+ C. Neeraj Chopra
+ D. Ajeet Singh Yadav
+ (Topic: Olympics)
+
+Q.18 Which countries hosted the matches played in the 2021 ICC Men's T20 World Cup?
+ A. Egypt and Ethiopia
+ B. India and Bangladesh
+ C. United Arab Emirates and Oman
+ D. Bangladesh and Sri Lanka
+ (Topic: Cricket)
+
+Held on: 06-Jul-2022 | Shift: 2
+
+Q.2 Which team lost to Hyderabad FC in the finals of ISL 2021-22?
+ A. Jamshedpur FC
+ B. Kerala Blasters FC
+ C. ATK Mohun Bagan
+ D. FC Goa
+ (Topic: Football)
+
+Q.9 Which team won the Vijay Hazare Trophy 2021-22?
+ A. Tamil Nadu
+ B. Services
+ C. Uttar Pradesh
+ D. Himachal Pradesh
+ (Topic: Cricket)
+
+Held on: 06-Jul-2022 | Shift: 3
+
+Q.2 Which team lost to Hyderabad FC in the finals of ISL 2021-22?
+ A. Jamshedpur FC
+ B. Kerala Blasters FC
+ C. ATK Mohun Bagan
+ D. FC Goa
+ (Topic: Football)
+
+Q.9 Which team won the Vijay Hazare Trophy 2021-22?
+ A. Tamil Nadu
+ B. Services
+ C. Uttar Pradesh
+ D. Himachal Pradesh
+ (Topic: Cricket)
+
+Q.14 Who among the following won a bronze medal in the Summer Olympics 2020 (played in 2021)?
+ A. Ravi Dahiya
+ B. Neeraj Chopra
+ C. PV Sindhu
+ D. Mirabai Chanu
+ (Topic: Olympics)
+
+Held on: 07-Jul-2022 | Shift: 2
+
+Q.10 Which player won the Man of the Series award for cricket test series on the Sri Lanka tour of India, 2022?
+ A. KL Rahul
+ B. Rishabh Pant
+ C. Shreyas Iyer
+ D. Rohit Sharma
+ (Topic: Cricket)
+
+Q.23 If a batsman hits a ball twice other than for the purpose of protecting his wicket or with consent from the opposition then:
+ A. the batsman is given a warning
+ B. the ball is declared dead
+ C. he is out
+ D. a bye of five runs is declared
+ (Topic: Cricket Rules)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.1 With which of the following sports is Aditi Ashok associated?
+ A. Tennis
+ B. Shooting
+ C. Chess
+ D. Golf
+ (Topic: Golf)
+
+Q.10 Which player won the Man of the Series award for cricket test series on the Sri Lanka tour of India, 2022?
+ A. KL Rahul
+ B. Rishabh Pant
+ C. Shreyas Iyer
+ D. Rohit Sharma
+ (Topic: Cricket)
+
+Held on: 08-Jul-2022 | Shift: 1
+
+Q.1 With which of the following sports is Aditi Ashok associated?
+ A. Tennis
+ B. Shooting
+ C. Chess
+ D. Golf
+ (Topic: Golf)
+
+Q.6 __________ is a popular game in Assam and resembles kabaddi played with a ball.
+ A. Field Hockey
+ B. Kho-Kho
+ C. Cricket
+ D. Dhopkhel
+ (Topic: Traditional Sports)
+
+Q.15 Who will co-host the ICC Men’s T20 World Cup 2024?
+ A. Australia
+ B. The United Kingdom
+ C. The United States of America (USA)
+ D. Sri Lanka
+ (Topic: Cricket)
+
+Held on: 08-Jul-2022 | Shift: 3
+
+Q.2 __________ is an Indian sport in which a ‘raider’ enters the opposite team’s half to tag opponents, without taking a breath.
+ A. Kho-Kho
+ B. Kabaddi
+ C. Mallakhamb
+ D. Throwball
+ (Topic: Kabaddi)
+
+Q.15 Who will co-host the ICC Men’s T20 World Cup 2024?
+ A. Australia
+ B. The United Kingdom
+ C. The United States of America (USA)
+ D. Sri Lanka
+ (Topic: Cricket)
+
+Q.17 New Zealand defeated India in the finals of the inaugural World Test Championship in June 2021. Which country hosted this match?
+ A. South Africa
+ B. England
+ C. Australia
+ D. New Zealand
+ (Topic: Cricket)
+
+Held on: 07-Jul-2022 | Shift: 3
+
+Q.2 ______ is an Indian sport in which a ‘raider’ enters the opposite team’s half to tag opponents, without taking a breath.
+ A. Kho-Kho
+ B. Kabaddi
+ C. Mallakhamb
+ D. Throwball
+ (Topic: Kabaddi)
+
+Q.17 New Zealand defeated India in the finals of the inaugural World Test Championship in June 2021. Which country hosted this match?
+ A. South Africa
+ B. England
+ C. Australia
+ D. New Zealand
+ (Topic: Cricket)
+
+Q.19 In which of the following events did India win a gold medal in the Summer Olympics 2020 (played in 2021)?
+ A. Javelin Throw
+ B. Wrestling
+ C. Weightlifting
+ D. Badminton
+ (Topic: Olympics)
+
+Held on: 11-Jul-2022 | Shift: 1
+
+Q.17 What is the total duration of a hockey match as of April 2022?
+ A. 60 minutes
+ B. 70 minutes
+ C. 80 minutes
+ D. 50 minutes
+ (Topic: Hockey)
+
+Q.21 Who won the Arjuna Award for Para Swimming at the National Sports Awards, 2020?
+ A. Gaurav Khanna
+ B. Mariyappan T
+ C. Suyash Jadhav
+ D. Vijay Munishwar
+ (Topic: Sports Awards)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.18 Who is known as the 'Wizard of Hockey'?
+ A. Balbir Singh
+ B. Dhanraj Pillay
+ C. Mohammed Shahid
+ D. Major Dhyan Chand
+ (Topic: Hockey)
+
+Q.21 Who won the Arjuna Award for Para Swimming at the National Sports Awards, 2020?
+ A. Gaurav Khanna
+ B. Mariyappan T
+ C. Suyash Jadhav
+ D. Vijay Munishwar
+ (Topic: Para Sports)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.136 Varun Singh Bhati who won bronze at 2016 Rio Paralympics Games is associated with which sports?
+ A. Badminton
+ B. Shot Put
+ C. High Jump
+ D. Javelin Throw
+ (Topic: Paralympics)
