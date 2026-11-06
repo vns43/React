@@ -1,0 +1,151 @@
+Q.54 The main objective of the Integrated Guided Missile Development Programme (IGMDP) was to
+ A. develop indigenous missile systems
+ B. build nuclear submarines
+ C. establish satellite launch stations
+ D. develop fighter aircraft
+ (Topic: Defence Technology / Missile Programme)
+
+Held on: 05-Feb-2026 | Shift: 1
+
+Held on: 13-Feb-2026 | Shift: 1
+
+Q.48 The Indian Institute of Space Science and Technology was founded in which of the following year?
+ A. 1972
+ B. 1995
+ C. 2007
+ D. 2014
+ (Topic: Indian Space Programme)
+
+Held on: 12-Feb-2026 | Shift: 3
+
+Q.58 The Navigation with Indian Constellation (NavIC) coverage area includes India and a region up to _____ km beyond the Indian boundary.
+ A. 1500
+ B. 4000
+ C. 6500
+ D. 7000
+ (Topic: NavIC)
+
+Held on: 12-Feb-2026 | Shift: 2
+
+Q.88 What is ‘GPS spoofing’, that was reported near India’s borders with Pakistan and Myanmar in late 2024?
+ A. A method to improve GPS accuracy
+ B. A procedure to block internet signals
+ C. A satellite repair technique
+ D. A cyber-attack involving false GPS signals to mislead navigation equipment
+ (Topic: Cyber Security & Navigation Systems)
+
+Held on: 12-Feb-2026 | Shift: 1
+
+Q.68 "Vikram-S" India's first ever private launch vehicle has been developed by _____.
+ A. Skyroot Aerospace
+ B. Agnikul Cosmos
+ C. Bellatrix Aerospace
+ D. Pixxel
+ (Topic: Indian Space Programme)
+
+Q.69 The successful test of the indigenously developed ‘VLSRSAM’ by DRDO and the Indian Navy in March 2025 was conducted off the coast of which state?
+ A. Odisha
+ B. Gujarat
+ C. Kerala
+ D. Tamil Nadu
+ (Topic: Defence Technology)
+
+Q.90 In the context of Chandrayaan-III mission, the ILSA payload was used to _____.
+ A. detect moonquakes
+ B. study Earth's spectral and polarimetric properties from lunar orbit
+ C. measure thermal conductivity from lunar surface
+ D. study the plasma density on lunar surface
+ (Topic: Chandrayaan-III Mission)
+
+Held on: 11-Feb-2026 | Shift: 3
+
+Q.68 In June 2025, Startup Accelerator Platform ‘WaveX’ invited startups to develop an AI-powered real-time multilingual translation solution named _____.
+ A. ShabdSetu
+ B. VaniSetu
+ C. BhashaSetu
+ D. AnuvaadSetu
+ (Topic: Artificial Intelligence)
+
+Q.75 The National Space Day of India is celebrated every year on August 23 to commemorate the _____.
+ A. successful soft-landing of the Vikram lander on the south pole of the moon
+ B. establishment of ISRO
+ C. successful launch of first satellite of India
+ D. successful launch of India's first interplanetary mission
+ (Topic: Chandrayaan-3)
+
+Q.70 Who was India’s first female Merchant Navy Captain?
+ A. Radhika Menon
+ B. Sheetal Devi
+ C. Aditi Pant
+ D. Reshma Nilofer Naha
+ (Topic: Maritime Affairs)
+
+Held on: 09-Oct-2024 | Shift: 2
+
+Q.7 When was the National Digital Communications Policy launched in India?
+ A. 2018
+ B. 2020
+ C. 2016
+ D. 2015
+ (Topic: Digital Communications Policy)
+
+Q.19 In December 2022, the Parliament passed the Energy Conservation (Amendment) Bill, 2022. This bill aims to make use of _____.
+ A. subsidy on petrol vehicles
+ B. electric vehicles
+ C. tungsten filament bulbs in houses
+ D. non-fossil fuels
+ (Topic: Energy Conservation & Technology)
+
+Held on: 17-Oct-2024 | Shift: 2
+
+Q.18 What is the full form of INSAT?
+ A. Indian Navigational Satellite System
+ B. International Navigation Satellite System
+ C. Indian National Standard System
+ D. Indian National Satellite System
+ (Topic: Indian Space Programme)
+
+Held on: 13-Nov-2024 | Shift: 3
+
+Q.21 Which of the following organisations in India provides facilities for acquisition of satellite data and its processing?
+ A. Indian Institute of Remote Sensing (IIRS)
+ B. Forest Research Institute (FRI)
+ C. National Remote Sensing Centre (NRSC)
+ D. Wildlife Institute of India (WII)
+ (Topic: Remote Sensing & Space Applications)
+
+                  @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+Held on: 11-Jul-2022 | Shift: 1
+
+Q.5 What is the full form of LED?
+ A. Linear Emergency Device
+ B. Light Emitting Diode
+ C. Liquid Emitting Display
+ D. Light Emitting Device
+ (Topic: Electronics)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.5 What is the full form of LED?
+ A. Linear Emergency Device
+ B. Light Emitting Diode
+ C. Liquid Emitting Display
+ D. Light Emitting Device
+ (Topic: Electronics)
+
+Held on: 27-Oct-2021 | Shift: 1
+
+Q.110 Which memory is both static and non-volatile?
+ A. RAM
+ B. CACHE
+ C. ROM
+ D. BIOS
+ (Topic: Computer Memory)
+
+Q.130 A system program designed to aid the programmer in finding and correcting errors or bugs is known as:
+ A. Debugger
+ B. Evaluator
+ C. Corrector
+ D. Quarantiner
+ (Topic: Computer Fundamentals)
